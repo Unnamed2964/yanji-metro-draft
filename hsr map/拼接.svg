@@ -24,7 +24,7 @@
   </g>
   <g
      id="line_rFq5wBN6Jb"
-     transform="rotate(30,605.99681,-58.132587)">
+     transform="rotate(30,605.99681,-58.132582)">
     <path
        d="m 523.53,279.97 h 93.53113"
        fill="none"
@@ -35,7 +35,7 @@
   </g>
   <g
      id="line_5YqSlaiPAW"
-     transform="rotate(30,605.99681,-58.132587)">
+     transform="rotate(30,605.99681,-58.132582)">
     <path
        d="m 423.53,279.97 h 100"
        fill="none"
@@ -79,7 +79,7 @@
   </g>
   <g
      id="line_ieoQ92BXNt"
-     transform="rotate(30,605.99681,-58.132587)">
+     transform="rotate(30,605.99681,-58.132582)">
     <path
        d="m 423.53,279.97 h -89.64 c -5,0 -10.18,-0.18 -10.36,-0.36 v 0"
        fill="none"
@@ -324,102 +324,6 @@
     </g>
   </g>
   <g
-     id="stn_iz_TyuohSP"
-     transform="translate(210.6721,292.76767)">
-    <g
-       id="g83">
-      <g
-         transform="rotate(90)"
-         id="g80">
-        <rect
-           id="stn_core_stn_iz_TyuohSP"
-           x="-2"
-           y="-7.8299999"
-           width="4"
-           height="7.8299999"
-           stroke="none"
-           fill="#e999c0" />
-      </g>
-      <g
-         id="stn_name_stn_iz_TyuohSP"
-         transform="translate(12)"
-         text-anchor="start"
-         stroke-width="2.5"
-         paint-order="stroke"
-         stroke="#ffffff"
-         stroke-linejoin="round">
-        <g
-           id="g81">
-          <text
-             dy="-1"
-             dx="0"
-             dominant-baseline="auto"
-             font-size="12.67px"
-             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             id="text80">永庆站</text>
-        </g>
-        <g
-           id="g82">
-          <text
-             dy="1.5"
-             dx="1.67"
-             dominant-baseline="hanging"
-             font-size="6.67px"
-             font-family="Arial, sans-serif"
-             id="text81">Yongqing Station</text>
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     transform="rotate(150,118.74403,202.50303)"
-     id="g92">
-    <rect
-       id="stn_core_stn_MDtEak3Vq8"
-       x="-2"
-       y="-7.8299999"
-       width="4"
-       height="7.8299999"
-       stroke="none"
-       fill="#87caed" />
-  </g>
-  <g
-     id="stn_name_stn_Bqb9PaHCH_"
-     transform="translate(336.1609,337.00375)"
-     text-anchor="start"
-     stroke-width="2.5"
-     paint-order="stroke"
-     stroke="#ffffff"
-     stroke-linejoin="round">
-    <g
-       id="g106">
-      <text
-         dy="-1"
-         dx="0"
-         dominant-baseline="auto"
-         font-size="12.67px"
-         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text105">和龙西站</text>
-    </g>
-    <g
-       id="g107">
-      <text
-         dy="1.5"
-         dx="1.67"
-         dominant-baseline="hanging"
-         font-size="6.67px"
-         font-family="Arial, sans-serif"
-         id="text106">Helong West</text>
-      <text
-         dy="8.1700001"
-         dx="1.67"
-         dominant-baseline="hanging"
-         font-size="6.67px"
-         font-family="Arial, sans-serif"
-         id="text107">Railway Station</text>
-    </g>
-  </g>
-  <g
      id="line_uKwltnpwiJ"
      transform="rotate(30,725.40163,170.92112)">
     <path
@@ -432,7 +336,7 @@
   </g>
   <g
      id="line_cdaYA6RWH9"
-     transform="rotate(-30,77.458421,488.61033)">
+     transform="rotate(-30,77.458422,488.61033)">
     <path
        d="M 225.01,458.13 H 145.29"
        fill="none"
@@ -548,7 +452,7 @@
        fill="#ffffff" />
   </g>
   <g
-     transform="rotate(120,66.867195,103.57765)"
+     transform="rotate(120,66.867196,103.57765)"
      id="g54">
     <rect
        id="stn_core_stn_BjS36MigXn"
@@ -631,7 +535,7 @@
   </g>
   <g
      id="line_9WCTQRlBMg"
-     transform="rotate(30,1160.3271,37.069893)">
+     transform="rotate(30,1160.3271,37.069898)">
     <path
        d="m 923.53,470.12 -93.53113,-0.005"
        fill="none"
@@ -642,7 +546,7 @@
   </g>
   <g
      id="line_sLx76XPJAw"
-     transform="rotate(30,1160.3271,37.069893)">
+     transform="rotate(30,1160.3271,37.069898)">
     <path
        d="m 923.53,470.12 h 117.43 c 5,0 10.13,-0.13 10.26,-0.26 v 0"
        fill="none"
@@ -740,7 +644,7 @@
      id="line_oU5AdKaYQB-8"
      transform="rotate(45,1358.0431,838.04706)">
     <path
-       d="m 319.928842,1130.11 h 35.941158"
+       d="M 319.92884,1130.11 H 355.87"
        fill="none"
        stroke="#98d1c0"
        stroke-width="5"
@@ -772,7 +676,7 @@
        id="path17-5" />
   </g>
   <g
-     transform="rotate(-135,291.01201,76.238244)"
+     transform="rotate(-135,291.01201,76.238243)"
      id="g144">
     <rect
        id="stn_core_stn_cF4jXZzcH2-6"
@@ -784,7 +688,7 @@
        fill="#98d1c0" />
   </g>
   <g
-     transform="rotate(-135,329.89201,92.342867)"
+     transform="rotate(-135,329.89201,92.342866)"
      id="g148">
     <rect
        id="stn_core_stn_2Gp-P_gz-h-5"
@@ -1211,7 +1115,7 @@
      id="line_1YQ8t1Aup1"
      transform="rotate(-30,-734.54648,812.3854)">
     <path
-       d="M 540.67,923.36 H 537.382586 c -15.731322,0 -27.391078,15.19529 -23.319512,30.39058"
+       d="m 540.67,923.36 h -3.28741 c -15.73133,0 -27.39108,15.19529 -23.31952,30.39058"
        fill="none"
        stroke="#98d1c0"
        stroke-width="5"
@@ -1219,7 +1123,7 @@
        id="path40" />
   </g>
   <g
-     transform="rotate(60,-19.437094,499.44176)"
+     transform="rotate(60,-19.437093,499.44176)"
      id="g98">
     <rect
        id="stn_core_stn_s47bWmy3jf-1"
@@ -1323,6 +1227,102 @@
          font-size="6.67px"
          font-family="Arial, sans-serif"
          id="text201-3">Railway Station</text>
+    </g>
+  </g>
+  <g
+     id="g102"
+     transform="rotate(-30,755.7516,-443.15875)">
+    <rect
+       id="stn_core_stn_MDtEak3Vq8-2"
+       x="-2"
+       y="-7.8299999"
+       width="4"
+       height="7.8299999"
+       stroke="none"
+       fill="#87caed" />
+  </g>
+  <g
+     id="stn_name_stn_Bqb9PaHCH_-3"
+     transform="translate(309.50089,295.16379)"
+     text-anchor="end"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g113">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text112">和龙西站</text>
+    </g>
+    <g
+       id="g114">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text113">Helong West</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text114">Railway Station</text>
+    </g>
+  </g>
+  <g
+     id="stn_iz_TyuohSP-1"
+     transform="translate(210.6721,292.76767)">
+    <g
+       id="g93">
+      <g
+         transform="rotate(-90)"
+         id="g90">
+        <rect
+           id="stn_core_stn_iz_TyuohSP-8"
+           x="-2"
+           y="-7.8299999"
+           width="4"
+           height="7.8299999"
+           stroke="none"
+           fill="#e999c0" />
+      </g>
+      <g
+         id="stn_name_stn_iz_TyuohSP-9"
+         transform="translate(-12)"
+         text-anchor="end"
+         stroke-width="2.5"
+         paint-order="stroke"
+         stroke="#ffffff"
+         stroke-linejoin="round">
+        <g
+           id="g91">
+          <text
+             dy="-1"
+             dx="0"
+             dominant-baseline="auto"
+             font-size="12.67px"
+             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+             id="text90">永庆站</text>
+        </g>
+        <g
+           id="g92">
+          <text
+             dy="1.5"
+             dx="0"
+             dominant-baseline="hanging"
+             font-size="6.67px"
+             font-family="Arial, sans-serif"
+             id="text91">Yongqing Station</text>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
