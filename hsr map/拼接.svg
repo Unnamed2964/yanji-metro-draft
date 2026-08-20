@@ -321,15 +321,16 @@
        id="path20-4" />
   </g>
   <g
-     id="line_cdaYA6RWH9"
+     id="line_cdaYA6RWH9-4"
      transform="rotate(-30,83.387053,488.07306)">
     <path
        d="M 225.01,458.13 H 145.29"
        fill="none"
-       stroke="#944d9a"
+       stroke="#e999c0"
        stroke-width="5"
        stroke-linecap="round"
-       id="path21-5" />
+       cursor="pointer"
+       id="path19" />
   </g>
   <g
      id="line_9WCTQRlBMg"
@@ -975,7 +976,7 @@
   </g>
   <g
      id="stn_name_stn_ZJRDZ6jQzU"
-     transform="matrix(0.99999741,0,0,0.99999741,541.55631,535.03917)"
+     transform="matrix(0.99999741,0,0,0.99999741,547.55631,529.03917)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1426,20 +1427,6 @@
        fill="#ffffff" />
   </g>
   <g
-     transform="rotate(120,69.063623,101.00068)"
-     id="g54">
-    <rect
-       id="stn_core_stn_BjS36MigXn"
-       x="-10"
-       y="-5"
-       height="10"
-       width="20"
-       ry="5"
-       stroke="#393332"
-       stroke-width="1"
-       fill="#ffffff" />
-  </g>
-  <g
      id="line_j9qqTBGnAY"
      transform="translate(-165.04717,-235.18197)">
     <path
@@ -1591,6 +1578,174 @@
          font-family="Arial, sans-serif"
          id="text5-6"
          style="stroke:none">Autonomous Prefecture</text>
+    </g>
+  </g>
+  <g
+     id="line_jRV_aaGDbs"
+     transform="rotate(30,3545.6124,692.96773)">
+    <path
+       d="m 315.09,1679.52 v 85"
+       fill="none"
+       stroke="#e999c0"
+       stroke-width="5"
+       stroke-linecap="round"
+       cursor="pointer"
+       id="path29" />
+  </g>
+  <g
+     id="line_uOtC8t2R9B"
+     transform="rotate(30,3545.6124,692.96773)">
+    <path
+       d="m 315.09,1679.52 v -74.49"
+       fill="none"
+       stroke="#e999c0"
+       stroke-width="5"
+       stroke-linecap="round"
+       cursor="pointer"
+       id="path30" />
+  </g>
+  <g
+     id="line_bfMw56mlKc"
+     transform="rotate(30,3545.6124,692.96773)">
+    <path
+       d="m 339.85,1849.52 h -6.43 c -9.165,0 -18.33,-9.165 -18.33,-18.33 v -66.67"
+       fill="none"
+       stroke="#e999c0"
+       stroke-width="5"
+       stroke-linecap="round"
+       cursor="pointer"
+       id="path43" />
+  </g>
+  <g
+     transform="rotate(-60,110.99552,-180.85383)"
+     id="g208">
+    <rect
+       id="stn_core_stn_cw4GCDYB8j"
+       x="-2"
+       y="-7.8299999"
+       width="4"
+       height="7.8299999"
+       stroke="none"
+       fill="#e999c0" />
+  </g>
+  <g
+     transform="rotate(-60,68.495509,-254.466)"
+     id="g212">
+    <rect
+       id="stn_core_stn_PmRPw6puyE"
+       x="-2"
+       y="-7.8299999"
+       width="4"
+       height="7.8299999"
+       stroke="none"
+       fill="#e999c0" />
+  </g>
+  <g
+     id="stn_name_stn_poxDgUqwav"
+     transform="translate(198.79177,-10.971975)"
+     text-anchor="end"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g220">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text219">官地镇站</text>
+    </g>
+    <g
+       id="g221">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text220">Guandizhen Railway Station</text>
+    </g>
+  </g>
+  <g
+     id="stn_name_stn_XM8fM9kzAA"
+     transform="translate(241.2918,-84.584142)"
+     text-anchor="end"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g223">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text222">雁鸣湖站</text>
+    </g>
+    <g
+       id="g224">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text223">Yanminghu Railway Station</text>
+    </g>
+  </g>
+  <g
+     transform="rotate(120,69.063623,101.00068)"
+     id="g54">
+    <rect
+       id="stn_core_stn_BjS36MigXn"
+       x="-10"
+       y="-5"
+       height="10"
+       width="20"
+       ry="5"
+       stroke="#393332"
+       stroke-width="1"
+       fill="#ffffff" />
+  </g>
+  <g
+     id="stn_name_stn_NgPbgopHgq"
+     transform="translate(302.6968,-138.92437)"
+     text-anchor="start"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g2-6">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text2-1">往 牡丹江西站</text>
+    </g>
+    <g
+       id="g4-4">
+      <text
+         dy="1.5"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text3-23">To Mudanjiang West</text>
+      <text
+         dy="8.1700001"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text4-2">Railway Station</text>
     </g>
   </g>
 </svg>
