@@ -1543,4 +1543,54 @@
        stroke-width="1"
        fill="#ffffff" />
   </g>
+  <g
+     id="stn_name_stn_0d4Nkh2ooq"
+     transform="matrix(1.9999873,0,0,1.9999873,259.65777,500.56015)"
+     text-anchor="middle"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round"
+     style="opacity:0.3;stroke:none">
+    <g
+       id="g3"
+       style="stroke:none">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text2-2"
+         style="stroke:none">自治州</text>
+      <text
+         dy="-13.67"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text3-2"
+         style="stroke:none">延边朝鲜族</text>
+    </g>
+    <g
+       id="g5"
+       style="stroke:none">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text4-1"
+         style="stroke:none">Yanbian Chaoxianzu</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text5-6"
+         style="stroke:none">Autonomous Prefecture</text>
+    </g>
+  </g>
 </svg>
