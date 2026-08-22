@@ -909,11 +909,11 @@
     </g>
   </g>
   <circle
-     style="fill:#d1ffff;fill-opacity:1;stroke:none;stroke-width:0.578248;stroke-linejoin:round"
+     style="fill:#d1ffff;fill-opacity:1;stroke:none;stroke-width:0.211311;stroke-linejoin:round"
      id="path3"
      cx="160.52924"
      cy="808.18939"
-     r="50" />
+     r="18.271626" />
   <g
      id="stn_name_stn_n4l_ojXw6c"
      transform="translate(108.82009,221.06104)"
@@ -1145,231 +1145,234 @@
     </g>
   </g>
   <g
-     id="stn_name_stn_JPLeXz_XPx"
-     transform="matrix(1.9999842,0,0,1.9999842,438.70214,791.25701)"
+     id="stn_name_stn_9-LUWdk6Qw"
+     transform="matrix(2.0000053,0,0,2.0000053,446.70214,807.25792)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round"
-     style="opacity:0.3;fill:#000000;stroke:none">
+     style="opacity:0.3;stroke:none">
     <g
-       id="g18"
-       style="fill:#000000;stroke:none">
+       id="g252"
+       transform="translate(0,-1.0002004)"
+       style="stroke:none">
       <text
          dy="-1"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text17"
-         style="fill:#000000;stroke:none">人民共和国</text>
+         id="text251"
+         style="stroke:none">人民共和国</text>
       <text
          dy="-13.67"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text18"
-         style="fill:#000000;stroke:none">朝鲜民主主义</text>
+         id="text252"
+         style="stroke:none">朝鲜民主主义</text>
     </g>
     <g
-       id="g20"
-       style="fill:#000000;stroke:none">
+       id="g255"
+       style="stroke:none">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text19"
-         style="fill:#000000;stroke:none">Democratic People's</text>
+         id="text253"
+         style="stroke:none">조선민주주의인민공화국</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text20"
-         style="fill:#000000;stroke:none">Republic of Korea</text>
+         id="text254"
+         style="stroke:none">Democratic People's</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text255"
+         style="stroke:none">Republic of Korea</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_JckBGRM9YS"
-     transform="matrix(1.5099468,0,0,1.5099468,160.94031,826.25216)"
+     id="stn_name_stn_u9sr13izgg"
+     transform="matrix(2.0000053,0,0,2.0000053,637.1633,42.867062)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round"
-     style="opacity:0.3;fill:#000000;stroke:none">
+     style="opacity:0.3;stroke:none">
     <g
-       id="g22"
-       style="fill:#000000;stroke:none">
+       id="g246"
+       transform="translate(0,-0.99970831)"
+       style="stroke:none">
       <text
          dy="-1"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text21"
-         style="fill:#000000;stroke:none">天池</text>
-      <text
-         dy="-13.67"
-         dx="0"
-         dominant-baseline="auto"
-         font-size="12.67px"
-         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text22"
-         style="fill:#000000;stroke:none">长白山</text>
+         id="text245"
+         style="stroke:none">牡丹江市</text>
     </g>
     <g
-       id="g23"
-       style="fill:#000000;stroke:none">
+       id="g247"
+       style="stroke:none">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text23"
-         style="fill:#000000;stroke:none" />
+         id="text246"
+         style="stroke:none">목단강시</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text247"
+         style="stroke:none">Mudanjiang City</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_SnGLCnOIC6"
-     transform="matrix(1.9999972,0,0,1.9999972,637.1633,40.86764)"
+     id="stn_name_stn_sGyaaM9USh"
+     transform="matrix(2.0000053,0,0,2.0000053,80.19287,287.46362)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round"
-     style="opacity:0.3;fill:#000000;stroke:none">
+     style="opacity:0.3;stroke:none">
     <g
-       id="g25"
-       style="fill:#000000;stroke:none">
+       id="g240"
+       transform="translate(0,-0.99970831)"
+       style="stroke:none">
       <text
          dy="-1"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text24"
-         style="fill:#000000;stroke:none">牡丹江市</text>
+         id="text239"
+         style="stroke:none">吉林市</text>
     </g>
     <g
-       id="g26"
-       style="fill:#000000;stroke:none">
+       id="g241"
+       style="stroke:none">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text25"
-         style="fill:#000000;stroke:none">Mudanjiang City</text>
+         id="text240"
+         style="stroke:none">길림시</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text241"
+         style="stroke:none">Jilin City</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_ABShbX0qR0"
-     transform="matrix(1.9999972,0,0,1.9999972,80.19287,285.4642)"
+     id="stn_name_stn_gnY_XPzjp9"
+     transform="matrix(2.0000053,0,0,2.0000053,81.800179,667.35691)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round"
-     style="opacity:0.3;fill:#000000;stroke:none">
+     style="opacity:0.3;stroke:none">
     <g
-       id="g28"
-       style="fill:#000000;stroke:none">
+       id="g243"
+       transform="translate(0,-0.99970831)"
+       style="stroke:none">
       <text
          dy="-1"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text27"
-         style="fill:#000000;stroke:none">吉林市</text>
+         id="text242"
+         style="stroke:none">白山市</text>
     </g>
     <g
-       id="g29"
-       style="fill:#000000;stroke:none">
+       id="g244"
+       style="stroke:none">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text28"
-         style="fill:#000000;stroke:none">Jilin City</text>
+         id="text243"
+         style="stroke:none">백산시</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text244"
+         style="stroke:none">Baishan City</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_aCZUe1SNQp"
-     transform="matrix(1.9999972,0,0,1.9999972,81.80018,665.35749)"
+     id="stn_name_stn_3_f1-YXR_T"
+     transform="matrix(1.6443465,0,0,1.6443465,840.23944,483.00948)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round"
-     style="opacity:0.3;fill:#000000;stroke:none">
+     style="opacity:0.3;stroke:none">
     <g
-       id="g31-1"
-       style="fill:#000000;stroke:none">
+       id="g249"
+       transform="translate(0,-0.99969269)"
+       style="stroke:none">
       <text
          dy="-1"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text30-5"
-         style="fill:#000000;stroke:none">白山市</text>
+         id="text248"
+         style="stroke:none">俄罗斯联邦</text>
     </g>
     <g
-       id="g32-2"
-       style="fill:#000000;stroke:none">
+       id="g250"
+       style="stroke:none">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text31-7"
-         style="fill:#000000;stroke:none">Baishan City</text>
-    </g>
-  </g>
-  <g
-     id="stn_name_stn_ZqYHS-NtJP"
-     transform="matrix(1.7799543,0,0,1.7799543,830.461,494.90396)"
-     text-anchor="middle"
-     stroke-width="2.5"
-     paint-order="stroke"
-     stroke="#ffffff"
-     stroke-linejoin="round"
-     style="opacity:0.3;fill:#000000;stroke:none">
-    <g
-       id="g34-6"
-       style="fill:#000000;stroke:none">
+         id="text249"
+         style="stroke:none">로씨야련방</text>
       <text
-         dy="-1"
-         dx="0"
-         dominant-baseline="auto"
-         font-size="12.67px"
-         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text33"
-         style="fill:#000000;stroke:none">俄罗斯联邦</text>
-    </g>
-    <g
-       id="g35-1"
-       style="fill:#000000;stroke:none">
-      <text
-         dy="1.5"
+         dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text34-4"
-         style="fill:#000000;stroke:none">Russian Federation</text>
+         id="text250"
+         style="stroke:none">Russian Federation</text>
     </g>
   </g>
   <g
@@ -1513,8 +1516,8 @@
        fill="#ffffff" />
   </g>
   <g
-     id="stn_name_stn_0d4Nkh2ooq"
-     transform="matrix(1.9999873,0,0,1.9999873,259.65776,666.35855)"
+     id="stn_name_stn_GW2awTbY0t"
+     transform="matrix(2.0000053,0,0,2.0000053,246.04335,666.35942)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1522,7 +1525,8 @@
      stroke-linejoin="round"
      style="opacity:0.3;stroke:none">
     <g
-       id="g3"
+       id="g257"
+       transform="translate(1.245774e-4,-1.000216)"
        style="stroke:none">
       <text
          dy="-1"
@@ -1530,7 +1534,7 @@
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text2-2"
+         id="text256"
          style="stroke:none">自治州</text>
       <text
          dy="-13.67"
@@ -1538,11 +1542,11 @@
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text3-2"
+         id="text257"
          style="stroke:none">延边朝鲜族</text>
     </g>
     <g
-       id="g5"
+       id="g260"
        style="stroke:none">
       <text
          dy="1.5"
@@ -1550,15 +1554,23 @@
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text4-1"
-         style="stroke:none">Yanbian Chaoxianzu</text>
+         id="text258"
+         style="stroke:none">연변조선족자치주</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text5-6"
+         id="text259"
+         style="stroke:none">Yanbian Chaoxianzu</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text260"
          style="stroke:none">Autonomous Prefecture</text>
     </g>
   </g>
@@ -1982,6 +1994,35 @@
          font-size="6.67px"
          font-family="Arial, sans-serif"
          id="text127-6">Railway Station</text>
+    </g>
+  </g>
+  <g
+     id="stn_name_stn_iAtPqmql-f"
+     transform="matrix(1.500044,0,0,1.500044,896.06221,1035.0475)"
+     text-anchor="end"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g291">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text290">@Umamichi/Unnamed2964</text>
+    </g>
+    <g
+       id="g292">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text291" />
     </g>
   </g>
 </svg>
