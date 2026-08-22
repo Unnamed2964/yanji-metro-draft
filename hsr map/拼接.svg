@@ -12,16 +12,16 @@
   <defs
      id="defs1" />
   <path
-     id="path8"
-     style="fill:#d1ffff;stroke-width:4.562;stroke-linejoin:round"
-     d="M 905.35352,537.41639 560.67969,882.08827 394.88086,1047.8871 H 905.35352 V 882.08827 Z" />
+     id="path10"
+     style="fill:#d1ffff;stroke-width:4.72286;stroke-linejoin:round"
+     d="m 905.35352,519.41639 -18,18 -338.82813,338.82617 -171.64453,171.64454 h 510.47266 18 z" />
   <path
-     d="M 0,-232.28478 V -66.485952 882.08827 1047.8871 H 394.88086 L 560.67969,882.08827 905.35352,537.41639 V -66.485952 -232.28478 Z M 160.5293,7.4124856 854.02148,407.80116 160.5293,808.18983 Z"
+     id="path2"
      style="fill:#ececec;stroke-width:2.87388;stroke-linejoin:round"
-     id="path2" />
+     d="M 0,-232.28478 V 1047.8871 h 376.88086 l 165.79883,-165.79883 344.67383,-344.67188 18,-18 v -751.70117 h -18 z M 142.5293,7.4124856 836.02148,407.80116 142.5293,808.18983 Z" />
   <g
      id="line_Q6VSLRUWHU"
-     transform="translate(-172.83783,-62.05467)">
+     transform="translate(-190.83783,-62.05467)">
     <path
        d="m 708.06,323.48 v -10.6"
        fill="none"
@@ -32,7 +32,7 @@
   </g>
   <g
      id="line_rFq5wBN6Jb"
-     transform="rotate(30,298.57643,21.365498)">
+     transform="rotate(30,289.57643,-12.22296)">
     <path
        d="m 523.53,279.97 h 93.53113"
        fill="none"
@@ -43,7 +43,7 @@
   </g>
   <g
      id="line_5YqSlaiPAW"
-     transform="rotate(30,298.57643,21.365498)">
+     transform="rotate(30,289.57643,-12.22296)">
     <path
        d="m 423.53,279.97 h 100"
        fill="none"
@@ -54,7 +54,7 @@
   </g>
   <g
      id="line_N_5G9iZyra"
-     transform="translate(-172.83783,-62.05467)">
+     transform="translate(-190.83783,-62.05467)">
     <path
        d="m 723.53,470.115 h 93.53113 c 3.23444,0 9.26997,1.61722 12.07107,3.23443"
        fill="none"
@@ -65,7 +65,7 @@
   </g>
   <g
      id="line_FFeZVGYtg0"
-     transform="translate(-172.83783,-62.05467)">
+     transform="translate(-190.83783,-62.05467)">
     <path
        d="m 617.92781,466.62056 c 2.8011,1.61722 8.83664,3.23444 12.07107,3.23444 H 713.27 c 5,0 10.13,0.13 10.26,0.26 v 0"
        fill="none"
@@ -76,7 +76,7 @@
   </g>
   <g
      id="line_1LlmuOgZgl"
-     transform="translate(-172.83783,-62.05467)">
+     transform="translate(-190.83783,-62.05467)">
     <path
        d="m 708.06,323.48 v 121.165 c 0,5 3.53553,13.53553 7.07107,17.07107 L 723.53,470.115"
        fill="none"
@@ -87,7 +87,7 @@
   </g>
   <g
      id="line_ieoQ92BXNt"
-     transform="rotate(30,298.57643,21.365498)">
+     transform="rotate(30,289.57643,-12.22296)">
     <path
        d="m 423.53,279.97 h -89.64 c -5,0 -10.18,-0.18 -10.36,-0.36 v 0"
        fill="none"
@@ -98,7 +98,7 @@
   </g>
   <g
      id="line_dUPDMMQmZ-"
-     transform="rotate(-30,-428.56355,897.24822)">
+     transform="rotate(-30,-437.56355,930.83667)">
     <path
        d="M 428.11,913.36 H 288.96 c -5,0 -10.425,-0.425 -10.85,-0.85 v 0"
        fill="none"
@@ -109,7 +109,7 @@
   </g>
   <g
      id="stn_h_-fLyGvyx-5"
-     transform="translate(535.22216,261.42533)">
+     transform="translate(517.22216,261.42533)">
     <g
        id="g55">
       <g
@@ -164,7 +164,7 @@
   </g>
   <g
      id="g46"
-     transform="rotate(30,-485.61976,858.30082)">
+     transform="rotate(30,-494.61976,824.71237)">
     <rect
        id="stn_core_stn_orOzZgwrds"
        x="-2"
@@ -176,7 +176,7 @@
   </g>
   <g
      id="g50"
-     transform="rotate(30,-435.61976,671.69822)">
+     transform="rotate(30,-444.61976,638.10977)">
     <rect
        id="stn_core_stn_uzpkAC9lMU"
        x="-2"
@@ -188,7 +188,7 @@
   </g>
   <g
      id="stn_name_stn_JbNw-gfTDD-1"
-     transform="translate(377.41969,327.79035)"
+     transform="translate(359.41969,327.79035)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -231,7 +231,7 @@
   </g>
   <g
      id="stn_name_stn_vAMRclHc03-7"
-     transform="translate(290.81714,277.79035)"
+     transform="translate(272.81714,277.79035)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -274,7 +274,7 @@
   </g>
   <g
      id="stn_name_stn_B9_Ebn6TsV-6"
-     transform="translate(201.89497,238.47852)"
+     transform="translate(183.89497,238.47852)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -310,7 +310,7 @@
   </g>
   <g
      id="line_uKwltnpwiJ"
-     transform="rotate(30,427.31159,252.91992)">
+     transform="rotate(30,418.31159,219.33147)">
     <path
        d="M 225,375 H 145.29"
        fill="none"
@@ -321,7 +321,7 @@
   </g>
   <g
      id="line_cdaYA6RWH9-4"
-     transform="rotate(-30,392.77107,570.97227)">
+     transform="rotate(-30,383.77107,604.56072)">
     <path
        d="M 225.01,458.13 H 145.29"
        fill="none"
@@ -333,7 +333,7 @@
   </g>
   <g
      id="line_9WCTQRlBMg"
-     transform="rotate(30,852.9067,116.5679)">
+     transform="rotate(30,843.9067,82.979445)">
     <path
        d="m 923.53,470.12 -93.53113,-0.005"
        fill="none"
@@ -344,7 +344,7 @@
   </g>
   <g
      id="line_sLx76XPJAw"
-     transform="rotate(30,852.9067,116.5679)">
+     transform="rotate(30,843.9067,82.979445)">
     <path
        d="m 923.53,470.12 h 117.43 c 5,0 10.13,-0.13 10.26,-0.26 v 0"
        fill="none"
@@ -355,7 +355,7 @@
   </g>
   <g
      id="g183"
-     transform="rotate(30,-486.1142,1604.8385)">
+     transform="rotate(30,-495.1142,1571.2496)">
     <rect
        id="stn_core_stn_i8GUntpO3i"
        x="-2"
@@ -367,7 +367,7 @@
   </g>
   <g
      id="stn_name_stn_MRFESqtDO4-9"
-     transform="translate(750.62222,434.72465)"
+     transform="translate(732.62222,434.72465)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -403,7 +403,7 @@
   </g>
   <g
      id="line_oU5AdKaYQB-8"
-     transform="rotate(45,1158.9231,918.49232)">
+     transform="rotate(45,1149.9231,896.76443)">
     <path
        d="M 319.92884,1130.11 H 355.87"
        fill="none"
@@ -414,7 +414,7 @@
   </g>
   <g
      id="line_6RwTn6XuoN-2"
-     transform="rotate(45,1158.9231,918.49232)">
+     transform="rotate(45,1149.9231,896.76443)">
     <path
        d="m 355.87,1130.11 h 77.76"
        fill="none"
@@ -426,7 +426,7 @@
   </g>
   <g
      id="line_KUWs4g1dVr-4"
-     transform="rotate(45,1158.9231,918.49232)"
+     transform="rotate(45,1149.9231,896.76443)"
      style="display:inline">
     <path
        d="m 433.63,1130.11 h 68.12457 c 5,0 13.53553,-3.5355 17.07106,-7.0711"
@@ -438,7 +438,7 @@
        id="path17-5" />
   </g>
   <g
-     transform="rotate(-135,324.33352,158.71641)"
+     transform="rotate(-135,315.33352,162.4443)"
      id="g144">
     <rect
        id="stn_core_stn_cF4jXZzcH2-6"
@@ -450,7 +450,7 @@
        fill="#98d1c0" />
   </g>
   <g
-     transform="rotate(-135,380.18404,181.85046)"
+     transform="rotate(-135,371.18404,185.57835)"
      id="g148">
     <rect
        id="stn_core_stn_2Gp-P_gz-h-5"
@@ -463,7 +463,7 @@
   </g>
   <g
      id="line_5rOEPFw2OI"
-     transform="translate(210.84217,-714.14867)"
+     transform="translate(192.84217,-714.14867)"
      style="display:inline">
     <path
        d="M 350.82735,1324.66 H 429.85 c 5,0 13.53553,3.5355 17.07107,7.0711"
@@ -475,7 +475,7 @@
   </g>
   <g
      id="line_nDRXQp3rdI"
-     transform="rotate(45,1407.3247,1222.0948)">
+     transform="rotate(45,1398.3247,1200.367)">
     <path
        d="m 449.85,1324.66 h 48.2"
        fill="none"
@@ -486,7 +486,7 @@
   </g>
   <g
      id="line_NvyWu6Q9Jy"
-     transform="rotate(45,1407.3247,1222.0948)">
+     transform="rotate(45,1398.3247,1200.367)">
     <path
        d="m 544.85,1269.81 v 77.98"
        fill="none"
@@ -498,7 +498,7 @@
   </g>
   <g
      id="line_I3BFhI7PPO"
-     transform="rotate(45,1407.3247,1222.0948)">
+     transform="rotate(45,1398.3247,1200.367)">
     <path
        d="m 544.85,1347.79 v 101.45"
        fill="none"
@@ -510,7 +510,7 @@
   </g>
   <g
      id="line_OHgZ6aPMpV"
-     transform="rotate(45,1407.3247,1222.0948)">
+     transform="rotate(45,1398.3247,1200.367)">
     <path
        d="m 498.05,1324.66 h 18.47 c 9.165,0 18.33,9.165 18.33,18.33 v 4.8"
        fill="none"
@@ -522,7 +522,7 @@
   </g>
   <g
      id="g169"
-     transform="rotate(45,-489.52669,1199.8564)">
+     transform="rotate(45,-498.52669,1178.1286)">
     <rect
        id="stn_core_stn_c3MUYuPo0L"
        x="-10"
@@ -536,7 +536,7 @@
   </g>
   <g
      id="stn_name_stn_mY2YaV6KyI-2"
-     transform="translate(718.37755,716.07745)"
+     transform="translate(700.37755,716.07745)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -579,7 +579,7 @@
   </g>
   <g
      id="stn_name_stn_-FLAdPYtkY-8"
-     transform="translate(541.61724,625.21799)"
+     transform="translate(523.61724,625.21799)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -622,7 +622,7 @@
   </g>
   <g
      id="stn_name_stn_AgJmZtLjvn-1"
-     transform="translate(428.11251,518.78432)"
+     transform="translate(410.11251,518.78432)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -658,7 +658,7 @@
   </g>
   <g
      id="stn_name_stn_1OGDIdKCw8-8"
-     transform="translate(507.18281,597.85462)"
+     transform="translate(489.18281,597.85462)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -694,7 +694,7 @@
   </g>
   <g
      id="g194"
-     transform="rotate(45,-428.27294,1130.9476)">
+     transform="rotate(45,-437.27294,1109.2198)">
     <rect
        id="stn_core_stn__VbzDC2A78"
        x="-2"
@@ -706,7 +706,7 @@
   </g>
   <g
      id="stn_name_stn_nXucq-u1vG-4"
-     transform="translate(687.59248,604.07158)"
+     transform="translate(669.59248,604.07158)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -749,7 +749,7 @@
   </g>
   <g
      id="line_AGHX1xPTxY-8"
-     transform="rotate(-30,-428.56362,897.24828)">
+     transform="rotate(-30,-437.56362,930.83673)">
     <path
        d="m 540.67,913.36 h 37.69"
        fill="none"
@@ -761,7 +761,7 @@
   </g>
   <g
      id="line_uAsBP5tdFi-2"
-     transform="rotate(-30,-428.56362,897.24828)">
+     transform="rotate(-30,-437.56362,930.83673)">
     <path
        d="M 428.11,913.36 H 540.67"
        fill="none"
@@ -773,7 +773,7 @@
   </g>
   <g
      id="line_1YQ8t1Aup1"
-     transform="rotate(-30,-428.56362,897.24828)">
+     transform="rotate(-30,-437.56362,930.83673)">
     <path
        d="m 540.67,923.36 h -3.28741 c -15.73133,0 -27.39108,15.19529 -23.31952,30.39058"
        fill="none"
@@ -783,7 +783,7 @@
        id="path40" />
   </g>
   <g
-     transform="rotate(60,-162.49655,580.37734)"
+     transform="rotate(60,-171.49655,564.78889)"
      id="g98">
     <rect
        id="stn_core_stn_s47bWmy3jf-1"
@@ -797,7 +797,7 @@
        fill="#ffffff" />
   </g>
   <g
-     transform="rotate(90,21.445925,429.24626)"
+     transform="rotate(90,12.445925,420.24626)"
      id="g34">
     <rect
        id="stn_core_stn_mI4i7HMiWh"
@@ -812,7 +812,7 @@
   </g>
   <g
      id="stn_name_stn_jOdetXOEw6"
-     transform="translate(408.04325,400.90481)"
+     transform="translate(390.04325,400.90481)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -855,7 +855,7 @@
   </g>
   <g
      id="g102"
-     transform="rotate(-30,1061.7345,-358.29592)">
+     transform="rotate(-30,1052.7345,-324.70747)">
     <rect
        id="stn_core_stn_MDtEak3Vq8-2"
        x="-2"
@@ -867,7 +867,7 @@
   </g>
   <g
      id="stn_name_stn_Bqb9PaHCH_"
-     transform="translate(308.06336,452.85463)"
+     transform="translate(290.06336,452.85463)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -911,12 +911,12 @@
   <circle
      style="fill:#d1ffff;fill-opacity:1;stroke:none;stroke-width:0.211311;stroke-linejoin:round"
      id="path3"
-     cx="160.52924"
+     cx="142.52924"
      cy="808.18939"
      r="18.271626" />
   <g
      id="stn_name_stn_n4l_ojXw6c"
-     transform="translate(108.82009,221.06104)"
+     transform="translate(90.82009,221.06104)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -959,7 +959,7 @@
   </g>
   <g
      id="stn_name_stn_fP3ohDBDWC"
-     transform="translate(110.90511,601.15891)"
+     transform="translate(92.90511,601.15891)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1002,7 +1002,7 @@
   </g>
   <g
      id="stn_name_stn_Tm2iHyghHN"
-     transform="translate(547.32262,694.8376)"
+     transform="translate(529.32262,694.8376)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1038,7 +1038,7 @@
   </g>
   <g
      id="stn_name_stn_XX9lYACt6e"
-     transform="translate(628.6698,796.38432)"
+     transform="translate(610.6698,796.38432)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1074,7 +1074,7 @@
   </g>
   <g
      id="stn_name_stn_dr6cszlGHe-3"
-     transform="translate(771.03739,635.65391)"
+     transform="translate(753.03739,635.65391)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1110,7 +1110,7 @@
   </g>
   <g
      id="stn_name_stn_dr6cszlGHe"
-     transform="translate(820.67799,542.97109)"
+     transform="translate(802.67799,542.97109)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1146,7 +1146,7 @@
   </g>
   <g
      id="stn_name_stn_9-LUWdk6Qw"
-     transform="matrix(2.0000053,0,0,2.0000053,446.70214,807.25792)"
+     transform="matrix(2.0000053,0,0,2.0000053,428.70214,807.25792)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1205,7 +1205,7 @@
   </g>
   <g
      id="stn_name_stn_u9sr13izgg"
-     transform="matrix(2.0000053,0,0,2.0000053,637.1633,42.867062)"
+     transform="matrix(2.0000053,0,0,2.0000053,625.1633,42.867062)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1248,7 +1248,7 @@
   </g>
   <g
      id="stn_name_stn_sGyaaM9USh"
-     transform="matrix(2.0000053,0,0,2.0000053,80.19287,287.46362)"
+     transform="matrix(2.0000053,0,0,2.0000053,72.19287,287.46362)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1291,7 +1291,7 @@
   </g>
   <g
      id="stn_name_stn_gnY_XPzjp9"
-     transform="matrix(2.0000053,0,0,2.0000053,81.800179,667.35691)"
+     transform="matrix(2.0000053,0,0,2.0000053,73.800179,667.35691)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1334,7 +1334,7 @@
   </g>
   <g
      id="stn_name_stn_3_f1-YXR_T"
-     transform="matrix(1.6443465,0,0,1.6443465,840.23944,483.00948)"
+     transform="matrix(1.6443465,0,0,1.6443465,822.23944,483.00948)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1377,7 +1377,7 @@
   </g>
   <g
      id="line_enlyB5kBCV"
-     transform="translate(-148.93542,-200.63643)">
+     transform="translate(-166.93542,-200.63643)">
     <path
        d="M 340,657.765 V 458.125"
        fill="none"
@@ -1389,7 +1389,7 @@
   </g>
   <g
      id="line_qrXDtQbx-1"
-     transform="translate(-148.93542,-200.63643)">
+     transform="translate(-166.93542,-200.63643)">
     <path
        d="m 340,657.765 v 100"
        fill="none"
@@ -1401,7 +1401,7 @@
   </g>
   <g
      id="stn_iz_TyuohSP-1"
-     transform="translate(191.06458,457.12857)">
+     transform="translate(173.06458,457.12857)">
     <g
        id="g100">
       <g
@@ -1455,7 +1455,7 @@
     </g>
   </g>
   <g
-     transform="rotate(60,-386.95517,444.03106)"
+     transform="rotate(60,-395.95517,428.44261)"
      id="g96">
     <rect
        id="stn_core_stn_w3WyHC-7dL"
@@ -1470,7 +1470,7 @@
   </g>
   <g
      id="line_j9qqTBGnAY"
-     transform="translate(-165.04718,-69.38357)">
+     transform="translate(-183.04718,-69.38357)">
     <path
        d="M 723.53,672.566 V 758.29"
        fill="none"
@@ -1481,7 +1481,7 @@
   </g>
   <g
      id="line_mbNvSTuPT-"
-     transform="translate(-172.83783,-62.05467)">
+     transform="translate(-190.83783,-62.05467)">
     <path
        d="m 732.16893,619.98189 c 3.53554,-3.53554 7.07107,-12.07107 7.07107,-17.07107 V 495.825 c 0,-5 -3.53553,-13.53553 -7.07107,-17.07107 L 723.53,470.115"
        fill="none"
@@ -1492,7 +1492,7 @@
   </g>
   <g
      id="line_plvdWsGDqx"
-     transform="rotate(45,1140.5383,962.87712)">
+     transform="rotate(45,1131.5383,941.14923)">
     <path
        d="M 474.62045,1120.11 H 461.55 c -9.165,0 -18.33,-9.165 -18.33,-18.33 v -14.2701"
        fill="none"
@@ -1502,7 +1502,7 @@
        id="path35" />
   </g>
   <g
-     transform="rotate(135,151.81821,418.29233)"
+     transform="rotate(135,142.81821,414.56444)"
      id="g134">
     <rect
        id="stn_core_stn_p1SW3K1IvT-2"
@@ -1517,7 +1517,7 @@
   </g>
   <g
      id="stn_name_stn_GW2awTbY0t"
-     transform="matrix(2.0000053,0,0,2.0000053,246.04335,666.35942)"
+     transform="matrix(2.0000053,0,0,2.0000053,228.04335,666.35942)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1576,7 +1576,7 @@
   </g>
   <g
      id="line_jRV_aaGDbs"
-     transform="rotate(30,3217.5689,770.86742)">
+     transform="rotate(30,3208.5689,737.27897)">
     <path
        d="m 315.09,1679.52 v 85"
        fill="none"
@@ -1588,7 +1588,7 @@
   </g>
   <g
      id="line_uOtC8t2R9B"
-     transform="rotate(30,3217.5689,770.86742)">
+     transform="rotate(30,3208.5689,737.27897)">
     <path
        d="m 315.09,1679.52 v -74.49"
        fill="none"
@@ -1600,7 +1600,7 @@
   </g>
   <g
      id="line_bfMw56mlKc"
-     transform="rotate(30,3217.5689,770.86742)">
+     transform="rotate(30,3208.5689,737.27897)">
     <path
        d="m 339.85,1849.52 h -6.43 c -9.165,0 -18.33,-9.165 -18.33,-18.33 v -66.67"
        fill="none"
@@ -1611,7 +1611,7 @@
        id="path43" />
   </g>
   <g
-     transform="rotate(-60,259.58104,-89.294838)"
+     transform="rotate(-60,250.58104,-73.706379)"
      id="g208">
     <rect
        id="stn_core_stn_cw4GCDYB8j"
@@ -1623,7 +1623,7 @@
        fill="#e999c0" />
   </g>
   <g
-     transform="rotate(-60,217.08103,-162.90702)"
+     transform="rotate(-60,208.08103,-147.31857)"
      id="g212">
     <rect
        id="stn_core_stn_PmRPw6puyE"
@@ -1636,7 +1636,7 @@
   </g>
   <g
      id="stn_name_stn_poxDgUqwav-3"
-     transform="translate(193.79215,156.81635)"
+     transform="translate(175.79215,156.81635)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1672,7 +1672,7 @@
   </g>
   <g
      id="stn_name_stn_XM8fM9kzAA-1"
-     transform="translate(236.29213,83.20418)"
+     transform="translate(218.29213,83.20418)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1707,7 +1707,7 @@
     </g>
   </g>
   <g
-     transform="rotate(120,18.70199,185.34328)"
+     transform="rotate(120,9.70199,180.14713)"
      id="g54">
     <rect
        id="stn_core_stn_BjS36MigXn"
@@ -1722,7 +1722,7 @@
   </g>
   <g
      id="stn_name_stn_RDnikik-Ov"
-     transform="translate(297.69716,35.53396)"
+     transform="translate(279.69716,35.53396)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1848,7 +1848,7 @@
      y="-163.38538">Yanbian High-Speed Railway Speculative Layout Map</text>
   <g
      id="stn_jd2dTI-dyH-8"
-     transform="translate(550.69217,408.06033)">
+     transform="translate(532.69217,408.06033)">
     <g
        id="g47">
       <g
@@ -1912,7 +1912,7 @@
   </g>
   <g
      id="stn_name_stn_sqdKQQD2AF"
-     transform="translate(450.6922,372.29034)"
+     transform="translate(432.6922,372.29034)"
      text-anchor="middle"
      stroke-width="2.5"
      paint-order="stroke"
@@ -1955,7 +1955,7 @@
   </g>
   <g
      id="stn_name_stn_nqSaz8qkPr"
-     transform="translate(204.39458,575.62854)"
+     transform="translate(186.39458,575.62854)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
