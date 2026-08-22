@@ -2,41 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="905.354"
-   height="1280.171"
-   viewBox="0 -232.28478 905.35401 1280.171"
+   width="905.35352"
+   height="1280.1719"
+   viewBox="0 -232.28478 905.35352 1280.1719"
    version="1.1"
    id="svg1"
-   sodipodi:docname="拼接.svg"
-   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.49795506"
-     inkscape:cx="367.50304"
-     inkscape:cy="397.62625"
-     inkscape:window-width="1440"
-     inkscape:window-height="890"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
   <defs
      id="defs1" />
   <path
      id="path8"
      style="fill:#d1ffff;stroke-width:4.562;stroke-linejoin:round"
-     d="M 905.35352 537.41639 L 560.67969 882.08827 L 394.88086 1047.8871 L 905.35352 1047.8871 L 905.35352 882.08827 L 905.35352 537.41639 z " />
+     d="M 905.35352,537.41639 560.67969,882.08827 394.88086,1047.8871 H 905.35352 V 882.08827 Z" />
   <path
      d="M 0,-232.28478 V -66.485952 882.08827 1047.8871 H 394.88086 L 560.67969,882.08827 905.35352,537.41639 V -66.485952 -232.28478 Z M 160.5293,7.4124856 854.02148,407.80116 160.5293,808.18983 Z"
      style="fill:#ececec;stroke-width:2.87388;stroke-linejoin:round"
@@ -130,15 +108,15 @@
        id="path27" />
   </g>
   <g
-     id="stn_h_-fLyGvyx"
+     id="stn_h_-fLyGvyx-5"
      transform="translate(535.22216,261.42533)">
     <g
-       id="g41">
+       id="g55">
       <g
          transform="rotate(90)"
-         id="g38">
+         id="g52">
         <rect
-           id="stn_core_stn_h_-fLyGvyx"
+           id="stn_core_stn_h_-fLyGvyx-5"
            x="-2"
            y="-7.8299999"
            width="4"
@@ -147,7 +125,7 @@
            fill="#c6afd4" />
       </g>
       <g
-         id="stn_name_stn_h_-fLyGvyx"
+         id="stn_name_stn_h_-fLyGvyx-1"
          transform="translate(12)"
          text-anchor="start"
          stroke-width="2.5"
@@ -155,24 +133,31 @@
          stroke="#ffffff"
          stroke-linejoin="round">
         <g
-           id="g39">
+           id="g53">
           <text
-             dy="-1"
+             dy="-2"
              dx="0"
              dominant-baseline="auto"
              font-size="12.67px"
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             id="text38">汪清站</text>
+             id="text52">汪清站</text>
         </g>
         <g
-           id="g40">
+           id="g54-7">
           <text
              dy="1.5"
              dx="1.67"
              dominant-baseline="hanging"
              font-size="6.67px"
              font-family="Arial, sans-serif"
-             id="text39">Wangqing Railway Station</text>
+             id="text53">왕청역</text>
+          <text
+             dy="8.1700001"
+             dx="1.67"
+             dominant-baseline="hanging"
+             font-size="6.67px"
+             font-family="Arial, sans-serif"
+             id="text54">Wangqing Railway Station</text>
         </g>
       </g>
     </g>
@@ -202,133 +187,125 @@
        fill="#e3002b" />
   </g>
   <g
-     id="stn_name_stn_JbNw-gfTDD"
-     transform="translate(377.41967,334.46037)"
+     id="stn_name_stn_JbNw-gfTDD-1"
+     transform="translate(377.41969,327.79035)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g61">
+       id="g76">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text60">安图西站</text>
+         id="text75">安图西站</text>
     </g>
     <g
-       id="g62">
+       id="g78-1">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text61">Antu West</text>
+         id="text76-5">안도서역</text>
       <text
          dy="8.1700001"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text62">Railway Station</text>
+         id="text77-2">Antu West</text>
+      <text
+         dy="14.84"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text78">Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_vAMRclHc03"
-     transform="translate(290.8171,284.46033)"
+     id="stn_name_stn_vAMRclHc03-7"
+     transform="translate(290.81714,277.79035)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g64">
+       id="g80">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text63">大石头南站</text>
+         id="text79">大石头南站</text>
     </g>
     <g
-       id="g65">
+       id="g82">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text64">Dashitou South</text>
+         id="text80">대석두남역</text>
       <text
          dy="8.1700001"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text65">Railway Station</text>
+         id="text81">Dashitou South</text>
+      <text
+         dy="14.84"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text82">Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_B9_Ebn6TsV"
-     transform="translate(202.04415,245.2977)"
+     id="stn_name_stn_B9_Ebn6TsV-6"
+     transform="translate(201.89497,238.47852)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g67">
+       id="g84">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text66">敦化站</text>
+         id="text83">敦化站</text>
     </g>
     <g
-       id="g68">
+       id="g85">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text67">Dunhua Railway Station</text>
-    </g>
-  </g>
-  <g
-     id="stn_name_stn_Ih81z_rTr0"
-     transform="translate(204.39459,575.62857)"
-     text-anchor="start"
-     stroke-width="2.5"
-     paint-order="stroke"
-     stroke="#ffffff"
-     stroke-linejoin="round">
-    <g
-       id="g77">
+         id="text84">돈화역</text>
       <text
-         dy="-1"
-         dx="0"
-         dominant-baseline="auto"
-         font-size="12.67px"
-         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text76">长白山站</text>
-    </g>
-    <g
-       id="g78">
-      <text
-         dy="1.5"
+         dy="8.1700001"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text77">Changbaishan Railway Station</text>
+         id="text85">Dunhua Railway Station</text>
     </g>
   </g>
   <g
@@ -389,32 +366,39 @@
        fill="#e3002b" />
   </g>
   <g
-     id="stn_name_stn_MRFESqtDO4"
-     transform="translate(750.6222,441.39466)"
+     id="stn_name_stn_MRFESqtDO4-9"
+     transform="translate(750.62222,434.72465)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g191">
+       id="g202">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text190">珲春站</text>
+         id="text201">珲春站</text>
     </g>
     <g
-       id="g192">
+       id="g203">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text191">Hunchun Railway Station</text>
+         id="text202">훈춘역</text>
+      <text
+         dy="8.1700001"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text203">Hunchun Railway Station</text>
     </g>
   </g>
   <g
@@ -551,133 +535,161 @@
        fill="#ffffff" />
   </g>
   <g
-     id="stn_name_stn_mY2YaV6KyI"
-     transform="translate(718.3775,716.07743)"
+     id="stn_name_stn_mY2YaV6KyI-2"
+     transform="translate(718.37755,716.07745)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g177">
+       id="g188">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text176">罗先雄尚站</text>
+         id="text187">罗先雄尚站</text>
     </g>
     <g
-       id="g178">
+       id="g190">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text177">Rasŏn Ungsang</text>
+         id="text188">라선웅상역</text>
       <text
          dy="8.1700001"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text178">Railway Station</text>
+         id="text189">Rasŏn Ungsang</text>
+      <text
+         dy="14.84"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text190-7">Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_-FLAdPYtkY"
-     transform="translate(541.61726,625.21802)"
+     id="stn_name_stn_-FLAdPYtkY-8"
+     transform="translate(541.61724,625.21799)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g127">
+       id="g137">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text126">北会宁站</text>
+         id="text136">北会宁站</text>
     </g>
     <g
-       id="g128">
+       id="g139-5">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text127">North Hoiryŏng</text>
+         id="text137-7">북회령역</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text128">Railway Station</text>
+         id="text138-6">North Hoiryŏng</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text139">Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_AgJmZtLjvn"
-     transform="translate(428.11248,518.78429)"
+     id="stn_name_stn_AgJmZtLjvn-1"
+     transform="translate(428.11251,518.78432)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g138">
+       id="g149">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text137">明东站</text>
+         id="text148">明东站</text>
     </g>
     <g
-       id="g139">
+       id="g150">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text138">Mingdong Railway Station</text>
+         id="text149">명동역</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text150">Mingdong Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_1OGDIdKCw8"
-     transform="translate(507.09706,597.76892)"
+     id="stn_name_stn_1OGDIdKCw8-8"
+     transform="translate(507.18281,597.85462)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g141">
+       id="g152">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text140">三合站</text>
+         id="text151">三合站</text>
     </g>
     <g
-       id="g142">
+       id="g153">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text141">Sanhe Railway Station</text>
+         id="text152">삼합역</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text153">Sanhe Railway Station</text>
     </g>
   </g>
   <g
@@ -693,39 +705,46 @@
        fill="#98d1c0" />
   </g>
   <g
-     id="stn_name_stn_nXucq-u1vG"
-     transform="translate(687.5925,610.74157)"
+     id="stn_name_stn_nXucq-u1vG-4"
+     transform="translate(687.59248,604.07158)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g198">
+       id="g209">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text197">南庆兴站</text>
+         id="text208">南庆兴站</text>
     </g>
     <g
-       id="g199">
+       id="g211">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text198">South Kyŏnghŭng</text>
+         id="text209">남경흥역</text>
       <text
          dy="8.1700001"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text199">Railway Station</text>
+         id="text210">South Kyŏnghŭng</text>
+      <text
+         dy="14.84"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text211">Railway Station</text>
     </g>
   </g>
   <g
@@ -778,96 +797,60 @@
        fill="#ffffff" />
   </g>
   <g
-     id="stn_mI4i7HMiWh"
-     transform="translate(450.69218,407.80033)">
-    <g
-       id="g37">
-      <g
-         transform="rotate(90)"
-         id="g34">
-        <rect
-           id="stn_core_stn_mI4i7HMiWh"
-           x="-10"
-           y="-5"
-           height="10"
-           width="20"
-           ry="5"
-           stroke="#393332"
-           stroke-width="1"
-           fill="#ffffff" />
-      </g>
-      <g
-         id="stn_name_stn_mI4i7HMiWh"
-         transform="translate(11.83,-28.34)"
-         text-anchor="start"
-         stroke-width="2.5"
-         paint-order="stroke"
-         stroke="#ffffff"
-         stroke-linejoin="round">
-        <g
-           id="g35">
-          <text
-             dy="-1"
-             dx="0"
-             dominant-baseline="auto"
-             font-size="12.67px"
-             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             id="text34">延吉西站</text>
-        </g>
-        <g
-           id="g36">
-          <text
-             dy="1.5"
-             dx="1.67"
-             dominant-baseline="hanging"
-             font-size="6.67px"
-             font-family="Arial, sans-serif"
-             id="text35">Yanji West</text>
-          <text
-             dy="8.1700001"
-             dx="1.67"
-             dominant-baseline="hanging"
-             font-size="6.67px"
-             font-family="Arial, sans-serif"
-             id="text36">Railway Station</text>
-        </g>
-      </g>
-    </g>
+     transform="rotate(90,21.445925,429.24626)"
+     id="g34">
+    <rect
+       id="stn_core_stn_mI4i7HMiWh"
+       x="-10"
+       y="-5"
+       height="10"
+       width="20"
+       ry="5"
+       stroke="#393332"
+       stroke-width="1"
+       fill="#ffffff" />
   </g>
   <g
-     id="stn_name_stn_jOdetXOEw6-2"
-     transform="translate(408.04319,407.5748)"
+     id="stn_name_stn_jOdetXOEw6"
+     transform="translate(408.04325,400.90481)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g200-7">
+       id="g213">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text199-9">龙井西站</text>
+         id="text212">龙井西站</text>
     </g>
     <g
-       id="g201-5">
+       id="g215">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text200-4">Longjing West</text>
+         id="text213">룡정서역</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text201-3">Railway Station</text>
+         id="text214">Longjing West</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text215">Railway Station</text>
     </g>
   </g>
   <g
@@ -883,39 +866,46 @@
        fill="#87caed" />
   </g>
   <g
-     id="stn_name_stn_Bqb9PaHCH_-3"
-     transform="translate(308.06338,459.52469)"
+     id="stn_name_stn_Bqb9PaHCH_"
+     transform="translate(308.06336,452.85463)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g113">
+       id="g121">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text112">和龙西站</text>
+         id="text120">和龙西站</text>
     </g>
     <g
-       id="g114">
+       id="g123">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text113">Helong West</text>
+         id="text121">화룡서역</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text114">Railway Station</text>
+         id="text122">Helong West</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text123">Railway Station</text>
     </g>
   </g>
   <circle
@@ -925,191 +915,233 @@
      cy="808.18939"
      r="50" />
   <g
-     id="stn_name_stn_NTk9pBizeE"
-     transform="matrix(0.9999832,0,0,0.9999832,108.93645,221.06083)"
+     id="stn_name_stn_n4l_ojXw6c"
+     transform="translate(108.82009,221.06104)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g2">
+       id="g262">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text2">往 长春站</text>
+         id="text261">往 长春站</text>
     </g>
     <g
-       id="g4">
+       id="g264">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text3">To Changchun</text>
+         id="text262">장춘역 방면</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text4">Railway Station</text>
+         id="text263">To Changchun</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text264">Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_nfJxXxxCPY"
-     transform="matrix(0.9999832,0,0,0.9999832,111.02462,601.1587)"
+     id="stn_name_stn_fP3ohDBDWC"
+     transform="translate(110.90511,601.15891)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g6">
+       id="g266">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text5">往 沈阳北站</text>
+         id="text265">往 沈阳北站</text>
     </g>
     <g
-       id="g7">
+       id="g268">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text6">To Shenyang North</text>
+         id="text266">심양북역 방면</text>
       <text
          dy="8.1700001"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text7">Railway Station</text>
+         id="text267">To Shenyang North</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text268">Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_ZJRDZ6jQzU"
-     transform="matrix(0.99999741,0,0,0.99999741,547.5563,694.83757)"
+     id="stn_name_stn_Tm2iHyghHN"
+     transform="translate(547.32262,694.8376)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g9">
+       id="g280">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text8">往 清津</text>
+         id="text279">往 清津</text>
     </g>
     <g
-       id="g10">
+       id="g281">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text9">To Chŏngjin</text>
+         id="text280">청진 방면</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text281">To Chŏngjin</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_y90grAkcfg"
-     transform="matrix(0.99999741,0,0,0.99999741,628.6698,796.38432)"
+     id="stn_name_stn_XX9lYACt6e"
+     transform="translate(628.6698,796.38432)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g12">
+       id="g270">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text11">往 平壤，首尔</text>
+         id="text269">往 平壤，首尔</text>
     </g>
     <g
-       id="g13">
+       id="g271">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text12">To P'yŏngyang, Seoul</text>
+         id="text270">평양, 서울 방면</text>
+      <text
+         dy="8.1700001"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text271">To P'yŏngyang, Seoul</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_-vzL892Unk"
-     transform="matrix(0.99999741,0,0,0.99999741,771.0375,635.65388)"
+     id="stn_name_stn_dr6cszlGHe-3"
+     transform="translate(771.03739,635.65391)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g15">
+       id="g273-8">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text14">往 滨海边疆区</text>
+         id="text272-7">往 滨海边疆区</text>
     </g>
     <g
-       id="g16">
+       id="g274-4">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text15">To Primorskiy kray</text>
+         id="text273-2">연해변강구 방면</text>
+      <text
+         dy="8.1700001"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text274-7">To Primorskiy kray</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_-vzL892Unk-2"
-     transform="matrix(0.99999741,0,0,0.99999741,820.6781,542.97106)"
+     id="stn_name_stn_dr6cszlGHe"
+     transform="translate(820.67799,542.97109)"
      text-anchor="start"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g15-1">
+       id="g273">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text14-6">往 滨海边疆区</text>
+         id="text272">往 滨海边疆区</text>
     </g>
     <g
-       id="g16-8">
+       id="g274">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text15-5">To Primorskiy kray</text>
+         id="text273">연해변강구 방면</text>
+      <text
+         dy="8.1700001"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text274">To Primorskiy kray</text>
     </g>
   </g>
   <g
@@ -1365,15 +1397,15 @@
        id="path7-2" />
   </g>
   <g
-     id="stn_iz_TyuohSP"
+     id="stn_iz_TyuohSP-1"
      transform="translate(191.06458,457.12857)">
     <g
-       id="g93">
+       id="g100">
       <g
          transform="rotate(-90)"
-         id="g90">
+         id="g97">
         <rect
-           id="stn_core_stn_iz_TyuohSP"
+           id="stn_core_stn_iz_TyuohSP-4"
            x="-2"
            y="-7.8299999"
            width="4"
@@ -1382,7 +1414,7 @@
            fill="#e999c0" />
       </g>
       <g
-         id="stn_name_stn_iz_TyuohSP"
+         id="stn_name_stn_iz_TyuohSP-2"
          transform="translate(-12)"
          text-anchor="end"
          stroke-width="2.5"
@@ -1390,24 +1422,31 @@
          stroke="#ffffff"
          stroke-linejoin="round">
         <g
-           id="g91">
+           id="g98-3">
           <text
-             dy="-1"
+             dy="-2"
              dx="0"
              dominant-baseline="auto"
              font-size="12.67px"
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             id="text90">永庆站</text>
+             id="text97">永庆站</text>
         </g>
         <g
-           id="g92">
+           id="g99">
           <text
              dy="1.5"
              dx="0"
              dominant-baseline="hanging"
              font-size="6.67px"
              font-family="Arial, sans-serif"
-             id="text91">Yongqing Railway Station</text>
+             id="text98">영경역</text>
+          <text
+             dy="8.1700001"
+             dx="0"
+             dominant-baseline="hanging"
+             font-size="6.67px"
+             font-family="Arial, sans-serif"
+             id="text99">Yongqing Railway Station</text>
         </g>
       </g>
     </g>
@@ -1447,63 +1486,6 @@
        stroke-width="5"
        stroke-linecap="round"
        id="path33" />
-  </g>
-  <g
-     id="stn_jd2dTI-dyH"
-     transform="translate(550.6922,408.06033)">
-    <g
-       id="g33">
-      <g
-         transform="rotate(90)"
-         id="g30">
-        <rect
-           id="stn_core_stn_jd2dTI-dyH"
-           x="-10"
-           y="-5"
-           height="10"
-           width="20"
-           ry="5"
-           stroke="#393332"
-           stroke-width="1"
-           fill="#ffffff" />
-      </g>
-      <g
-         id="stn_name_stn_jd2dTI-dyH"
-         transform="translate(11.83,-28.34)"
-         text-anchor="start"
-         stroke-width="2.5"
-         paint-order="stroke"
-         stroke="#ffffff"
-         stroke-linejoin="round">
-        <g
-           id="g31">
-          <text
-             dy="-1"
-             dx="0"
-             dominant-baseline="auto"
-             font-size="12.67px"
-             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             id="text30">图们北站</text>
-        </g>
-        <g
-           id="g32">
-          <text
-             dy="1.5"
-             dx="1.67"
-             dominant-baseline="hanging"
-             font-size="6.67px"
-             font-family="Arial, sans-serif"
-             id="text31">Tumen North</text>
-          <text
-             dy="8.1700001"
-             dx="1.67"
-             dominant-baseline="hanging"
-             font-size="6.67px"
-             font-family="Arial, sans-serif"
-             id="text32">Railway Station</text>
-        </g>
-      </g>
-    </g>
   </g>
   <g
      id="line_plvdWsGDqx"
@@ -1641,61 +1623,75 @@
        fill="#e999c0" />
   </g>
   <g
-     id="stn_name_stn_poxDgUqwav"
-     transform="translate(193.79213,163.48636)"
+     id="stn_name_stn_poxDgUqwav-3"
+     transform="translate(193.79215,156.81635)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g220">
+       id="g232">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text219">官地镇站</text>
+         id="text231">官地镇站</text>
     </g>
     <g
-       id="g221">
+       id="g233">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text220">Guandizhen Railway Station</text>
+         id="text232">관지진역</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text233">Guandi West Railway Station</text>
     </g>
   </g>
   <g
-     id="stn_name_stn_XM8fM9kzAA"
-     transform="translate(236.29216,89.874201)"
+     id="stn_name_stn_XM8fM9kzAA-1"
+     transform="translate(236.29213,83.20418)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g223">
+       id="g235">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text222">雁鸣湖站</text>
+         id="text234">雁鸣湖站</text>
     </g>
     <g
-       id="g224">
+       id="g236">
       <text
          dy="1.5"
          dx="0"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text223">Yanminghu Railway Station</text>
+         id="text235">안명호역</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text236">Yanminghu Railway Station</text>
     </g>
   </g>
   <g
@@ -1713,7 +1709,7 @@
        fill="#ffffff" />
   </g>
   <g
-     id="stn_name_stn_NgPbgopHgq"
+     id="stn_name_stn_RDnikik-Ov"
      transform="translate(297.69716,35.53396)"
      text-anchor="start"
      stroke-width="2.5"
@@ -1721,31 +1717,38 @@
      stroke="#ffffff"
      stroke-linejoin="round">
     <g
-       id="g2-6">
+       id="g276">
       <text
-         dy="-1"
+         dy="-2"
          dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text2-1">往 牡丹江西站</text>
+         id="text275">往 牡丹江西站</text>
     </g>
     <g
-       id="g4-4">
+       id="g278">
       <text
          dy="1.5"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text3-23">To Mudanjiang West</text>
+         id="text276">목단강서역 방면</text>
       <text
          dy="8.1700001"
          dx="1.67"
          dominant-baseline="hanging"
          font-size="6.67px"
          font-family="Arial, sans-serif"
-         id="text4-2">Railway Station</text>
+         id="text277">To Mudanjiang West</text>
+      <text
+         dy="14.84"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text278">Railway Station</text>
     </g>
   </g>
   <text
@@ -1831,4 +1834,154 @@
      style="text-anchor:start;stroke:#ffffff;stroke-width:6.24994;stroke-linejoin:round;paint-order:stroke"
      x="24.579979"
      y="-163.38538">Yanbian High-Speed Railway Speculative Layout Map</text>
+  <g
+     id="stn_jd2dTI-dyH-8"
+     transform="translate(550.69217,408.06033)">
+    <g
+       id="g47">
+      <g
+         transform="rotate(90)"
+         id="g43">
+        <rect
+           id="stn_core_stn_jd2dTI-dyH-8"
+           x="-10"
+           y="-5"
+           height="10"
+           width="20"
+           ry="5"
+           stroke="#393332"
+           stroke-width="1"
+           fill="#ffffff" />
+      </g>
+      <g
+         id="stn_name_stn_jd2dTI-dyH-2"
+         transform="translate(0,-35.01)"
+         text-anchor="middle"
+         stroke-width="2.5"
+         paint-order="stroke"
+         stroke="#ffffff"
+         stroke-linejoin="round">
+        <g
+           id="g44">
+          <text
+             dy="-2"
+             dx="0"
+             dominant-baseline="auto"
+             font-size="12.67px"
+             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+             id="text43">图们北站</text>
+        </g>
+        <g
+           id="g46-4">
+          <text
+             dy="1.5"
+             dx="0"
+             dominant-baseline="hanging"
+             font-size="6.67px"
+             font-family="Arial, sans-serif"
+             id="text44">도문북역</text>
+          <text
+             dy="8.1700001"
+             dx="0"
+             dominant-baseline="hanging"
+             font-size="6.67px"
+             font-family="Arial, sans-serif"
+             id="text45">Tumen North</text>
+          <text
+             dy="14.84"
+             dx="0"
+             dominant-baseline="hanging"
+             font-size="6.67px"
+             font-family="Arial, sans-serif"
+             id="text46">Railway Station</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="stn_name_stn_sqdKQQD2AF"
+     transform="translate(450.6922,372.29034)"
+     text-anchor="middle"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g117">
+      <text
+         dy="-2"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text116">延吉西站</text>
+    </g>
+    <g
+       id="g119">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text117">연길서역</text>
+      <text
+         dy="8.1700001"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text118">Yanji West</text>
+      <text
+         dy="14.84"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text119">Railway Station</text>
+    </g>
+  </g>
+  <g
+     id="stn_name_stn_nqSaz8qkPr"
+     transform="translate(204.39458,575.62854)"
+     text-anchor="start"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g125">
+      <text
+         dy="-2"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text124">长白山站</text>
+    </g>
+    <g
+       id="g127-2">
+      <text
+         dy="1.5"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text125">장백산역</text>
+      <text
+         dy="8.1700001"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text126-1">Changbaishan</text>
+      <text
+         dy="14.84"
+         dx="1.67"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text127-6">Railway Station</text>
+    </g>
+  </g>
 </svg>
