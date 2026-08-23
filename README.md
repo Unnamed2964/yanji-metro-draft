@@ -3,13 +3,13 @@
 本仓库是一则关于延吉及附近地区的**架空**轨道交通规划草案。本项目并不旨在于指导任何现实建设。
 
 线路图查看：
-[Releases](https://github.com/Unnamed2964/yanji-metro-draft/releases/)
+[➡️ Releases](https://github.com/Unnamed2964/yanji-rail-transit-fiction/releases/)
 
 架空世界观：
-[架空世界观](/fictional-universe.md)
+[➡️ 架空世界观](/fictional-universe.md)
 
 线路简介：
-[线路简介](/line-introductions.md)
+[➡️ 线路简介](/line-introductions.md)
 
 ## 规范
 
