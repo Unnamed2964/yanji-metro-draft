@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="canvas"
-   height="2300"
-   width="1626.642"
-   viewBox="130.42892 71.793373 1626.642 2300.0001"
+   height="1612.668"
+   width="1140.501"
+   viewBox="65.34552 18.744308 1140.5009 1612.6679"
    version="1.1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -12,14 +12,15 @@
   <defs
      id="defs2" />
   <g
-     id="g462">
+     id="g460"
+     transform="translate(0,50)">
     <g
        data-editor-layer=""
-       id="g461">
+       id="g459">
       <g
          id="line_Cqa0q4tzQ6">
         <path
-           d="M 210.31,784.75 H 1487.78"
+           d="M 140.2,523.2 H 991.9"
            fill="none"
            stroke="#b9e3f9"
            stroke-width="20"
@@ -30,7 +31,7 @@
       <g
          id="line_Ll9xHfwMQA">
         <path
-           d="m 1652.24,861.1 v 85.835 c 0,5 -3.5355,13.53553 -7.0711,17.07107 L 1280.865,1328.31"
+           d="m 1101.5,574.1 v 53.8 c 0,5 -3.5355,13.53553 -7.0711,17.07107 L 853.9,885.5"
            fill="none"
            stroke="#b9e3f9"
            stroke-width="20"
@@ -41,7 +42,7 @@
       <g
          id="line_pJIM5dag7M">
         <path
-           d="m 865.77,1400.205 h 333.2 c 5,0 13.5355,-3.5355 17.0711,-7.0711 l 64.8239,-64.8239"
+           d="m 577.2,933.5 h 218.7 c 5,0 13.53553,-3.53553 17.07107,-7.07107 L 853.9,885.5"
            fill="none"
            stroke="#b9e3f9"
            stroke-width="20"
@@ -52,7 +53,7 @@
       <g
          id="line_UCdo8aCKbd">
         <path
-           d="M 865.77,1400.205 H 721.545 c -5,0 -13.53553,3.5355 -17.07107,7.0711 L 187.5,1924.25"
+           d="m 577.2,933.5 h -92.9 c -5,0 -13.53553,3.53553 -17.07107,7.07107 L 125,1282.8"
            fill="none"
            stroke="#b9e3f9"
            stroke-width="20"
@@ -63,7 +64,7 @@
       <g
          id="line_l-o90TUIno">
         <path
-           d="m 1487.78,784.75 h 52.47 c 5,0 13.5355,-3.53553 17.0711,-7.07107 L 1700,635"
+           d="m 991.9,523.2 h 31.5 c 5,0 13.5355,-3.53553 17.0711,-7.07107 L 1133.3,423.3"
            fill="none"
            stroke="#b9e3f9"
            stroke-width="20"
@@ -74,7 +75,7 @@
       <g
          id="line_uRBXO4mAvH">
         <path
-           d="M 1652.24,861.1 V 692.76 c 0,-5 3.5355,-13.53553 7.0711,-17.07107 L 1700,635"
+           d="m 1101.5,574.1 v -109 c 0,-5 3.5355,-13.53553 7.0711,-17.07107 L 1133.3,423.3"
            fill="none"
            stroke="#b9e3f9"
            stroke-width="20"
@@ -88,14 +89,14 @@
            cursor="pointer"
            id="g9">
           <path
-             d="m 480,672.5 -98.28893,98.28893 C 378.17553,774.32447 374.64,782.86 374.64,787.86 v 651.595"
+             d="m 320,448.3 -63.12893,63.12893 C 253.33553,514.96447 249.8,523.5 249.8,528.5 v 431.1"
              fill="none"
              stroke="#000000"
              stroke-width="5"
              stroke-linecap="round"
              id="path8" />
           <path
-             d="m 480,672.5 -98.28893,98.28893 C 378.17553,774.32447 374.64,782.86 374.64,787.86 v 651.595"
+             d="m 320,448.3 -63.12893,63.12893 C 253.33553,514.96447 249.8,523.5 249.8,528.5 v 431.1"
              fill="none"
              stroke="#ffffff"
              stroke-width="4.67"
@@ -106,7 +107,7 @@
       <g
          id="line_Ljlr54fEo6">
         <path
-           d="m 1155,375 v 80"
+           d="m 770,250 v 53.3"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -117,7 +118,7 @@
       <g
          id="line_ofITDJEoyK">
         <path
-           d="m 1155,455 v 75"
+           d="m 770,303.3 v 50"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -128,7 +129,7 @@
       <g
          id="line_dakjYyNGZO">
         <path
-           d="m 1155,530 v 75"
+           d="m 770,353.3 v 50"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -139,7 +140,7 @@
       <g
          id="line_yVVqNg_yjW">
         <path
-           d="m 1155,605 v 82.5"
+           d="m 770,403.3 v 55"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -150,7 +151,7 @@
       <g
          id="line_xKmdWziyQF">
         <path
-           d="M 1155,687.5 V 750"
+           d="M 770,458.3 V 500"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -161,7 +162,7 @@
       <g
          id="line_HmGSfSpMcZ">
         <path
-           d="m 1155,750 v 75"
+           d="m 770,500 v 50"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -172,7 +173,7 @@
       <g
          id="line_-VxHWSvpKq">
         <path
-           d="m 847.5,963 v 65.75"
+           d="m 565,642 v 43.8"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -183,7 +184,7 @@
       <g
          id="line_tQQWbBiu8f">
         <path
-           d="m 847.5,1028.75 v 70.75"
+           d="M 565,685.8 V 733"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -194,7 +195,7 @@
       <g
          id="line_how6avgN9Y">
         <path
-           d="m 1102,1643.66 v 91"
+           d="m 737.7,1095.8 v 60.6"
            fill="none"
            stroke="#4bbbb4"
            stroke-width="5"
@@ -203,31 +204,31 @@
            id="path18" />
       </g>
       <g
-         id="line_g5Erwrgr34">
+         id="line_-2mrtupwnn">
         <path
-           d="m 1124.73,1778.28 45.05,45.05"
+           d="M 683.8,1105.6 H 623.1"
            fill="none"
-           stroke="#4bbbb4"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path19" />
       </g>
       <g
-         id="line_t60NfXMxd6">
+         id="line_kYb7y5dOMP">
         <path
-           d="m 1169.78,1823.33 73.76,73.76"
+           d="M 623.1,1105.6 H 561.8"
            fill="none"
-           stroke="#4bbbb4"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path20" />
       </g>
       <g
-         id="line_-2mrtupwnn">
+         id="line_O5hm1ebnyD">
         <path
-           d="m 1025.72,1658.33 h -91.1"
+           d="M 561.8,1105.6 H 497.2"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -236,9 +237,9 @@
            id="path21" />
       </g>
       <g
-         id="line_kYb7y5dOMP">
+         id="line_EHdwQ1oEt0">
         <path
-           d="M 934.62,1658.33 H 842.68"
+           d="M 497.2,1105.6 H 432.6"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -247,9 +248,9 @@
            id="path22" />
       </g>
       <g
-         id="line_O5hm1ebnyD">
+         id="line_ka9HstBQ-q">
         <path
-           d="M 842.68,1658.33 H 745.73"
+           d="M 429.6,1105.6 H 370.5"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -258,31 +259,31 @@
            id="path23" />
       </g>
       <g
-         id="line_EHdwQ1oEt0">
+         id="line_TasE4gWgyO">
         <path
-           d="M 745.73,1658.33 H 647.44"
+           d="M 721.5,458.3 H 770"
            fill="none"
-           stroke="#009ace"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path24" />
       </g>
       <g
-         id="line_ka9HstBQ-q">
+         id="line_xdS3sxwru8">
         <path
-           d="M 644.44,1658.33 H 555.72"
+           d="M 721.5,458.3 H 663"
            fill="none"
-           stroke="#009ace"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path25" />
       </g>
       <g
-         id="line_TasE4gWgyO">
+         id="line_27Yi0vvduy">
         <path
-           d="M 1082.25,687.5 H 1155"
+           d="M 663,458.3 H 604.5"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -291,9 +292,9 @@
            id="path26" />
       </g>
       <g
-         id="line_xdS3sxwru8">
+         id="line_JjPB2N36C3">
         <path
-           d="M 1082.25,687.5 H 994.5"
+           d="M 604.5,458.3 H 549.4"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -302,9 +303,9 @@
            id="path27" />
       </g>
       <g
-         id="line_27Yi0vvduy">
+         id="line_pEre3L3ZqT">
         <path
-           d="M 994.5,687.5 H 906.75"
+           d="M 549.4,458.3 H 505"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -313,9 +314,9 @@
            id="path28" />
       </g>
       <g
-         id="line_JjPB2N36C3">
+         id="line_kjUnkfe_yY">
         <path
-           d="M 906.75,687.5 H 824.085"
+           d="M 505,458.3 H 449"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -324,9 +325,9 @@
            id="path29" />
       </g>
       <g
-         id="line_pEre3L3ZqT">
+         id="line_YToQj7UERW">
         <path
-           d="M 824.085,687.5 H 757.5"
+           d="M 449,458.3 H 398"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -335,9 +336,9 @@
            id="path30" />
       </g>
       <g
-         id="line_kjUnkfe_yY">
+         id="line__2KfcoREjB">
         <path
-           d="m 757.5,687.5 h -84"
+           d="M 398,458.3 H 341"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -346,31 +347,31 @@
            id="path31" />
       </g>
       <g
-         id="line_YToQj7UERW">
+         id="line_MiWuvaOO2Y">
         <path
-           d="M 673.5,687.5 H 597"
+           d="m 367.5,582.5 h 41"
            fill="none"
-           stroke="#a6093d"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path32" />
       </g>
       <g
-         id="line__2KfcoREjB">
+         id="line_N5fULAwzcv">
         <path
-           d="M 597,687.5 H 511.5"
+           d="m 408.5,582.5 h 62.1"
            fill="none"
-           stroke="#a6093d"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path33" />
       </g>
       <g
-         id="line_MiWuvaOO2Y">
+         id="line_Kc42Y3pOhH">
         <path
-           d="m 551.25,873.75 h 61.5"
+           d="m 470.6,582.5 h 62.2"
            fill="none"
            stroke="#f2da51"
            stroke-width="5"
@@ -379,9 +380,9 @@
            id="path34" />
       </g>
       <g
-         id="line_N5fULAwzcv">
+         id="line_kCfV1BpYYw">
         <path
-           d="m 612.75,873.75 h 93.225"
+           d="m 532.8,582.5 h 62.3"
            fill="none"
            stroke="#f2da51"
            stroke-width="5"
@@ -390,73 +391,74 @@
            id="path35" />
       </g>
       <g
-         id="line_Kc42Y3pOhH">
-        <path
-           d="m 705.975,873.75 h 93.24"
-           fill="none"
-           stroke="#f2da51"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path36" />
-      </g>
-      <g
-         id="line_kCfV1BpYYw">
-        <path
-           d="m 799.215,873.75 h 90.92"
-           fill="none"
-           stroke="#f2da51"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path37" />
-      </g>
-      <g
          id="line_-ci6DUkjdW">
         <g
            cursor="pointer"
-           id="g39">
+           id="g37">
           <path
-             d="M 210.31,672.5 H 480"
+             d="M 140.2,448.3 H 320"
              fill="none"
              stroke="#000000"
              stroke-width="5"
              stroke-linecap="round"
-             id="path38" />
+             id="path36" />
           <path
-             d="M 210.31,672.5 H 480"
+             d="M 140.2,448.3 H 320"
              fill="none"
              stroke="#ffffff"
              stroke-width="4.67"
              stroke-dasharray="17.5"
-             id="path39" />
-        </g>
-      </g>
-      <g
-         id="line_FwXJhsBrt2">
-        <g
-           cursor="pointer"
-           id="g41">
-          <path
-             d="M 1700,327.5 H 1222.5"
-             fill="none"
-             stroke="#000000"
-             stroke-width="5"
-             stroke-linecap="round"
-             id="path40" />
-          <path
-             d="M 1700,327.5 H 1222.5"
-             fill="none"
-             stroke="#ffffff"
-             stroke-width="4.67"
-             stroke-dasharray="17.5"
-             id="path41" />
+             id="path37" />
         </g>
       </g>
       <g
          id="line_AoVbRXXr9b">
         <path
-           d="m 1155,687.5 h 80.25"
+           d="m 770,458.3 h 53.5"
+           fill="none"
+           stroke="#a6093d"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path38" />
+      </g>
+      <g
+         id="line_8wL6Jm8u9k">
+        <path
+           d="M 714.9,589.5 H 647.4"
+           fill="none"
+           stroke="#009ace"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path39" />
+      </g>
+      <g
+         id="line_lTQqqBwJyI">
+        <path
+           d="m 647.4,581.5 h 67.5"
+           fill="none"
+           stroke="#f2da51"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path40" />
+      </g>
+      <g
+         id="line_pjap1qqDSw">
+        <path
+           d="M 823.5,458.3 H 882"
+           fill="none"
+           stroke="#a6093d"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path41" />
+      </g>
+      <g
+         id="line_iZbfhv34yA">
+        <path
+           d="m 943.7,458.3 h 63.7"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -465,20 +467,20 @@
            id="path42" />
       </g>
       <g
-         id="line_8wL6Jm8u9k">
+         id="line_C1TDWOdn9d">
         <path
-           d="M 1072.275,882.25 H 971.055"
+           d="M 882,582.5 H 823.5"
            fill="none"
-           stroke="#009ace"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path43" />
       </g>
       <g
-         id="line_lTQqqBwJyI">
+         id="line_wgZD3TKYVH">
         <path
-           d="m 971.055,874.25 h 101.22"
+           d="m 943.7,582.5 h 61.8"
            fill="none"
            stroke="#f2da51"
            stroke-width="5"
@@ -487,9 +489,9 @@
            id="path44" />
       </g>
       <g
-         id="line_pjap1qqDSw">
+         id="line_wDNLVq9ld3">
         <path
-           d="M 1235.25,687.5 H 1323"
+           d="m 1007.4,458.3 h 64.9"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -498,107 +500,107 @@
            id="path45" />
       </g>
       <g
-         id="line_iZbfhv34yA">
+         id="line_g2tAdJxror">
         <path
-           d="m 1415.595,687.5 h 95.445"
+           d="m 770,190 v -6.7"
            fill="none"
-           stroke="#a6093d"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path46" />
       </g>
       <g
-         id="line_C1TDWOdn9d">
+         id="line_9yODKpoHQr">
         <path
-           d="m 1323,873.75 h -87.75"
+           d="M 261.85,959.6 V 947.55"
            fill="none"
-           stroke="#f2da51"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path47" />
       </g>
       <g
-         id="line_wgZD3TKYVH">
+         id="line_jp3QH8bfbz">
         <path
-           d="m 1415.595,873.75 h 92.595"
+           d="M 271.1,104.9 H 262"
            fill="none"
-           stroke="#f2da51"
+           stroke="#ef426f"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path48" />
       </g>
       <g
-         id="line_wDNLVq9ld3">
-        <path
-           d="m 1511.04,687.5 h 97.455"
-           fill="none"
-           stroke="#a6093d"
-           stroke-width="5"
-           stroke-linecap="round"
+         id="line_oE8UC4bYz1">
+        <g
            cursor="pointer"
-           id="path49" />
+           id="g50">
+          <path
+             d="m 320,448.3 h 32.2"
+             fill="none"
+             stroke="#000000"
+             stroke-width="5"
+             stroke-linecap="round"
+             id="path49" />
+          <path
+             d="m 320,448.3 h 32.2"
+             fill="none"
+             stroke="#ffffff"
+             stroke-width="4.67"
+             stroke-dasharray="17.5"
+             id="path50" />
+        </g>
       </g>
       <g
-         id="line_g2tAdJxror">
+         id="line_cb6IhMiCPN">
         <path
-           d="M 1155,285 V 275"
+           d="m 370.5,1057.8 v 47.8"
            fill="none"
-           stroke="#009ace"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path50" />
-      </g>
-      <g
-         id="line_VbErP-04D7">
-        <path
-           d="M 1102,1643.66 V 1534.34"
-           fill="none"
-           stroke="#4bbbb4"
+           stroke="#7d55c7"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path51" />
       </g>
       <g
-         id="line_jp3QH8bfbz">
+         id="line_p6LmX-dg2g">
         <path
-           d="M 406.65,157.4 H 393.045"
+           d="m 412.2,911.7 h 54.9"
            fill="none"
-           stroke="#ef426f"
+           stroke="#7d55c7"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path52" />
       </g>
       <g
-         id="line_oE8UC4bYz1">
-        <g
+         id="line_8Gx1NJmqGN">
+        <path
+           d="m 467.1,911.7 h 58.8"
+           fill="none"
+           stroke="#7d55c7"
+           stroke-width="5"
+           stroke-linecap="round"
            cursor="pointer"
-           id="g54">
-          <path
-             d="m 480,672.5 h 48.285"
-             fill="none"
-             stroke="#000000"
-             stroke-width="5"
-             stroke-linecap="round"
-             id="path53" />
-          <path
-             d="m 480,672.5 h 48.285"
-             fill="none"
-             stroke="#ffffff"
-             stroke-width="4.67"
-             stroke-dasharray="17.5"
-             id="path54" />
-        </g>
+           id="path53" />
       </g>
       <g
-         id="line_cb6IhMiCPN">
+         id="line_rQHVrzjKJB">
         <path
-           d="m 555.72,1586.74 v 71.59"
+           d="m 525.9,911.7 h 60.3"
+           fill="none"
+           stroke="#7d55c7"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path54" />
+      </g>
+      <g
+         id="line_1fsXyImuC2">
+        <path
+           d="m 586.2,911.7 h 56.6"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -607,9 +609,9 @@
            id="path55" />
       </g>
       <g
-         id="line_p6LmX-dg2g">
+         id="line_J8zyvUawug">
         <path
-           d="m 618.29,1367.5 h 82.43"
+           d="m 440.98,1192.68 -35.2,-35.2"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -618,9 +620,9 @@
            id="path56" />
       </g>
       <g
-         id="line_8Gx1NJmqGN">
+         id="line_KpgJ3LeOh3">
         <path
-           d="m 700.72,1367.5 h 88.14"
+           d="m 370.5,957.7 v 50.5"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -629,9 +631,9 @@
            id="path57" />
       </g>
       <g
-         id="line_rQHVrzjKJB">
+         id="line_7X_L4TzeLo">
         <path
-           d="m 788.86,1367.5 h 90.4"
+           d="m 370.5,1008.2 v 49.6"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -640,141 +642,141 @@
            id="path58" />
       </g>
       <g
-         id="line_1fsXyImuC2">
+         id="line_pIW_hS2Zlr">
         <path
-           d="m 879.26,1367.5 h 84.99"
+           d="m 647.4,589.5 h -44.1 c -5,0 -13.53553,3.53553 -17.07107,7.07107 L 577.5,605.3"
            fill="none"
-           stroke="#7d55c7"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path59" />
       </g>
       <g
-         id="line_wu_FFbiuqk">
+         id="line_hx2q1QBrve">
         <path
-           d="M 753.88,1888.88 655.4,1790.4"
+           d="m 577.5,605.3 -5.42893,5.42893 C 568.53553,614.26447 565,622.8 565,627.8 V 642"
            fill="none"
-           stroke="#7d55c7"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path60" />
       </g>
       <g
-         id="line_KpgJ3LeOh3">
+         id="line_bRoGo7jxZP">
         <path
-           d="m 555.72,1436.61 v 75.73"
+           d="m 411.8,608 h 111.8 c 9.15,0 18.3,9.15 18.3,18.3 v 124.8"
            fill="none"
-           stroke="#7d55c7"
+           stroke="#ffffff"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path61" />
       </g>
       <g
-         id="line_7X_L4TzeLo">
+         id="line_yaeQbpZBZ8">
         <path
-           d="m 555.72,1512.34 v 74.4"
+           d="M 541.9,751.1 H 815 c 9.15,0 18.3,9.15 18.3,18.3 V 877"
            fill="none"
-           stroke="#7d55c7"
+           stroke="#ffffff"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path62" />
       </g>
       <g
-         id="line_pIW_hS2Zlr">
+         id="line_1DyHBCj70b">
         <path
-           d="m 971.055,882.25 h -69.09 c -5,0 -13.53553,3.53553 -17.07107,7.07107 L 866.265,907.95"
+           d="m 833.3,877 h -249 c -9.15,0 -18.3,8.8 -18.3,17.6 v 0"
            fill="none"
-           stroke="#009ace"
+           stroke="#ffffff"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path63" />
       </g>
       <g
-         id="line_hx2q1QBrve">
+         id="line_TrAwwp9Q4B">
         <path
-           d="m 866.265,907.95 -11.69393,11.69393 C 851.03553,923.17947 847.5,931.715 847.5,936.715 V 963"
+           d="M 566,894.6 H 430.1 c -9.15,0 -18.3,-9.15 -18.3,-18.3 V 608"
            fill="none"
-           stroke="#009ace"
+           stroke="#ffffff"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path64" />
       </g>
       <g
-         id="line_bRoGo7jxZP">
+         id="line_Y-s8JmpJV2">
         <path
-           d="m 617.67,911.94 h 176.895 c 9.165,0 18.33,9.165 18.33,18.33 v 188.835"
+           d="m 565,733 v 12.3 c 0,5 3.53553,13.53553 7.07107,17.07107 L 699.7,890"
            fill="none"
-           stroke="#ffffff"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path65" />
       </g>
       <g
-         id="line_yaeQbpZBZ8">
+         id="line_6Q8WlLROF3">
         <path
-           d="m 812.895,1119.105 h 418.725 c 9.165,0 18.33,9.165 18.33,18.33 v 178.015"
+           d="m 749.8,1185.5 -5.02893,-5.0289 C 741.23553,1176.9355 737.7,1168.4 737.7,1163.4 v -7"
            fill="none"
-           stroke="#ffffff"
+           stroke="#4bbbb4"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path66" />
       </g>
       <g
-         id="line_1DyHBCj70b">
+         id="line_g5Erwrgr34">
         <path
-           d="m 1249.95,1315.45 h -382.6 c -9.165,0 -18.33,9.165 -18.33,18.33 v 8.19"
+           d="m 749.8,1185.5 23.02893,23.0289 c 3.53554,3.5356 7.07107,7.0711 7.07107,7.0711 v 0"
            fill="none"
-           stroke="#ffffff"
+           stroke="#4bbbb4"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path67" />
       </g>
       <g
-         id="line_TrAwwp9Q4B">
+         id="line_t60NfXMxd6">
         <path
-           d="M 849.02,1341.97 H 636 c -9.165,0 -18.33,-9.165 -18.33,-18.33 v -411.7"
+           d="m 779.9,1215.6 v 0 c 0,0 3.53553,3.5355 7.07107,7.0711 L 829,1264.7"
            fill="none"
-           stroke="#ffffff"
+           stroke="#4bbbb4"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path68" />
       </g>
       <g
-         id="line_Y-s8JmpJV2">
+         id="line_cjYPHPnQV6">
         <path
-           d="m 847.5,1099.5 v 23.5 c 0,5 3.53553,13.5355 7.07107,17.0711 L 1049.5,1335"
+           d="M 337,458.3 V 545 c 0,5 3.53553,13.53553 7.07107,17.07107 L 353,571"
            fill="none"
-           stroke="#009ace"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path69" />
       </g>
       <g
-         id="line_6Q8WlLROF3">
+         id="line_AnS1Lv0r2B">
         <path
-           d="m 1124.73,1778.28 -15.6589,-15.6589 C 1105.5355,1759.0855 1102,1750.55 1102,1745.55 v -10.89"
+           d="m 353,571 4.42893,4.42893 C 360.96447,578.96447 366,582.5 367.5,582.5 v 0"
            fill="none"
-           stroke="#4bbbb4"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path70" />
       </g>
       <g
-         id="line_cjYPHPnQV6">
+         id="line_ev53qrnBJ5">
         <path
-           d="m 507.5,687.5 v 136.91 c 0,5 3.53553,13.53553 7.07107,17.07107 L 529.545,856.455"
+           d="m 590.1,582.5 h 49.95685 c 5,0 10.08579,0.0858 10.17158,0.17157 v 0"
            fill="none"
            stroke="#f2da51"
            stroke-width="5"
@@ -783,31 +785,31 @@
            id="path71" />
       </g>
       <g
-         id="line_AnS1Lv0r2B">
+         id="line_DjCrDhqEAo">
         <path
-           d="m 529.545,856.455 10.22393,10.22393 c 3.53554,3.53554 9.27607,7.07107 11.48107,7.07107 v 0"
+           d="m 261.85,959.6 v 40.85 c 0,5 3.53553,13.5355 7.07107,17.0711 L 278.4,1027"
            fill="none"
-           stroke="#f2da51"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path72" />
       </g>
       <g
-         id="line_ev53qrnBJ5">
+         id="line_e0athbl2s9">
         <path
-           d="m 885.135,873.75 h 77.07685 c 5,0 10.83579,0.83579 11.67158,1.67157 v 0"
+           d="m 278.4,1027 v 0 c 0,0 3.53553,3.5355 7.07107,7.0711 L 315.5,1064.1"
            fill="none"
-           stroke="#f2da51"
+           stroke="#009ace"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path73" />
       </g>
       <g
-         id="line_DjCrDhqEAo">
+         id="line_KKtz5BQm9r">
         <path
-           d="m 388.045,1439.455 v 68.98 c 0,5 3.53553,13.5355 7.07107,17.0711 L 417.88,1548.27"
+           d="m 729.3,1022.9 v 42.2 c 0,5 -3.53553,13.5355 -7.07107,17.0711 L 714.9,1089.5"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -816,9 +818,9 @@
            id="path74" />
       </g>
       <g
-         id="line_e0athbl2s9">
+         id="line_e8z1k0ZMg1">
         <path
-           d="m 417.88,1548.27 v 0 c 0,0 3.53553,3.5355 7.07107,7.0711 L 473.29,1603.68"
+           d="m 683.8,1105.6 h 5 c 5,0 13.53553,-3.5355 17.07107,-7.0711 L 714.9,1089.5"
            fill="none"
            stroke="#009ace"
            stroke-width="5"
@@ -827,74 +829,74 @@
            id="path75" />
       </g>
       <g
-         id="line_KKtz5BQm9r">
+         id="line_JuAxbg4UAT">
         <path
-           d="m 1094,1534.34 v 68.14 c 0,5 -3.5355,13.5355 -7.0711,17.0711 L 1072.28,1634.2"
+           d="M 211.4,423.7 166.47107,378.77107 C 162.93553,375.23553 159.4,371.65 159.4,371.6 v 0"
            fill="none"
-           stroke="#009ace"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path76" />
       </g>
       <g
-         id="line_e8z1k0ZMg1">
+         id="line_XqtX45LIpa">
         <path
-           d="m 1025.72,1658.33 h 12.43 c 5,0 13.5355,-3.5355 17.0711,-7.0711 L 1072.28,1634.2"
+           d="m 159.4,371.6 v 0 c 0,0 -3.53553,-3.53553 -7.07107,-7.07107 L 150.69,362.89"
            fill="none"
-           stroke="#009ace"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path77" />
       </g>
       <g
-         id="line_JuAxbg4UAT">
-        <path
-           d="M 317.17,635.49 246.21107,564.53107 C 242.67553,560.99553 239.14,557.46 239.14,557.46 v 0"
-           fill="none"
-           stroke="#a6093d"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path78" />
-      </g>
-      <g
-         id="line_XqtX45LIpa">
-        <path
-           d="m 239.14,557.46 v 0 c 0,-0.705 -2.78,-4.19 -5.56,-6.97 v 0"
-           fill="none"
-           stroke="#a6093d"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path79" />
-      </g>
-      <g
          id="line_ak-2nhT_V6">
         <g
            cursor="pointer"
-           id="g81">
+           id="g79">
           <path
-             d="m 1222.5,327.5 h -116 c -5,0 -13.5355,3.53553 -17.0711,7.07107 L 939,485"
+             d="M 1133.3,218.3 H 741 c -5,0 -13.53553,3.53553 -17.07107,7.07107 L 626,323.3"
              fill="none"
              stroke="#000000"
              stroke-width="5"
              stroke-linecap="round"
-             id="path80" />
+             id="path78" />
           <path
-             d="m 1222.5,327.5 h -116 c -5,0 -13.5355,3.53553 -17.0711,7.07107 L 939,485"
+             d="M 1133.3,218.3 H 741 c -5,0 -13.53553,3.53553 -17.07107,7.07107 L 626,323.3"
              fill="none"
              stroke="#ffffff"
              stroke-width="4.67"
              stroke-dasharray="17.5"
-             id="path81" />
+             id="path79" />
         </g>
       </g>
       <g
          id="line_Mbaa5RKED0">
         <path
-           d="m 1235.25,873.75 h -154.1319 c -5,0 -10.8357,0.83579 -11.6715,1.67157 v 0"
+           d="M 823.5,582.5 H 722.24315 c -5,0 -10.08579,0.0858 -10.17158,0.17157 v 0"
+           fill="none"
+           stroke="#f2da51"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path80" />
+      </g>
+      <g
+         id="line_iRhkaTwEFk">
+        <path
+           d="m 714.9,589.5 h 5.6 c 5,0 13.53553,-3.53553 17.07107,-7.07107 L 770,550"
+           fill="none"
+           stroke="#009ace"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path81" />
+      </g>
+      <g
+         id="line_O0g3P42TO8">
+        <path
+           d="M 1072.3,458.3 V 535 c 0,5 -3.5355,13.53553 -7.0711,17.07107 L 1048,569.3"
            fill="none"
            stroke="#f2da51"
            stroke-width="5"
@@ -903,42 +905,42 @@
            id="path82" />
       </g>
       <g
-         id="line_iRhkaTwEFk">
+         id="line_HWCoJmwMKx">
         <path
-           d="m 1072.275,882.25 h 15.475 c 5,0 13.5355,-3.53553 17.0711,-7.07107 L 1155,825"
+           d="m 1048,569.3 -6.1289,6.12893 C 1038.3355,578.96447 1029.8,582.5 1024.8,582.5 h -19.3"
            fill="none"
-           stroke="#009ace"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path83" />
       </g>
       <g
-         id="line_O0g3P42TO8">
+         id="line_tIOjBChKdi">
         <path
-           d="m 1608.495,687.5 v 120 c 0,5 -3.5355,13.53553 -7.0711,17.07107 L 1572.045,853.95"
+           d="m 164.9,627.5 v 0 c 0,0 3.53553,-3.53553 7.07107,-7.07107 L 204.7,587.7"
            fill="none"
-           stroke="#f2da51"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path84" />
       </g>
       <g
-         id="line_HWCoJmwMKx">
+         id="line_Gfw3lbgemN">
         <path
-           d="m 1572.045,853.95 -12.7289,12.72893 c -3.5356,3.53554 -12.0711,7.07107 -17.0711,7.07107 h -34.055"
+           d="m 204.7,587.7 v 0 c 0,0 3.53553,-3.53553 7.07107,-7.07107 L 237.9,554.5"
            fill="none"
-           stroke="#f2da51"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path85" />
       </g>
       <g
-         id="line_tIOjBChKdi">
+         id="line_p8x-ehuMzH">
         <path
-           d="m 247.38,941.25 v 0 c 0,-0.008 3.53553,-3.55053 7.07107,-7.08607 L 307.09,881.525"
+           d="m 237.9,554.5 89.12893,-89.12893 C 330.56447,461.83553 337.55,458.3 341,458.3 v 0"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -947,31 +949,31 @@
            id="path86" />
       </g>
       <g
-         id="line_Gfw3lbgemN">
+         id="line_KKI_r3_XSQ">
         <path
-           d="m 307.09,881.525 v 0 c 0,-0.007 3.53553,-3.55053 7.07107,-7.08607 L 356.8,831.8"
+           d="m 829,1264.7 20.10995,20.1099 c 6.47002,6.4701 6.47002,19.4101 0,25.8802 L 813.11,1346.69"
            fill="none"
-           stroke="#a6093d"
+           stroke="#4bbbb4"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path87" />
       </g>
       <g
-         id="line_p8x-ehuMzH">
+         id="line_VxU6REpW4O">
         <path
-           d="M 356.8,831.8 494.02893,694.57107 C 497.56447,691.03553 506.1,687.5 511.1,687.5 h 0.4"
+           d="m 813.11,1346.69 v 0 c 0,0 -6.47003,6.47 -12.94005,12.9401 L 764.21,1395.59"
            fill="none"
-           stroke="#a6093d"
+           stroke="#4bbbb4"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path88" />
       </g>
       <g
-         id="line_KKI_r3_XSQ">
+         id="line_64aDKpgJ2H">
         <path
-           d="m 1243.54,1897.09 36.5937,36.5937 c 6.4807,6.4807 6.4807,19.4419 0,25.9226 L 1219.21,2020.53"
+           d="m 764.21,1395.59 v 0 c 0,0 -6.47003,6.47 -12.94005,12.9401 L 704.66,1455.14"
            fill="none"
            stroke="#4bbbb4"
            stroke-width="5"
@@ -980,20 +982,20 @@
            id="path89" />
       </g>
       <g
-         id="line_VxU6REpW4O">
+         id="line_jczY4Dy_37">
         <path
-           d="m 1219.21,2020.53 v 0 c 0,0 -6.4806,6.4806 -12.9613,12.9613 L 1145.79,2093.95"
+           d="m 164.9,627.5 v 0 c 0,0 -3.015,3.015 -6.03,6.03 v 0"
            fill="none"
-           stroke="#4bbbb4"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path90" />
       </g>
       <g
-         id="line_64aDKpgJ2H">
+         id="line_VbErP-04D7">
         <path
-           d="m 1145.79,2093.95 v 0 c 0,0 -6.4806,6.4806 -12.9613,12.9613 L 1054.68,2185.06"
+           d="m 737.7,1095.8 v -65.8137 c 0,-5 -1.37157,-11.3716 -2.74315,-12.7432 v 0"
            fill="none"
            stroke="#4bbbb4"
            stroke-width="5"
@@ -1002,63 +1004,62 @@
            id="path91" />
       </g>
       <g
-         id="line_jczY4Dy_37">
+         id="line_Tc1feuWTx3">
         <path
-           d="m 247.38,941.25 v 0 c -0.015,0 -3.405,3.375 -6.78,6.75 v 0"
+           d="M 345,458.3 V 153.4 c 0,-5 -3.53553,-13.53553 -7.07107,-17.07107 L 327.1,125.5"
            fill="none"
-           stroke="#a6093d"
+           stroke="#ef426f"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path92" />
       </g>
       <g
-         id="line_9yODKpoHQr">
+         id="line_fRKAL1ps8A">
         <path
-           d="m 388.045,1439.455 v -2.84 c 0,-5 -0.002,-10.0025 -0.005,-10.005 v 0"
+           d="M 327.1,125.5 313.57107,111.97107 C 310.03553,108.43553 301.5,104.9 296.5,104.9 h -25.4"
            fill="none"
-           stroke="#009ace"
+           stroke="#ef426f"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path93" />
       </g>
       <g
-         id="line_Tc1feuWTx3">
-        <path
-           d="M 515.5,687.5 V 223.16 c 0,-5 -3.53553,-13.53553 -7.07107,-17.07107 L 490.59,188.25"
-           fill="none"
-           stroke="#ef426f"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path94" />
-      </g>
-      <g
-         id="line_fRKAL1ps8A">
-        <path
-           d="M 490.59,188.25 466.81107,164.47107 C 463.27553,160.93553 454.74,157.4 449.74,157.4 h -43.09"
-           fill="none"
-           stroke="#ef426f"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path95" />
-      </g>
-      <g
          id="line_IIXT57E9_4">
+        <g
+           cursor="pointer"
+           id="g95">
+          <path
+             d="M 352.2,448.3 H 491 c 5,0 13.53553,-3.53553 17.07107,-7.07107 L 626,323.3"
+             fill="none"
+             stroke="#000000"
+             stroke-width="5"
+             stroke-linecap="round"
+             id="path94" />
+          <path
+             d="M 352.2,448.3 H 491 c 5,0 13.53553,-3.53553 17.07107,-7.07107 L 626,323.3"
+             fill="none"
+             stroke="#ffffff"
+             stroke-width="4.67"
+             stroke-dasharray="17.5"
+             id="path95" />
+        </g>
+      </g>
+      <g
+         id="line_OEkplWtOU6">
         <g
            cursor="pointer"
            id="g97">
           <path
-             d="M 528.285,672.5 H 741.5 c 5,0 13.53553,-3.53553 17.07107,-7.07107 L 939,485"
+             d="m 249.8,959.6 v 90.9 c 0,5 -3.53553,13.5355 -7.07107,17.0711 L 125,1185.3"
              fill="none"
              stroke="#000000"
              stroke-width="5"
              stroke-linecap="round"
              id="path96" />
           <path
-             d="M 528.285,672.5 H 741.5 c 5,0 13.53553,-3.53553 17.07107,-7.07107 L 939,485"
+             d="m 249.8,959.6 v 90.9 c 0,5 -3.53553,13.5355 -7.07107,17.0711 L 125,1185.3"
              fill="none"
              stroke="#ffffff"
              stroke-width="4.67"
@@ -1067,19 +1068,19 @@
         </g>
       </g>
       <g
-         id="line_OEkplWtOU6">
+         id="line_9jrkzAt-BA">
         <g
            cursor="pointer"
            id="g99">
           <path
-             d="m 374.64,1439.455 v 141.425 c 0,5 -3.53553,13.5355 -7.07107,17.0711 L 187.5,1778.02"
+             d="m 249.8,959.6 v 49 c 0,5 3.53553,13.5355 7.07107,17.0711 L 695.5,1464.3"
              fill="none"
              stroke="#000000"
              stroke-width="5"
              stroke-linecap="round"
              id="path98" />
           <path
-             d="m 374.64,1439.455 v 141.425 c 0,5 -3.53553,13.5355 -7.07107,17.0711 L 187.5,1778.02"
+             d="m 249.8,959.6 v 49 c 0,5 3.53553,13.5355 7.07107,17.0711 L 695.5,1464.3"
              fill="none"
              stroke="#ffffff"
              stroke-width="4.67"
@@ -1088,19 +1089,19 @@
         </g>
       </g>
       <g
-         id="line_9jrkzAt-BA">
+         id="line_nSr2P2IhNP">
         <g
            cursor="pointer"
            id="g101">
           <path
-             d="m 374.64,1439.455 v 78.345 c 0,5 3.53553,13.5355 7.07107,17.0711 L 1043.29,2196.45"
+             d="m 695.5,1464.3 v 0 c 0.05,0 3.63553,3.5355 7.17107,7.0711 L 710.4,1479.1"
              fill="none"
              stroke="#000000"
              stroke-width="5"
              stroke-linecap="round"
              id="path100" />
           <path
-             d="m 374.64,1439.455 v 78.345 c 0,5 3.53553,13.5355 7.07107,17.0711 L 1043.29,2196.45"
+             d="m 695.5,1464.3 v 0 c 0.05,0 3.63553,3.5355 7.17107,7.0711 L 710.4,1479.1"
              fill="none"
              stroke="#ffffff"
              stroke-width="4.67"
@@ -1109,52 +1110,53 @@
         </g>
       </g>
       <g
-         id="line_nSr2P2IhNP">
-        <g
-           cursor="pointer"
-           id="g103">
-          <path
-             d="m 1043.29,2196.45 v 0 c 0,0 3.5355,3.5355 7.0711,7.0711 l 15.1689,15.1689"
-             fill="none"
-             stroke="#000000"
-             stroke-width="5"
-             stroke-linecap="round"
-             id="path102" />
-          <path
-             d="m 1043.29,2196.45 v 0 c 0,0 3.5355,3.5355 7.0711,7.0711 l 15.1689,15.1689"
-             fill="none"
-             stroke="#ffffff"
-             stroke-width="4.67"
-             stroke-dasharray="17.5"
-             id="path103" />
-        </g>
-      </g>
-      <g
          id="line__-oLYURBWk">
         <path
-           d="M 1094,1534.34 V 1389.5 c 0,-5 -3.5355,-13.5355 -7.0711,-17.0711 L 1049.5,1335"
+           d="m 729.3,1022.9 v -93.3 c 0,-5 -3.53553,-13.53553 -7.07107,-17.07107 L 699.7,890"
            fill="none"
            stroke="#009ace"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path102" />
+      </g>
+      <g
+         id="line_vKS__4CyMV">
+        <path
+           d="M 370.5,1105.6 H 367 c -5,0 -13.53553,-3.5355 -17.07107,-7.0711 L 315.5,1064.1"
+           fill="none"
+           stroke="#009ace"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path103" />
+      </g>
+      <g
+         id="line_9ahYp1l8o-">
+        <path
+           d="m 642.8,911.7 h 9 c 5,0 13.53553,3.53553 17.07107,7.07107 L 701.2,951.1"
+           fill="none"
+           stroke="#7d55c7"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path104" />
       </g>
       <g
-         id="line_vKS__4CyMV">
+         id="line_s4511DPMyU">
         <path
-           d="m 555.72,1658.33 h -17.78 c -5,0 -13.53553,-3.5355 -17.07107,-7.0711 L 473.29,1603.68"
+           d="m 721.3,1022.9 v -41.7 c 0,-5 -3.53553,-13.53553 -7.07107,-17.07107 L 701.2,951.1"
            fill="none"
-           stroke="#009ace"
+           stroke="#7d55c7"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path105" />
       </g>
       <g
-         id="line_9ahYp1l8o-">
+         id="line_ePHjpJ9ypQ">
         <path
-           d="m 964.25,1367.5 h 18.38 c 5,0 13.53553,3.5355 17.07107,7.0711 L 1051.74,1426.61"
+           d="m 370.5,1105.6 v 6.6 c 0,5 3.53553,13.5355 7.07107,17.0711 L 405.78,1157.48"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -1163,9 +1165,9 @@
            id="path106" />
       </g>
       <g
-         id="line_s4511DPMyU">
+         id="line_wu_FFbiuqk">
         <path
-           d="m 1086,1534.34 v -63.47 c 0,-5 -3.5355,-13.5355 -7.0711,-17.0711 L 1051.74,1426.61"
+           d="m 507.59,1259.19 v 0 c -0.05,0 -3.63553,-3.5355 -7.17107,-7.0711 L 440.98,1192.68"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -1174,9 +1176,9 @@
            id="path107" />
       </g>
       <g
-         id="line_ePHjpJ9ypQ">
+         id="line_SHcI0yJr_P">
         <path
-           d="m 555.72,1658.33 v 22.39 c 0,5 3.53553,13.5355 7.07107,17.0711 L 602.5,1737.5"
+           d="m 513.1,1264.7 v 0 c 0,0 -2.755,-2.755 -5.51,-5.51 v 0"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -1185,9 +1187,9 @@
            id="path108" />
       </g>
       <g
-         id="line_J8zyvUawug">
+         id="line_BPg6o_3INT">
         <path
-           d="m 655.4,1790.4 v 0 c 0,0 -3.53553,-3.5355 -7.07107,-7.0711 L 602.5,1737.5"
+           d="m 412.2,911.7 h -3.5 c -5,0 -13.53553,3.53553 -17.07107,7.07107 L 384.6,925.8"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -1196,9 +1198,9 @@
            id="path109" />
       </g>
       <g
-         id="line_SHcI0yJr_P">
+         id="line_lQ29UAS00s">
         <path
-           d="m 762.09,1897.09 v 0 c 0,0 -3.53553,-3.5355 -7.07107,-7.0711 L 753.88,1888.88"
+           d="m 370.5,957.7 v -7.8 c 0,-5 3.53553,-13.53553 7.07107,-17.07107 L 384.6,925.8"
            fill="none"
            stroke="#7d55c7"
            stroke-width="5"
@@ -1207,34 +1209,12 @@
            id="path110" />
       </g>
       <g
-         id="line_BPg6o_3INT">
-        <path
-           d="m 618.29,1367.5 h -10.27 c -5,0 -13.53553,3.5355 -17.07107,7.0711 L 576.83,1388.69"
-           fill="none"
-           stroke="#7d55c7"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path111" />
-      </g>
-      <g
-         id="line_lQ29UAS00s">
-        <path
-           d="m 555.72,1436.61 v -16.81 c 0,-5 3.53553,-13.5355 7.07107,-17.0711 L 576.83,1388.69"
-           fill="none"
-           stroke="#7d55c7"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path112" />
-      </g>
-      <g
          id="stn_of0SDA3Wal"
-         transform="translate(406.65,157.4)">
+         transform="translate(271.1,104.9)">
         <g
-           id="g115">
+           id="g113">
           <g
-             id="g112">
+             id="g110">
             <rect
                id="stn_core_stn_of0SDA3Wal"
                x="-2"
@@ -1253,43 +1233,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g113">
+               id="g111">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text112">锦城国际机场</text>
+                 id="text110">锦城国际机场</text>
             </g>
             <g
-               id="g114">
+               id="g112">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text113">금성국제공항</text>
+                 id="text111">금성국제공항</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text114">Jincheng International Airport</text>
+                 id="text112">Jincheng International Airport</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_yz-K7HVvTJ"
-         transform="translate(1155,285)">
+         transform="translate(770,190)">
         <g
-           id="g119">
+           id="g117">
           <g
              transform="rotate(90)"
-             id="g116">
+             id="g114">
             <rect
                id="stn_core_stn_yz-K7HVvTJ"
                x="-2"
@@ -1308,43 +1288,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g117">
+               id="g115">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text116">依兰</text>
+                 id="text114">依兰</text>
             </g>
             <g
-               id="g118">
+               id="g116">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text117">의란</text>
+                 id="text115">의란</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text118">Yilan</text>
+                 id="text116">Yilan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_JnR9Wv10Ap"
-         transform="translate(1155,375)">
+         transform="translate(770,250)">
         <g
-           id="g123">
+           id="g121">
           <g
              transform="rotate(90)"
-             id="g120">
+             id="g118">
             <rect
                id="stn_core_stn_JnR9Wv10Ap"
                x="-2"
@@ -1363,43 +1343,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g121">
+               id="g119">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text120">兴安</text>
+                 id="text118">兴安</text>
             </g>
             <g
-               id="g122">
+               id="g120">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text121">흥안</text>
+                 id="text119">흥안</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text122">Xing'an</text>
+                 id="text120">Xing'an</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_o40V0ynV3l"
-         transform="translate(1155,455)">
+         transform="translate(770,303.3)">
         <g
-           id="g127">
+           id="g125">
           <g
              transform="rotate(90)"
-             id="g124">
+             id="g122">
             <rect
                id="stn_core_stn_o40V0ynV3l"
                x="-2"
@@ -1418,43 +1398,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g125">
+               id="g123">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text124">延北路</text>
+                 id="text122">延北路</text>
             </g>
             <g
-               id="g126">
+               id="g124">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text125">연북로</text>
+                 id="text123">연북로</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text126">Yanbei Road</text>
+                 id="text124">Yanbei Road</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_QzGRISGtJR"
-         transform="translate(1155,530)">
+         transform="translate(770,353.3)">
         <g
-           id="g131">
+           id="g129">
           <g
              transform="rotate(90)"
-             id="g128">
+             id="g126">
             <rect
                id="stn_core_stn_QzGRISGtJR"
                x="-2"
@@ -1473,43 +1453,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g129">
+               id="g127">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text128">北阳路</text>
+                 id="text126">北阳路</text>
             </g>
             <g
-               id="g130">
+               id="g128">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text129">북양로</text>
+                 id="text127">북양로</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text130">Beiyang Road</text>
+                 id="text128">Beiyang Road</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_bcEsDHIjLI"
-         transform="translate(1155,605)">
+         transform="translate(770,403.3)">
         <g
-           id="g135">
+           id="g133">
           <g
              transform="rotate(90)"
-             id="g132">
+             id="g130">
             <rect
                id="stn_core_stn_bcEsDHIjLI"
                x="-2"
@@ -1528,42 +1508,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g133">
+               id="g131">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text132">延边医院</text>
+                 id="text130">延边医院</text>
             </g>
             <g
-               id="g134">
+               id="g132">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text133">연변병원</text>
+                 id="text131">연변병원</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text134">Yanbian Hospital</text>
+                 id="text132">Yanbian Hospital</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_0yaa_xampx"
-         transform="translate(1155,687.5)">
+         transform="translate(770,458.3)">
         <g
-           id="g139">
+           id="g137">
           <g
-             id="g136">
+             id="g134">
             <rect
                id="stn_core_stn_0yaa_xampx"
                x="-6.5"
@@ -1584,43 +1564,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g137">
+               id="g135">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text136">局子街</text>
+                 id="text134">局子街</text>
             </g>
             <g
-               id="g138">
+               id="g136">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text137">국자거리</text>
+                 id="text135">국자거리</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text138">Juzi Street</text>
+                 id="text136">Juzi Street</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_lrT9aP5IPi"
-         transform="translate(1155,750)">
+         transform="translate(770,500)">
         <g
-           id="g143">
+           id="g141">
           <g
              transform="rotate(90)"
-             id="g140">
+             id="g138">
             <rect
                id="stn_core_stn_lrT9aP5IPi"
                x="-2"
@@ -1639,43 +1619,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g141">
+               id="g139">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text140">友谊路</text>
+                 id="text138">友谊路</text>
             </g>
             <g
-               id="g142">
+               id="g140">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text141">우의로</text>
+                 id="text139">우의로</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text142">Youyi Road</text>
+                 id="text140">Youyi Road</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_Zmh63kfaZA"
-         transform="translate(1155,825)">
+         transform="translate(770,550)">
         <g
-           id="g147">
+           id="g145">
           <g
              transform="rotate(90)"
-             id="g144">
+             id="g142">
             <rect
                id="stn_core_stn_Zmh63kfaZA"
                x="-2"
@@ -1694,46 +1674,46 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g145">
+               id="g143">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text144">长白山西路</text>
+                 id="text142">长白山西路</text>
             </g>
             <g
-               id="g146">
+               id="g144">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text145">장백산서로</text>
+                 id="text143">장백산서로</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text146">West Changbaishan Road</text>
+                 id="text144">West Changbaishan Road</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_2ELJsRlepg"
-         transform="translate(210.31,784.75)" />
+         transform="translate(140.2,523.2)" />
       <g
          id="stn_BSJyTrOUqk"
-         transform="translate(971.055,878.25)">
+         transform="translate(647.4,585.5)">
         <g
-           id="g151">
+           id="g149">
           <g
              transform="rotate(90)"
-             id="g148">
+             id="g146">
             <rect
                id="stn_core_stn_BSJyTrOUqk"
                x="-10"
@@ -1747,53 +1727,53 @@
           </g>
           <g
              id="stn_name_stn_BSJyTrOUqk"
-             transform="translate(0,-28.34)"
+             transform="translate(0,23.5)"
              text-anchor="middle"
              stroke-width="2.5"
              paint-order="stroke"
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g149">
+               id="g147">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text148">延吉火车站</text>
+                 id="text146">延吉火车站</text>
             </g>
             <g
-               id="g150">
+               id="g148">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text149">연길기차역</text>
+                 id="text147">연길기차역</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text150">Yanji Railway Station</text>
+                 id="text148">Yanji Railway Station</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_azH7voaRZT"
-         transform="translate(866.265,907.95)" />
+         transform="translate(577.5,605.3)" />
       <g
          id="stn_AVxFezQRsD"
-         transform="translate(847.5,963)">
+         transform="translate(565,642)">
         <g
-           id="g155">
+           id="g153">
           <g
              transform="rotate(90)"
-             id="g152">
+             id="g150">
             <rect
                id="stn_core_stn_AVxFezQRsD"
                x="-2"
@@ -1812,43 +1792,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g153">
+               id="g151">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text152">延南路</text>
+                 id="text150">延南路</text>
             </g>
             <g
-               id="g154">
+               id="g152">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text153">연남로</text>
+                 id="text151">연남로</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text154">Yannan Road</text>
+                 id="text152">Yannan Road</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_aNuZN_6Wms"
-         transform="translate(847.5,1028.75)">
+         transform="translate(565,685.8)">
         <g
-           id="g159">
+           id="g157">
           <g
              transform="rotate(90)"
-             id="g156">
+             id="g154">
             <rect
                id="stn_core_stn_aNuZN_6Wms"
                x="-2"
@@ -1867,43 +1847,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g157">
+               id="g155">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text156">民俗园</text>
+                 id="text154">民俗园</text>
             </g>
             <g
-               id="g158">
+               id="g156">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text157">민속원</text>
+                 id="text155">민속원</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text158">Minsuyuan</text>
+                 id="text156">Minsuyuan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_WOL6UVf5PQ"
-         transform="translate(847.5,1099.5)">
+         transform="translate(565,733)">
         <g
-           id="g163">
+           id="g161">
           <g
              transform="rotate(90)"
-             id="g160">
+             id="g158">
             <rect
                id="stn_core_stn_WOL6UVf5PQ"
                x="-2"
@@ -1922,79 +1902,79 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g161">
+               id="g159">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text160">恐龙博物馆</text>
+                 id="text158">恐龙博物馆</text>
             </g>
             <g
-               id="g162">
+               id="g160">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text161">공룡박물관</text>
+                 id="text159">공룡박물관</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text162">Museum of Dragons</text>
+                 id="text160">Museum of Dragons</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_dML1c1XvTo"
-         transform="translate(617.67,911.94)">
+         transform="translate(411.8,608)">
         <g
-           id="g169">
+           id="g167">
           <g
-             transform="translate(-617.67,-911.94)"
-             id="g168">
+             transform="translate(-411.8,-608)"
+             id="g166">
             <defs
-               id="defs166" />
+               id="defs164" />
             <path
-               d="m 617.67,911.94 v 411.7 c 0,9.165 9.165,18.33 18.33,18.33 h 213.02 v -8.19 c 0,-9.165 9.165,-18.33 18.33,-18.33 h 382.6 v -178.015 c 0,-9.165 -9.165,-18.33 -18.33,-18.33 H 812.895 V 930.27 c 0,-9.165 -9.165,-18.33 -18.33,-18.33 z"
+               d="m 411.8,608 v 268.3 c 0,9.15 9.15,18.3 18.3,18.3 H 566 v 0 c 0,-8.8 9.15,-17.6 18.3,-17.6 h 249 V 769.4 c 0,-9.15 -9.15,-18.3 -18.3,-18.3 H 541.9 V 626.3 c 0,-9.15 -9.15,-18.3 -18.3,-18.3 z"
                fill="#007a60"
                fill-opacity="0.5"
                stroke="none"
                pointer-events="none"
-               id="path167" />
+               id="path165" />
             <path
-               d="m 617.67,911.94 v 411.7 c 0,9.165 9.165,18.33 18.33,18.33 h 213.02 v -8.19 c 0,-9.165 9.165,-18.33 18.33,-18.33 h 382.6 v -178.015 c 0,-9.165 -9.165,-18.33 -18.33,-18.33 H 812.895 V 930.27 c 0,-9.165 -9.165,-18.33 -18.33,-18.33 z"
+               d="m 411.8,608 v 268.3 c 0,9.15 9.15,18.3 18.3,18.3 H 566 v 0 c 0,-8.8 9.15,-17.6 18.3,-17.6 h 249 V 769.4 c 0,-9.15 -9.15,-18.3 -18.3,-18.3 H 541.9 V 626.3 c 0,-9.15 -9.15,-18.3 -18.3,-18.3 z"
                fill="url(#logo_misc_node_dML1c1XvTo)"
                fill-opacity="0.5"
                stroke="none"
                pointer-events="none"
-               id="path168" />
+               id="path166" />
           </g>
         </g>
       </g>
       <g
          id="misc_node_fQquCRQLon"
-         transform="translate(812.895,1119.105)" />
+         transform="translate(541.9,751.1)" />
       <g
          id="misc_node_8xKcVYS1tS"
-         transform="translate(1249.95,1315.45)" />
+         transform="translate(833.3,877)" />
       <g
          id="misc_node_5jzK-6C13n"
-         transform="translate(849.02,1341.97)" />
+         transform="translate(566,894.6)" />
       <g
          id="stn_9Tu6UNM_pU"
-         transform="translate(1049.5,1335)">
+         transform="translate(699.7,890)">
         <g
-           id="g173">
+           id="g171">
           <g
              transform="rotate(45)"
-             id="g170">
+             id="g168">
             <rect
                id="stn_core_stn_9Tu6UNM_pU"
                x="-2"
@@ -2013,42 +1993,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g171">
+               id="g169">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text170">龙山</text>
+                 id="text168">龙山</text>
             </g>
             <g
-               id="g172">
+               id="g170">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text171">룡산</text>
+                 id="text169">룡산</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text172">Longshan</text>
+                 id="text170">Longshan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_HHt_FJzSFQ"
-         transform="translate(1094,1534.34)">
+         transform="translate(729.3,1022.9)">
         <g
-           id="g177">
+           id="g175">
           <g
-             id="g174">
+             id="g172">
             <rect
                id="stn_core_stn_HHt_FJzSFQ"
                x="-12"
@@ -2069,42 +2049,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g175">
+               id="g173">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text174">同泰源</text>
+                 id="text172">同泰源</text>
             </g>
             <g
-               id="g176">
+               id="g174">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text175">동태원</text>
+                 id="text173">동태원</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text176">Tongtaiyuan</text>
+                 id="text174">Tongtaiyuan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_df3uyjfz3K"
-         transform="translate(725.58,1226.475)">
+         transform="translate(483.7,817.6)">
         <g
-           id="g179">
+           id="g177">
           <g
-             id="g178">
+             id="g176">
             <text
                dy="2"
                dx="0"
@@ -2116,7 +2096,7 @@
                fill="#007a60"
                font-style="normal"
                font-weight="normal"
-               id="text177">帽儿山</text>
+               id="text175">帽儿山</text>
             <text
                dy="18"
                dx="0"
@@ -2128,18 +2108,18 @@
                fill="#007a60"
                font-style="normal"
                font-weight="normal"
-               id="text178" />
+               id="text176" />
           </g>
         </g>
       </g>
       <g
          id="stn_BINUJgy_Nj"
-         transform="translate(1102,1643.66)">
+         transform="translate(737.7,1095.8)">
         <g
-           id="g183">
+           id="g181">
           <g
              transform="rotate(90)"
-             id="g180">
+             id="g178">
             <rect
                id="stn_core_stn_BINUJgy_Nj"
                x="-2"
@@ -2158,43 +2138,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g181">
+               id="g179">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text180">延东</text>
+                 id="text178">延东</text>
             </g>
             <g
-               id="g182">
+               id="g180">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text181">연동</text>
+                 id="text179">연동</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text182">Yandong</text>
+                 id="text180">Yandong</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_M2v7UJgBgr"
-         transform="translate(1102,1734.66)">
+         transform="translate(737.7,1156.4)">
         <g
-           id="g187">
+           id="g185">
           <g
              transform="rotate(-90)"
-             id="g184">
+             id="g182">
             <rect
                id="stn_core_stn_M2v7UJgBgr"
                x="-2"
@@ -2213,46 +2193,46 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g185">
+               id="g183">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text184">延南</text>
+                 id="text182">延南</text>
             </g>
             <g
-               id="g186">
+               id="g184">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text185">연남</text>
+                 id="text183">연남</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text186">Yannan</text>
+                 id="text184">Yannan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_HU9IdFlLle"
-         transform="translate(1124.73,1778.28)" />
+         transform="translate(749.8,1185.5)" />
       <g
          id="stn_fRBr6Cu0wH"
-         transform="translate(1169.78,1823.33)">
+         transform="translate(779.9,1215.6)">
         <g
-           id="g191">
+           id="g189">
           <g
              transform="rotate(-135)"
-             id="g188">
+             id="g186">
             <rect
                id="stn_core_stn_fRBr6Cu0wH"
                x="-2"
@@ -2271,43 +2251,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g189">
+               id="g187">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text188">南洞</text>
+                 id="text186">南洞</text>
             </g>
             <g
-               id="g190">
+               id="g188">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text189">남동</text>
+                 id="text187">남동</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text190">Nandong</text>
+                 id="text188">Nandong</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_TcJHWAUdZo"
-         transform="translate(1243.54,1897.09)">
+         transform="translate(829,1264.7)">
         <g
-           id="g195">
+           id="g193">
           <g
              transform="rotate(-135)"
-             id="g192">
+             id="g190">
             <rect
                id="stn_core_stn_TcJHWAUdZo"
                x="-2"
@@ -2326,42 +2306,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g193">
+               id="g191">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text192">德新</text>
+                 id="text190">德新</text>
             </g>
             <g
-               id="g194">
+               id="g192">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text193">덕신</text>
+                 id="text191">덕신</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text194">Dexin</text>
+                 id="text192">Dexin</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_vsm3pnFbxB"
-         transform="translate(1025.72,1658.33)">
+         transform="translate(683.8,1105.6)">
         <g
-           id="g199">
+           id="g197">
           <g
-             id="g196">
+             id="g194">
             <rect
                id="stn_core_stn_vsm3pnFbxB"
                x="-2"
@@ -2380,42 +2360,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g197">
+               id="g195">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text196">东盛涌</text>
+                 id="text194">东盛涌</text>
             </g>
             <g
-               id="g198">
+               id="g196">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text197">동성용</text>
+                 id="text195">동성용</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text198">Dongshengyong</text>
+                 id="text196">Dongshengyong</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_7cMS_IeNRu"
-         transform="translate(934.62,1658.33)">
+         transform="translate(623.1,1105.6)">
         <g
-           id="g203">
+           id="g201">
           <g
-             id="g200">
+             id="g198">
             <rect
                id="stn_core_stn_7cMS_IeNRu"
                x="-2"
@@ -2434,42 +2414,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g201">
+               id="g199">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text200">红星</text>
+                 id="text198">红星</text>
             </g>
             <g
-               id="g202">
+               id="g200">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text201">홍성</text>
+                 id="text199">홍성</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text202">Hongxing</text>
+                 id="text200">Hongxing</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_ugupB_kTNT"
-         transform="translate(842.68,1658.33)">
+         transform="translate(561.8,1105.6)">
         <g
-           id="g207">
+           id="g205">
           <g
-             id="g204">
+             id="g202">
             <rect
                id="stn_core_stn_ugupB_kTNT"
                x="-2"
@@ -2488,42 +2468,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g205">
+               id="g203">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text204">龙海</text>
+                 id="text202">龙海</text>
             </g>
             <g
-               id="g206">
+               id="g204">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text205">룡해</text>
+                 id="text203">룡해</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text206">Longhai</text>
+                 id="text204">Longhai</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_qgRKby7cz-"
-         transform="translate(745.73,1658.33)">
+         transform="translate(497.2,1105.6)">
         <g
-           id="g211">
+           id="g209">
           <g
-             id="g208">
+             id="g206">
             <rect
                id="stn_core_stn_qgRKby7cz-"
                x="-2"
@@ -2542,42 +2522,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g209">
+               id="g207">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text208">龙东</text>
+                 id="text206">龙东</text>
             </g>
             <g
-               id="g210">
+               id="g208">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text209">룡동</text>
+                 id="text207">룡동</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text210">Longdong</text>
+                 id="text208">Longdong</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_39CJGkt2IP"
-         transform="translate(644.44,1658.33)">
+         transform="translate(429.6,1105.6)">
         <g
-           id="g215">
+           id="g213">
           <g
-             id="g212">
+             id="g210">
             <rect
                id="stn_core_stn_39CJGkt2IP"
                x="-2"
@@ -2596,42 +2576,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g213">
+               id="g211">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text212">龙井火车站</text>
+                 id="text210">龙井火车站</text>
             </g>
             <g
-               id="g214">
+               id="g212">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text213">룡정기차역</text>
+                 id="text211">룡정기차역</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text214">Longjing Railway Station</text>
+                 id="text212">Longjing Railway Station</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_hqeP1ZR8OL"
-         transform="translate(555.72,1658.33)">
+         transform="translate(370.5,1105.6)">
         <g
-           id="g219">
+           id="g217">
           <g
-             id="g216">
+             id="g214">
             <rect
                id="stn_core_stn_hqeP1ZR8OL"
                x="-6.5"
@@ -2645,49 +2625,49 @@
           </g>
           <g
              id="stn_name_stn_hqeP1ZR8OL"
-             transform="translate(0,18.5)"
-             text-anchor="middle"
+             transform="translate(-13.33,18.5)"
+             text-anchor="end"
              stroke-width="2.5"
              paint-order="stroke"
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g217">
+               id="g215">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text216">龙井市标</text>
+                 id="text214">龙井市标</text>
             </g>
             <g
-               id="g218">
+               id="g216">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text217">룡정시표</text>
+                 id="text215">룡정시표</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text218">Longjing City Sign</text>
+                 id="text216">Longjing City Sign</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_vWt4dvR-S7"
-         transform="translate(1082.25,687.5)">
+         transform="translate(721.5,458.3)">
         <g
-           id="g223">
+           id="g221">
           <g
-             id="g220">
+             id="g218">
             <rect
                id="stn_core_stn_vWt4dvR-S7"
                x="-2"
@@ -2706,42 +2686,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g221">
+               id="g219">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text220">人民公园</text>
+                 id="text218">人民公园</text>
             </g>
             <g
-               id="g222">
+               id="g220">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text221">인민공원</text>
+                 id="text219">인민공원</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text222">People's Park</text>
+                 id="text220">People's Park</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_bvEE0C0jGM"
-         transform="translate(994.5,687.5)">
+         transform="translate(663,458.3)">
         <g
-           id="g227">
+           id="g225">
           <g
-             id="g224">
+             id="g222">
             <rect
                id="stn_core_stn_bvEE0C0jGM"
                x="-2"
@@ -2760,42 +2740,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g225">
+               id="g223">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text224">延边大学</text>
+                 id="text222">延边大学</text>
             </g>
             <g
-               id="g226">
+               id="g224">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text225">연변대학교</text>
+                 id="text223">연변대학교</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text226">Yanbian University</text>
+                 id="text224">Yanbian University</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_ocnUIRWsKY"
-         transform="translate(906.75,687.5)">
+         transform="translate(604.5,458.3)">
         <g
-           id="g231">
+           id="g229">
           <g
-             id="g228">
+             id="g226">
             <rect
                id="stn_core_stn_ocnUIRWsKY"
                x="-2"
@@ -2814,42 +2794,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g229">
+               id="g227">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text228">园川街</text>
+                 id="text226">园川街</text>
             </g>
             <g
-               id="g230">
+               id="g228">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text229">원천거리</text>
+                 id="text227">원천거리</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text230">Yuanchuan Street</text>
+                 id="text228">Yuanchuan Street</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_qOAT4M1Qrb"
-         transform="translate(824.085,687.5)">
+         transform="translate(549.4,458.3)">
         <g
-           id="g236">
+           id="g234">
           <g
-             id="g232">
+             id="g230">
             <rect
                id="stn_core_stn_qOAT4M1Qrb"
                x="-2"
@@ -2868,50 +2848,50 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g233">
+               id="g231">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text232">州政府</text>
+                 id="text230">州政府</text>
             </g>
             <g
-               id="g235">
+               id="g233">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text233">주정부</text>
+                 id="text231">주정부</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text234">Government of</text>
+                 id="text232">Government of</text>
               <text
                  dy="14.84"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text235">YCAP</text>
+                 id="text233">YCAP</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_wRe_rwG4R_"
-         transform="translate(757.5,687.5)">
+         transform="translate(505,458.3)">
         <g
-           id="g240">
+           id="g238">
           <g
              transform="scale(-1)"
-             id="g237">
+             id="g235">
             <rect
                id="stn_core_stn_wRe_rwG4R_"
                x="-2"
@@ -2930,43 +2910,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g238">
+               id="g236">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text237">卧龙街</text>
+                 id="text235">卧龙街</text>
             </g>
             <g
-               id="g239">
+               id="g237">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text238">와룡거리</text>
+                 id="text236">와룡거리</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text239">Wolong Street</text>
+                 id="text237">Wolong Street</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_NjZQ-1WMcn"
-         transform="translate(673.5,687.5)">
+         transform="translate(449,458.3)">
         <g
-           id="g244">
+           id="g242">
           <g
              transform="scale(-1)"
-             id="g241">
+             id="g239">
             <rect
                id="stn_core_stn_NjZQ-1WMcn"
                x="-2"
@@ -2985,43 +2965,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g242">
+               id="g240">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text241">外环立交</text>
+                 id="text239">外环立交</text>
             </g>
             <g
-               id="g243">
+               id="g241">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text242">외환입체교</text>
+                 id="text240">외환입체교</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text243">Waihuan Flyover</text>
+                 id="text241">Waihuan Flyover</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_l1EoKRbLm0"
-         transform="translate(597,687.5)">
+         transform="translate(398,458.3)">
         <g
-           id="g248">
+           id="g246">
           <g
              transform="scale(-1)"
-             id="g245">
+             id="g243">
             <rect
                id="stn_core_stn_l1EoKRbLm0"
                x="-2"
@@ -3040,46 +3020,46 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g246">
+               id="g244">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text245">凤巢</text>
+                 id="text243">凤巢</text>
             </g>
             <g
-               id="g247">
+               id="g245">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text246">봉소</text>
+                 id="text244">봉소</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text247">Fengchao</text>
+                 id="text245">Fengchao</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_Byyu_6JTFE"
-         transform="translate(529.545,856.455)" />
+         transform="translate(353,571)" />
       <g
          id="stn_NVM5_1e-d-"
-         transform="translate(551.25,873.75)">
+         transform="translate(367.5,582.5)">
         <g
-           id="g252">
+           id="g250">
           <g
              transform="scale(-1)"
-             id="g249">
+             id="g247">
             <rect
                id="stn_core_stn_NVM5_1e-d-"
                x="-2"
@@ -3098,42 +3078,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g250">
+               id="g248">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text249">延边博物馆</text>
+                 id="text247">延边博物馆</text>
             </g>
             <g
-               id="g251">
+               id="g249">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text250">연변박물관</text>
+                 id="text248">연변박물관</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text251">Yanbian Museum</text>
+                 id="text249">Yanbian Museum</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_y-fUG1tJax"
-         transform="translate(612.75,873.75)">
+         transform="translate(408.5,582.5)">
         <g
-           id="g256">
+           id="g254">
           <g
-             id="g253">
+             id="g251">
             <rect
                id="stn_core_stn_y-fUG1tJax"
                x="-2"
@@ -3152,42 +3132,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g254">
+               id="g252">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text253">朝阳川机场</text>
+                 id="text251">朝阳川机场</text>
             </g>
             <g
-               id="g255">
+               id="g253">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text254">조양천공항</text>
+                 id="text252">조양천공항</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text255">Chaoyangchuan Airport</text>
+                 id="text253">Chaoyangchuan Airport</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_Rykb_Il5iI"
-         transform="translate(705.975,873.75)">
+         transform="translate(470.6,582.5)">
         <g
-           id="g260">
+           id="g258">
           <g
-             id="g257">
+             id="g255">
             <rect
                id="stn_core_stn_Rykb_Il5iI"
                x="-2"
@@ -3206,42 +3186,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g258">
+               id="g256">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text257">州司法局</text>
+                 id="text255">州司法局</text>
             </g>
             <g
-               id="g259">
+               id="g257">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text258">주사법국</text>
+                 id="text256">주사법국</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text259">BJYCAP</text>
+                 id="text257">BJYCAP</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_35knmYAX9q"
-         transform="translate(799.215,873.75)">
+         transform="translate(532.8,582.5)">
         <g
-           id="g264">
+           id="g262">
           <g
-             id="g261">
+             id="g259">
             <rect
                id="stn_core_stn_35knmYAX9q"
                x="-2"
@@ -3260,42 +3240,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g262">
+               id="g260">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text261">金达莱广场</text>
+                 id="text259">金达莱广场</text>
             </g>
             <g
-               id="g263">
+               id="g261">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text262">진달래광장</text>
+                 id="text260">진달래광장</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text263">Jindalai Park</text>
+                 id="text261">Jindalai Park</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_TREOLADyTo"
-         transform="translate(885.135,873.75)">
+         transform="translate(590.1,582.5)">
         <g
-           id="g268">
+           id="g266">
           <g
-             id="g265">
+             id="g263">
             <rect
                id="stn_core_stn_TREOLADyTo"
                x="-2"
@@ -3314,43 +3294,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g266">
+               id="g264">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text265">新丰街</text>
+                 id="text263">新丰街</text>
             </g>
             <g
-               id="g267">
+               id="g265">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text266">신풍거리</text>
+                 id="text264">신풍거리</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text267">Xinfeng Street</text>
+                 id="text265">Xinfeng Street</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_tEiazT6pnD"
-         transform="translate(1235.25,873.75)">
+         transform="translate(823.5,582.5)">
         <g
-           id="g272">
+           id="g270">
           <g
              transform="scale(-1)"
-             id="g269">
+             id="g267">
             <rect
                id="stn_core_stn_tEiazT6pnD"
                x="-2"
@@ -3369,40 +3349,40 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g270">
+               id="g268">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text269">南岗街</text>
+                 id="text267">南岗街</text>
             </g>
             <g
-               id="g271">
+               id="g269">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text270">남강거리</text>
+                 id="text268">남강거리</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text271">Nangang Street</text>
+                 id="text269">Nangang Street</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_WMv6rOhHo2"
-         transform="translate(388.045,1439.455)">
+         transform="translate(261.85,959.6)">
         <g
-           id="g275">
+           id="g273">
           <circle
              id="stn_core_stn_WMv6rOhHo2"
              r="5"
@@ -3413,50 +3393,50 @@
              cy="0" />
           <g
              id="stn_name_stn_WMv6rOhHo2"
-             transform="translate(13.33,18.5)"
+             transform="translate(13.33)"
              text-anchor="start"
              stroke-width="2.5"
              paint-order="stroke"
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g273">
+               id="g271">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text272">龙井西站</text>
+                 id="text270">龙井西站</text>
             </g>
             <g
-               id="g274">
+               id="g272">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text273">룡정서역</text>
+                 id="text271">룡정서역</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text274">Longjing West Railway Station</text>
+                 id="text272">Longjing West Railway Station</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_915pmcmSwk"
-         transform="translate(417.88,1548.27)">
+         transform="translate(278.4,1027)">
         <g
-           id="g280">
+           id="g278">
           <g
              transform="rotate(45)"
-             id="g276">
+             id="g274">
             <rect
                id="stn_core_stn_915pmcmSwk"
                x="-2"
@@ -3475,50 +3455,50 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g277">
+               id="g275">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text276">技术学院</text>
+                 id="text274">技术学院</text>
               <text
-                 dy="-13.67"
+                 dy="-14.67"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text277">吉林职业</text>
+                 id="text275">吉林职业</text>
             </g>
             <g
-               id="g279">
+               id="g277">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text278">길림직업기술학원</text>
+                 id="text276">길림직업기술학원</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text279">JVTC</text>
+                 id="text277">JVTC</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_47Tzx-sm4L"
-         transform="translate(473.29,1603.68)">
+         transform="translate(315.5,1064.1)">
         <g
-           id="g284">
+           id="g282">
           <g
              transform="rotate(45)"
-             id="g281">
+             id="g279">
             <rect
                id="stn_core_stn_47Tzx-sm4L"
                x="-2"
@@ -3537,45 +3517,45 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g282">
+               id="g280">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text281">东升</text>
+                 id="text279">东升</text>
             </g>
             <g
-               id="g283">
+               id="g281">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text282">동승</text>
+                 id="text280">동승</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text283">Dongsheng</text>
+                 id="text281">Dongsheng</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_4WWim4jwEI"
-         transform="translate(1072.28,1634.2)" />
+         transform="translate(714.9,1089.5)" />
       <g
          id="stn_Gn6OX7LzEZ"
-         transform="translate(427.905,687.5)">
+         transform="translate(285.3,458.3)">
         <g
-           id="g288">
+           id="g286">
           <g
-             id="g285">
+             id="g283">
             <rect
                id="stn_core_stn_Gn6OX7LzEZ"
                x="-2"
@@ -3594,43 +3574,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g286">
+               id="g284">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text285">光石</text>
+                 id="text283">光石</text>
             </g>
             <g
-               id="g287">
+               id="g285">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text286">광석</text>
+                 id="text284">광석</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text287">Guangshi</text>
+                 id="text285">Guangshi</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_2SsAt0wouM"
-         transform="translate(317.17,635.49)">
+         transform="translate(211.4,423.7)">
         <g
-           id="g292">
+           id="g290">
           <g
              transform="rotate(45)"
-             id="g289">
+             id="g287">
             <rect
                id="stn_core_stn_2SsAt0wouM"
                x="-2"
@@ -3649,43 +3629,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g290">
+               id="g288">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text289">仲坪</text>
+                 id="text287">仲坪</text>
             </g>
             <g
-               id="g291">
+               id="g289">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text290">중평</text>
+                 id="text288">중평</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text291">Zhongping</text>
+                 id="text289">Zhongping</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_-wg1sDYCwU"
-         transform="translate(239.14,557.46)">
+         transform="translate(159.4,371.6)">
         <g
-           id="g296">
+           id="g294">
           <g
              transform="rotate(45)"
-             id="g293">
+             id="g291">
             <rect
                id="stn_core_stn_-wg1sDYCwU"
                x="-2"
@@ -3704,61 +3684,61 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g294">
+               id="g292">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text293">仲兴</text>
+                 id="text291">仲兴</text>
             </g>
             <g
-               id="g295">
+               id="g293">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text294">중흥</text>
+                 id="text292">중흥</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text295">Zhongxing</text>
+                 id="text293">Zhongxing</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_zeicGA1myf"
-         transform="translate(233.58,550.49)" />
+         transform="translate(150.69,362.89)" />
       <g
          id="misc_node_wBCK7Ii4cw"
-         transform="translate(210.31,672.5)" />
+         transform="translate(140.2,448.3)" />
       <g
          id="misc_node_T5fzv__8tY"
-         transform="translate(939,485)" />
+         transform="translate(626,323.3)" />
       <g
          id="misc_node_QbbWP5YX4g"
-         transform="translate(1700,327.5)" />
+         transform="translate(1133.3,218.3)" />
       <g
          id="misc_node_5_JvsyqIvP"
-         transform="translate(480,672.5)" />
+         transform="translate(320,448.3)" />
       <g
          id="misc_node_TwlEG48KLk"
-         transform="translate(1222.5,327.5)" />
+         transform="translate(1133.3,218.3)" />
       <g
          id="stn_uqu9xVFHGS"
-         transform="translate(247.38,941.25)">
+         transform="translate(164.9,627.5)">
         <g
-           id="g300">
+           id="g298">
           <g
              transform="rotate(-45)"
-             id="g297">
+             id="g295">
             <rect
                id="stn_core_stn_uqu9xVFHGS"
                x="-2"
@@ -3777,42 +3757,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g298">
+               id="g296">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text297">朝阳川</text>
+                 id="text295">朝阳川</text>
             </g>
             <g
-               id="g299">
+               id="g297">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text298">조양천</text>
+                 id="text296">조양천</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text299">Chaoyangchuan</text>
+                 id="text297">Chaoyangchuan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_cuT876Um-2"
-         transform="translate(1235.25,687.5)">
+         transform="translate(823.5,458.3)">
         <g
-           id="g304">
+           id="g302">
           <g
-             id="g301">
+             id="g299">
             <rect
                id="stn_core_stn_cuT876Um-2"
                x="-2"
@@ -3831,43 +3811,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g302">
+               id="g300">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text301">朝阳街</text>
+                 id="text299">朝阳街</text>
             </g>
             <g
-               id="g303">
+               id="g301">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text302">조양거리</text>
+                 id="text300">조양거리</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text303">Chaoyang Street</text>
+                 id="text301">Chaoyang Street</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_2EdAKALkvs"
-         transform="translate(1072.275,878.25)">
+         transform="translate(714.9,585.5)">
         <g
-           id="g309">
+           id="g307">
           <g
              transform="rotate(90)"
-             id="g305">
+             id="g303">
             <rect
                id="stn_core_stn_2EdAKALkvs"
                x="-10"
@@ -3881,56 +3861,56 @@
           </g>
           <g
              id="stn_name_stn_2EdAKALkvs"
-             transform="translate(0,-35.01)"
+             transform="translate(0,23.5)"
              text-anchor="middle"
              stroke-width="2.5"
              paint-order="stroke"
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g306">
+               id="g304">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text305">延吉市政府</text>
+                 id="text303">延吉市政府</text>
             </g>
             <g
-               id="g308">
+               id="g306">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text306">연길시정부</text>
+                 id="text304">연길시정부</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text307">Government of</text>
+                 id="text305">Government of</text>
               <text
                  dy="14.84"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text308">Yanji City</text>
+                 id="text306">Yanji City</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_NeYGdS-Gnz"
-         transform="translate(1323,687.5)">
+         transform="translate(882,458.3)">
         <g
-           id="g313">
+           id="g311">
           <g
-             id="g310">
+             id="g308">
             <rect
                id="stn_core_stn_NeYGdS-Gnz"
                x="-2"
@@ -3949,42 +3929,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g311">
+               id="g309">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text310">光明</text>
+                 id="text308">光明</text>
             </g>
             <g
-               id="g312">
+               id="g310">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text311">광명</text>
+                 id="text309">광명</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text312">Guangming</text>
+                 id="text310">Guangming</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_sJgniLGF06"
-         transform="translate(1415.595,687.5)">
+         transform="translate(943.7,458.3)">
         <g
-           id="g317">
+           id="g315">
           <g
-             id="g314">
+             id="g312">
             <rect
                id="stn_core_stn_sJgniLGF06"
                x="-2"
@@ -4003,42 +3983,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g315">
+               id="g313">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text314">富阳</text>
+                 id="text312">富阳</text>
             </g>
             <g
-               id="g316">
+               id="g314">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text315">부양</text>
+                 id="text313">부양</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text316">Fuyang</text>
+                 id="text314">Fuyang</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_zIO1hk4uz5"
-         transform="translate(1511.04,687.5)">
+         transform="translate(1007.4,458.3)">
         <g
-           id="g321">
+           id="g319">
           <g
-             id="g318">
+             id="g316">
             <rect
                id="stn_core_stn_zIO1hk4uz5"
                x="-2"
@@ -4057,43 +4037,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g319">
+               id="g317">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text318">小营</text>
+                 id="text316">小营</text>
             </g>
             <g
-               id="g320">
+               id="g318">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text319">소영</text>
+                 id="text317">소영</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text320">Xiaoying</text>
+                 id="text318">Xiaoying</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_PgirCVtpUy"
-         transform="translate(1323,873.75)">
+         transform="translate(882,582.5)">
         <g
-           id="g325">
+           id="g323">
           <g
              transform="scale(-1)"
-             id="g322">
+             id="g320">
             <rect
                id="stn_core_stn_PgirCVtpUy"
                x="-2"
@@ -4112,43 +4092,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g323">
+               id="g321">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text322">东新</text>
+                 id="text320">东新</text>
             </g>
             <g
-               id="g324">
+               id="g322">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text323">동신</text>
+                 id="text321">동신</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text324">Dongxin</text>
+                 id="text322">Dongxin</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_TMK4-jk_2J"
-         transform="translate(1415.595,873.75)">
+         transform="translate(943.7,582.5)">
         <g
-           id="g329">
+           id="g327">
           <g
              transform="scale(-1)"
-             id="g326">
+             id="g324">
             <rect
                id="stn_core_stn_TMK4-jk_2J"
                x="-2"
@@ -4167,43 +4147,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g327">
+               id="g325">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text326">东风</text>
+                 id="text324">东风</text>
             </g>
             <g
-               id="g328">
+               id="g326">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text327">동풍</text>
+                 id="text325">동풍</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text328">Dongfeng</text>
+                 id="text326">Dongfeng</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_GZ9PV-klvl"
-         transform="translate(1508.19,873.75)">
+         transform="translate(1005.5,582.5)">
         <g
-           id="g333">
+           id="g331">
           <g
              transform="scale(-1)"
-             id="g330">
+             id="g328">
             <rect
                id="stn_core_stn_GZ9PV-klvl"
                x="-2"
@@ -4222,42 +4202,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g331">
+               id="g329">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text330">营南</text>
+                 id="text328">营南</text>
             </g>
             <g
-               id="g332">
+               id="g330">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text331">영남</text>
+                 id="text329">영남</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text332">Yingnan</text>
+                 id="text330">Yingnan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_EGQQ1TAabV"
-         transform="translate(1608.495,687.5)">
+         transform="translate(1072.3,458.3)">
         <g
-           id="g337">
+           id="g335">
           <g
-             id="g334">
+             id="g332">
             <rect
                id="stn_core_stn_EGQQ1TAabV"
                x="-6.5"
@@ -4278,46 +4258,46 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g335">
+               id="g333">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text334">溪洞火车站</text>
+                 id="text332">溪洞火车站</text>
             </g>
             <g
-               id="g336">
+               id="g334">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text335">계동기차역</text>
+                 id="text333">계동기차역</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text336">Xidong Railway Station</text>
+                 id="text334">Xidong Railway Station</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_QKzTk4Mv-T"
-         transform="translate(1572.045,853.95)" />
+         transform="translate(1048,569.3)" />
       <g
          id="stn_tQyleDdhHW"
-         transform="translate(356.8,831.8)">
+         transform="translate(237.9,554.5)">
         <g
-           id="g341">
+           id="g339">
           <g
              transform="rotate(-45)"
-             id="g338">
+             id="g336">
             <rect
                id="stn_core_stn_tQyleDdhHW"
                x="-2"
@@ -4336,43 +4316,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g339">
+               id="g337">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text338">东丰</text>
+                 id="text336">东丰</text>
             </g>
             <g
-               id="g340">
+               id="g338">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text339">동풍</text>
+                 id="text337">동풍</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text340">Dongfeng</text>
+                 id="text338">Dongfeng</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_DQJ1lXgI_I"
-         transform="translate(307.09,881.525)">
+         transform="translate(204.7,587.7)">
         <g
-           id="g345">
+           id="g343">
           <g
              transform="rotate(-45)"
-             id="g342">
+             id="g340">
             <rect
                id="stn_core_stn_DQJ1lXgI_I"
                x="-2"
@@ -4391,40 +4371,75 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g343">
+               id="g341">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text342">镇东</text>
+                 id="text340">镇东</text>
             </g>
             <g
-               id="g344">
+               id="g342">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text343">진동</text>
+                 id="text341">진동</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text344">Zhendong</text>
+                 id="text342">Zhendong</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_qmSBHqcS8C"
-         transform="translate(289.89,538.65)">
+         transform="translate(200,360.8)">
         <g
-           id="g347">
+           id="g345">
+          <rect
+             fill="#a6093d"
+             width="21"
+             height="22.67"
+             id="rect343"
+             x="0"
+             y="0" />
+          <text
+             font-family="Arial, sans-serif"
+             text-anchor="middle"
+             x="10"
+             y="19"
+             fill="#ffffff"
+             font-size="21.33px"
+             letter-spacing="-1.75"
+             id="text343">1</text>
+          <text
+             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+             x="23"
+             y="12"
+             font-size="14.67px"
+             id="text344">号线</text>
+          <text
+             font-family="Arial, sans-serif"
+             x="25"
+             y="21.5"
+             font-size="8px"
+             id="text345">Line 1</text>
+        </g>
+      </g>
+      <g
+         id="misc_node_YMZ66PP1ca"
+         transform="translate(1010.3,470.5)">
+        <g
+           id="g348">
           <rect
              fill="#a6093d"
              width="21"
@@ -4440,66 +4455,31 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text345">1</text>
+             id="text346">1</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text346">号线</text>
+             id="text347">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text347">Line 1</text>
-        </g>
-      </g>
-      <g
-         id="misc_node_YMZ66PP1ca"
-         transform="translate(1544.05,700.76)">
-        <g
-           id="g350">
-          <rect
-             fill="#a6093d"
-             width="21"
-             height="22.67"
-             id="rect347"
-             x="0"
-             y="0" />
-          <text
-             font-family="Arial, sans-serif"
-             text-anchor="middle"
-             x="10"
-             y="19"
-             fill="#ffffff"
-             font-size="21.33px"
-             letter-spacing="-1.75"
-             id="text348">1</text>
-          <text
-             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             x="23"
-             y="12"
-             font-size="14.67px"
-             id="text349">号线</text>
-          <text
-             font-family="Arial, sans-serif"
-             x="25"
-             y="21.5"
-             font-size="8px"
-             id="text350">Line 1</text>
+             id="text348">Line 1</text>
         </g>
       </g>
       <g
          id="misc_node_lry04_iOd0"
-         transform="translate(1543.47,732.06)">
+         transform="translate(1009.4,500.4)">
         <g
-           id="g353">
+           id="g351">
           <rect
              fill="#f2da51"
              width="21"
              height="22.67"
-             id="rect350"
+             id="rect348"
              x="0"
              y="0" />
           <text
@@ -4510,31 +4490,31 @@
              fill="#000000"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text351">3</text>
+             id="text349">3</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text352">号线</text>
+             id="text350">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text353">Line 3</text>
+             id="text351">Line 3</text>
         </g>
       </g>
       <g
          id="misc_node_t-KonE7oUO"
-         transform="translate(526.44,736.04)">
+         transform="translate(277.1,529.9)">
         <g
-           id="g356">
+           id="g354">
           <rect
              fill="#f2da51"
              width="21"
              height="22.67"
-             id="rect353"
+             id="rect351"
              x="0"
              y="0" />
           <text
@@ -4545,31 +4525,31 @@
              fill="#000000"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text354">3</text>
+             id="text352">3</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text355">号线</text>
+             id="text353">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text356">Line 3</text>
+             id="text354">Line 3</text>
         </g>
       </g>
       <g
          id="misc_node_ABriLoOq2K"
-         transform="translate(1090.98,285.48)">
+         transform="translate(706.6,182.5)">
         <g
-           id="g359">
+           id="g357">
           <rect
              fill="#009ace"
              width="21"
              height="22.67"
-             id="rect356"
+             id="rect354"
              x="0"
              y="0" />
           <text
@@ -4580,29 +4560,29 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text357">2</text>
+             id="text355">2</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text358">号线</text>
+             id="text356">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text359">Line 2</text>
+             id="text357">Line 2</text>
         </g>
       </g>
       <g
          id="misc_node_iBdKeivhOH"
-         transform="translate(187.5,1778.02)" />
+         transform="translate(125,1185.3)" />
       <g
          id="stn_YgkrmqCC18"
-         transform="translate(1054.68,2185.06)">
+         transform="translate(704.66,1455.14)">
         <g
-           id="g363">
+           id="g361">
           <circle
              id="stn_core_stn_YgkrmqCC18"
              r="5"
@@ -4620,43 +4600,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g360">
+               id="g358">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text360">明东火车站</text>
+                 id="text358">明东火车站</text>
             </g>
             <g
-               id="g362">
+               id="g360">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text361">명동기차역</text>
+                 id="text359">명동기차역</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text362">Mingdong Railway Station</text>
+                 id="text360">Mingdong Railway Station</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_NpUzDNyH0z"
-         transform="translate(1219.21,2020.53)">
+         transform="translate(813.11,1346.69)">
         <g
-           id="g367">
+           id="g365">
           <g
              transform="rotate(-45)"
-             id="g364">
+             id="g362">
             <rect
                id="stn_core_stn_NpUzDNyH0z"
                x="-2"
@@ -4675,43 +4655,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g365">
+               id="g363">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text364">南阳</text>
+                 id="text362">南阳</text>
             </g>
             <g
-               id="g366">
+               id="g364">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text365">남양</text>
+                 id="text363">남양</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text366">Nanyang</text>
+                 id="text364">Nanyang</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_rVAq1hq96f"
-         transform="translate(1145.79,2093.95)">
+         transform="translate(764.21,1395.59)">
         <g
-           id="g371">
+           id="g369">
           <g
              transform="rotate(-45)"
-             id="g368">
+             id="g366">
             <rect
                id="stn_core_stn_rVAq1hq96f"
                x="-2"
@@ -4730,48 +4710,89 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g369">
+               id="g367">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text368">英东</text>
+                 id="text366">英东</text>
             </g>
             <g
-               id="g370">
+               id="g368">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text369">영동</text>
+                 id="text367">영동</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text370">Yingdong</text>
+                 id="text368">Yingdong</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_LzX5_P_ZXN"
-         transform="translate(1155,275)" />
+         transform="translate(770,183.3)" />
       <g
          id="misc_node_v9TL_fc2wK"
-         transform="translate(240.6,948)" />
+         transform="translate(158.87,633.53)" />
       <g
          id="misc_node_1xJ_eNZGoj"
-         transform="translate(268.43,939.58)">
+         transform="translate(179,626.4)">
         <g
-           id="g373">
+           id="g371">
           <rect
              fill="#a6093d"
+             width="21"
+             height="22.67"
+             id="rect369"
+             x="0"
+             y="0" />
+          <text
+             font-family="Arial, sans-serif"
+             text-anchor="middle"
+             x="10"
+             y="19"
+             fill="#ffffff"
+             font-size="21.33px"
+             letter-spacing="-1.75"
+             id="text369">1</text>
+          <text
+             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+             x="23"
+             y="12"
+             font-size="14.67px"
+             id="text370">号线</text>
+          <text
+             font-family="Arial, sans-serif"
+             x="25"
+             y="21.5"
+             font-size="8px"
+             id="text371">Line 1</text>
+        </g>
+      </g>
+      <g
+         id="misc_node_r7BR0H8G9q"
+         transform="translate(261.85,947.55)" />
+      <g
+         id="misc_node_H9kgQi0_W-"
+         transform="translate(710.4,1479.1)" />
+      <g
+         id="misc_node_2ydaATQ7Iz"
+         transform="translate(184.3,947.2)">
+        <g
+           id="g374">
+          <rect
+             fill="#009ace"
              width="21"
              height="22.67"
              id="rect371"
@@ -4785,72 +4806,31 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text371">1</text>
+             id="text372">2</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text372">号线</text>
+             id="text373">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text373">Line 1</text>
-        </g>
-      </g>
-      <g
-         id="misc_node_r7BR0H8G9q"
-         transform="translate(388.04,1426.61)" />
-      <g
-         id="misc_node_H9kgQi0_W-"
-         transform="translate(1065.53,2218.69)" />
-      <g
-         id="misc_node_2ydaATQ7Iz"
-         transform="translate(307.28,1451.3)">
-        <g
-           id="g376">
-          <rect
-             fill="#009ace"
-             width="21"
-             height="22.67"
-             id="rect373"
-             x="0"
-             y="0" />
-          <text
-             font-family="Arial, sans-serif"
-             text-anchor="middle"
-             x="10"
-             y="19"
-             fill="#ffffff"
-             font-size="21.33px"
-             letter-spacing="-1.75"
-             id="text374">2</text>
-          <text
-             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             x="23"
-             y="12"
-             font-size="14.67px"
-             id="text375">号线</text>
-          <text
-             font-family="Arial, sans-serif"
-             x="25"
-             y="21.5"
-             font-size="8px"
-             id="text376">Line 2</text>
+             id="text374">Line 2</text>
         </g>
       </g>
       <g
          id="misc_node_S8DN1Zs5R7"
-         transform="translate(1109.84,1536.43)">
+         transform="translate(745.7,1029)">
         <g
-           id="g379">
+           id="g377">
           <rect
              fill="#4bbbb4"
              width="21"
              height="22.67"
-             id="rect376"
+             id="rect374"
              x="0"
              y="0" />
           <text
@@ -4861,31 +4841,31 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text377">4</text>
+             id="text375">4</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text378">号线</text>
+             id="text376">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text379">Line 4</text>
+             id="text377">Line 4</text>
         </g>
       </g>
       <g
          id="misc_node_KUxZBynPnS"
-         transform="translate(1105.69,2164.9)">
+         transform="translate(737.1,1443.3)">
         <g
-           id="g382">
+           id="g380">
           <rect
              fill="#4bbbb4"
              width="21"
              height="22.67"
-             id="rect379"
+             id="rect377"
              x="0"
              y="0" />
           <text
@@ -4896,32 +4876,32 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text380">4</text>
+             id="text378">4</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text381">号线</text>
+             id="text379">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text382">Line 4</text>
+             id="text380">Line 4</text>
         </g>
       </g>
       <g
          id="misc_node_bHC_yXXNI8"
-         transform="translate(490.59,188.25)" />
+         transform="translate(327.1,125.5)" />
       <g
          id="misc_node_Uxw6LzMV-4"
-         transform="translate(393.045,157.4)" />
+         transform="translate(262,104.9)" />
       <g
          id="stn_XDusR8a-E5"
-         transform="translate(528.285,672.5)">
+         transform="translate(352.2,448.3)">
         <g
-           id="g385">
+           id="g383">
           <circle
              id="stn_core_stn_XDusR8a-E5"
              r="5"
@@ -4939,33 +4919,33 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g383">
+               id="g381">
               <text
                  dy="-1"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text383" />
+                 id="text381" />
             </g>
             <g
-               id="g384">
+               id="g382">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text384" />
+                 id="text382" />
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_PwJPat2DkJ"
-         transform="translate(374.64,1439.455)">
+         transform="translate(249.8,959.6)">
         <g
-           id="g388">
+           id="g386">
           <circle
              id="stn_core_stn_PwJPat2DkJ"
              r="5"
@@ -4983,33 +4963,33 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g386">
+               id="g384">
               <text
                  dy="-1"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text385" />
+                 id="text383" />
             </g>
             <g
-               id="g387">
+               id="g385">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text386" />
+                 id="text384" />
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_Br77-cmWCH"
-         transform="translate(1043.29,2196.45)">
+         transform="translate(695.5,1464.3)">
         <g
-           id="g391">
+           id="g389">
           <circle
              id="stn_core_stn_Br77-cmWCH"
              r="5"
@@ -5027,35 +5007,35 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g389">
+               id="g387">
               <text
                  dy="-1"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text388" />
+                 id="text386" />
             </g>
             <g
-               id="g390">
+               id="g388">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text389" />
+                 id="text387" />
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_UNBv2koE8E"
-         transform="translate(728.235,1248.12)">
+         transform="translate(485.5,832.1)">
         <g
-           id="g393">
+           id="g391">
           <g
-             id="g392">
+             id="g390">
             <text
                dy="2"
                dx="0"
@@ -5067,30 +5047,30 @@
                fill="#007a60"
                font-style="normal"
                font-weight="normal"
-               id="text391">Mt. Mao'er</text>
+               id="text389">Mt. Mao'er</text>
           </g>
         </g>
       </g>
       <g
          id="misc_node_pQtmJcmzGD"
-         transform="translate(865.77,1400.205)" />
+         transform="translate(577.2,933.5)" />
       <g
          id="misc_node_bASmPRYabU"
-         transform="translate(1652.24,861.1)" />
+         transform="translate(1101.5,574.1)" />
       <g
          id="misc_node_Wy9D7-mFWf"
-         transform="translate(1280.865,1328.31)" />
+         transform="translate(853.9,885.5)" />
       <g
          id="misc_node_NmBo7astJ6"
-         transform="translate(187.5,1924.25)" />
+         transform="translate(125,1282.8)" />
       <g
          id="stn__o1Dbhf9wA"
-         transform="translate(555.72,1586.74)">
+         transform="translate(370.5,1057.8)">
         <g
-           id="g397">
+           id="g395">
           <g
              transform="rotate(90)"
-             id="g394">
+             id="g392">
             <rect
                id="stn_core_stn__o1Dbhf9wA"
                x="-2"
@@ -5109,43 +5089,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g395">
+               id="g393">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text394">龙丰</text>
+                 id="text392">龙丰</text>
             </g>
             <g
-               id="g396">
+               id="g394">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text395">룡풍</text>
+                 id="text393">룡풍</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text396">Longfeng</text>
+                 id="text394">Longfeng</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_T2Yp4IoItE"
-         transform="translate(555.72,1512.34)">
+         transform="translate(370.5,1008.2)">
         <g
-           id="g401">
+           id="g399">
           <g
              transform="rotate(90)"
-             id="g398">
+             id="g396">
             <rect
                id="stn_core_stn_T2Yp4IoItE"
                x="-2"
@@ -5164,43 +5144,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g399">
+               id="g397">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text398">龙池</text>
+                 id="text396">龙池</text>
             </g>
             <g
-               id="g400">
+               id="g398">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text399">룡지</text>
+                 id="text397">룡지</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text400">Longchi</text>
+                 id="text398">Longchi</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_DejcvqAieP"
-         transform="translate(555.72,1436.61)">
+         transform="translate(370.5,957.7)">
         <g
-           id="g405">
+           id="g403">
           <g
              transform="rotate(90)"
-             id="g402">
+             id="g400">
             <rect
                id="stn_core_stn_DejcvqAieP"
                x="-2"
@@ -5219,42 +5199,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g403">
+               id="g401">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text402">光新</text>
+                 id="text400">光新</text>
             </g>
             <g
-               id="g404">
+               id="g402">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text403">광신</text>
+                 id="text401">광신</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text404">Guangxin</text>
+                 id="text402">Guangxin</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_oh8Z4jsQxm"
-         transform="translate(618.29,1367.5)">
+         transform="translate(412.2,911.7)">
         <g
-           id="g409">
+           id="g407">
           <g
-             id="g406">
+             id="g404">
             <rect
                id="stn_core_stn_oh8Z4jsQxm"
                x="-2"
@@ -5273,42 +5253,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g407">
+               id="g405">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text406">足球产业园</text>
+                 id="text404">足球产业园</text>
             </g>
             <g
-               id="g408">
+               id="g406">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text407">축구산업원</text>
+                 id="text405">축구산업원</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text408">Football Industrial Park</text>
+                 id="text406">Football Industrial Park</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_5t5NUd8BQZ"
-         transform="translate(700.72,1367.5)">
+         transform="translate(467.1,911.7)">
         <g
-           id="g413">
+           id="g411">
           <g
-             id="g410">
+             id="g408">
             <rect
                id="stn_core_stn_5t5NUd8BQZ"
                x="-2"
@@ -5327,42 +5307,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g411">
+               id="g409">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text410">维新</text>
+                 id="text408">维新</text>
             </g>
             <g
-               id="g412">
+               id="g410">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text411">유신</text>
+                 id="text409">유신</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text412">Weixin</text>
+                 id="text410">Weixin</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_O3tKD6PEoU"
-         transform="translate(788.86,1367.5)">
+         transform="translate(525.9,911.7)">
         <g
-           id="g417">
+           id="g415">
           <g
-             id="g414">
+             id="g412">
             <rect
                id="stn_core_stn_O3tKD6PEoU"
                x="-2"
@@ -5381,42 +5361,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g415">
+               id="g413">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text414">凤林</text>
+                 id="text412">凤林</text>
             </g>
             <g
-               id="g416">
+               id="g414">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text415">봉림</text>
+                 id="text413">봉림</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text416">Fenglin</text>
+                 id="text414">Fenglin</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_31RGynQNM5"
-         transform="translate(879.26,1367.5)">
+         transform="translate(586.2,911.7)">
         <g
-           id="g421">
+           id="g419">
           <g
-             id="g418">
+             id="g416">
             <rect
                id="stn_core_stn_31RGynQNM5"
                x="-2"
@@ -5435,42 +5415,42 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g419">
+               id="g417">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text418">海兰台</text>
+                 id="text416">海兰台</text>
             </g>
             <g
-               id="g420">
+               id="g418">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text419">해란대</text>
+                 id="text417">해란대</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text420">Hailantai</text>
+                 id="text418">Hailantai</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_Vd9rPGgDjB"
-         transform="translate(964.25,1367.5)">
+         transform="translate(642.8,911.7)">
         <g
-           id="g425">
+           id="g423">
           <g
-             id="g422">
+             id="g420">
             <rect
                id="stn_core_stn_Vd9rPGgDjB"
                x="-2"
@@ -5489,43 +5469,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g423">
+               id="g421">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text422">渊背</text>
+                 id="text420">渊背</text>
             </g>
             <g
-               id="g424">
+               id="g422">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text423">연배</text>
+                 id="text421">연배</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text424">Yuanbei</text>
+                 id="text422">Yuanbei</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_vjjo_WkHaE"
-         transform="translate(1051.74,1426.61)">
+         transform="translate(701.2,951.1)">
         <g
-           id="g429">
+           id="g427">
           <g
              transform="rotate(-135)"
-             id="g426">
+             id="g424">
             <rect
                id="stn_core_stn_vjjo_WkHaE"
                x="-2"
@@ -5544,43 +5524,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g427">
+               id="g425">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text426">柳亭</text>
+                 id="text424">柳亭</text>
             </g>
             <g
-               id="g428">
+               id="g426">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text427">류정</text>
+                 id="text425">류정</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text428">Liuting</text>
+                 id="text426">Liuting</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_Kn8Rrq1vaO"
-         transform="translate(602.5,1737.5)">
+         transform="translate(405.78,1157.48)">
         <g
-           id="g433">
+           id="g431">
           <g
              transform="rotate(45)"
-             id="g430">
+             id="g428">
             <rect
                id="stn_core_stn_Kn8Rrq1vaO"
                x="-2"
@@ -5599,43 +5579,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g431">
+               id="g429">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text430">东山</text>
+                 id="text428">东山</text>
             </g>
             <g
-               id="g432">
+               id="g430">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text431">동산</text>
+                 id="text429">동산</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text432">Dongshan</text>
+                 id="text430">Dongshan</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_BKjHIMpjTb"
-         transform="translate(655.4,1790.4)">
+         transform="translate(440.98,1192.68)">
         <g
-           id="g437">
+           id="g435">
           <g
              transform="rotate(45)"
-             id="g434">
+             id="g432">
             <rect
                id="stn_core_stn_BKjHIMpjTb"
                x="-2"
@@ -5654,43 +5634,43 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g435">
+               id="g433">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text434">合成利</text>
+                 id="text432">合成利</text>
             </g>
             <g
-               id="g436">
+               id="g434">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text435">합성리</text>
+                 id="text433">합성리</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text436">Hechengli</text>
+                 id="text434">Hechengli</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="stn_2ylUnP4YNc"
-         transform="translate(753.88,1888.88)">
+         transform="translate(507.59,1259.19)">
         <g
-           id="g441">
+           id="g439">
           <g
              transform="rotate(45)"
-             id="g438">
+             id="g436">
             <rect
                id="stn_core_stn_2ylUnP4YNc"
                x="-2"
@@ -5709,43 +5689,78 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g439">
+               id="g437">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text438">新化</text>
+                 id="text436">新化</text>
             </g>
             <g
-               id="g440">
+               id="g438">
               <text
                  dy="1.5"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text439">신화</text>
+                 id="text437">신화</text>
               <text
                  dy="8.1700001"
                  dx="1.67"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text440">Xinhua</text>
+                 id="text438">Xinhua</text>
             </g>
           </g>
         </g>
       </g>
       <g
          id="misc_node_XegUhM3IPN"
-         transform="translate(762.09,1897.09)" />
+         transform="translate(513.1,1264.7)" />
       <g
          id="misc_node_RcMYX9vFp4"
-         transform="translate(1109.5,1505.52)">
+         transform="translate(743.8,995.5)">
         <g
-           id="g443">
+           id="g441">
+          <rect
+             fill="#7d55c7"
+             width="21"
+             height="22.67"
+             id="rect439"
+             x="0"
+             y="0" />
+          <text
+             font-family="Arial, sans-serif"
+             text-anchor="middle"
+             x="10"
+             y="19"
+             fill="#ffffff"
+             font-size="21.33px"
+             letter-spacing="-1.75"
+             id="text439">5</text>
+          <text
+             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+             x="23"
+             y="12"
+             font-size="14.67px"
+             id="text440">号线</text>
+          <text
+             font-family="Arial, sans-serif"
+             x="25"
+             y="21.5"
+             font-size="8px"
+             id="text441">Line 5</text>
+        </g>
+      </g>
+      <g
+         id="misc_node_FUZO4oCZk-"
+         transform="translate(523.9,1257.2)">
+        <g
+           id="g444">
           <rect
              fill="#7d55c7"
              width="21"
@@ -5761,66 +5776,31 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text441">5</text>
+             id="text442">5</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text442">号线</text>
+             id="text443">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text443">Line 5</text>
-        </g>
-      </g>
-      <g
-         id="misc_node_FUZO4oCZk-"
-         transform="translate(778.31,1885.81)">
-        <g
-           id="g446">
-          <rect
-             fill="#7d55c7"
-             width="21"
-             height="22.67"
-             id="rect443"
-             x="0"
-             y="0" />
-          <text
-             font-family="Arial, sans-serif"
-             text-anchor="middle"
-             x="10"
-             y="19"
-             fill="#ffffff"
-             font-size="21.33px"
-             letter-spacing="-1.75"
-             id="text444">5</text>
-          <text
-             font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-             x="23"
-             y="12"
-             font-size="14.67px"
-             id="text445">号线</text>
-          <text
-             font-family="Arial, sans-serif"
-             x="25"
-             y="21.5"
-             font-size="8px"
-             id="text446">Line 5</text>
+             id="text444">Line 5</text>
         </g>
       </g>
       <g
          id="misc_node_agy8jAYWiC"
-         transform="translate(522.13,620.95)">
+         transform="translate(355.4,414)">
         <g
-           id="g449">
+           id="g447">
           <rect
              fill="#ef426f"
              width="21"
              height="22.67"
-             id="rect446"
+             id="rect444"
              x="0"
              y="0" />
           <text
@@ -5831,31 +5811,31 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text447">6</text>
+             id="text445">6</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text448">号线</text>
+             id="text446">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text449">Line 6</text>
+             id="text447">Line 6</text>
         </g>
       </g>
       <g
          id="misc_node_0m4mPLkWGO"
-         transform="translate(381.7,175.23)">
+         transform="translate(254.5,116.8)">
         <g
-           id="g452">
+           id="g450">
           <rect
              fill="#ef426f"
              width="21"
              height="22.67"
-             id="rect449"
+             id="rect447"
              x="0"
              y="0" />
           <text
@@ -5866,56 +5846,78 @@
              fill="#ffffff"
              font-size="21.33px"
              letter-spacing="-1.75"
-             id="text450">6</text>
+             id="text448">6</text>
           <text
              font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
              x="23"
              y="12"
              font-size="14.67px"
-             id="text451">号线</text>
+             id="text449">号线</text>
           <text
              font-family="Arial, sans-serif"
              x="25"
              y="21.5"
              font-size="8px"
-             id="text452">Line 6</text>
+             id="text450">Line 6</text>
         </g>
       </g>
       <g
          id="misc_node_cPdXruDpMK"
-         transform="translate(1487.78,784.75)" />
+         transform="translate(991.9,523.2)" />
       <g
          id="misc_node_rPp20KK9KN"
-         transform="translate(1700,635)" />
+         transform="translate(1133.3,423.3)" />
       <g
          id="misc_node_hi4bsmYUBV"
-         transform="translate(576.83,1388.69)" />
+         transform="translate(384.6,925.8)" />
       <g
          id="line_4XJHwEhLGK">
         <path
-           d="m 1155,285 v 90"
+           d="m 770,190 v 60"
            fill="none"
            stroke="#009ace"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path450" />
+      </g>
+      <g
+         id="line_CX4ZGP3Dtp">
+        <path
+           d="M 341,458.3 H 285.3"
+           fill="none"
+           stroke="#a6093d"
+           stroke-width="5"
+           stroke-linecap="round"
+           cursor="pointer"
+           id="path451" />
+      </g>
+      <g
+         id="line_9I7CZttHDr">
+        <path
+           d="m 882,458.3 h 61.7"
+           fill="none"
+           stroke="#a6093d"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path452" />
       </g>
       <g
-         id="line_CX4ZGP3Dtp">
+         id="line_O5YdKIYSo9">
         <path
-           d="M 511.5,687.5 H 427.905"
+           d="m 882,582.5 h 61.7"
            fill="none"
-           stroke="#a6093d"
+           stroke="#f2da51"
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
            id="path453" />
       </g>
       <g
-         id="line_9I7CZttHDr">
+         id="line__zfliA5EGU">
         <path
-           d="m 1323,687.5 h 92.595"
+           d="M 285.3,458.3 H 256 c -5,0 -13.53553,-3.53553 -17.07107,-7.07107 L 211.4,423.7"
            fill="none"
            stroke="#a6093d"
            stroke-width="5"
@@ -5924,34 +5926,12 @@
            id="path454" />
       </g>
       <g
-         id="line_O5YdKIYSo9">
-        <path
-           d="m 1323,873.75 h 92.595"
-           fill="none"
-           stroke="#f2da51"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path455" />
-      </g>
-      <g
-         id="line__zfliA5EGU">
-        <path
-           d="M 427.905,687.5 H 379.18 c -5,0 -13.53553,-3.53553 -17.07107,-7.07107 L 317.17,635.49"
-           fill="none"
-           stroke="#a6093d"
-           stroke-width="5"
-           stroke-linecap="round"
-           cursor="pointer"
-           id="path456" />
-      </g>
-      <g
          id="stn_vuPX6lLYeX"
-         transform="translate(511.5,687.5)">
+         transform="translate(341,458.3)">
         <g
-           id="g460">
+           id="g458">
           <g
-             id="g456">
+             id="g454">
             <rect
                id="stn_core_stn_vuPX6lLYeX"
                x="-9"
@@ -5972,38 +5952,38 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g457">
+               id="g455">
               <text
-                 dy="-1"
+                 dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text456">延吉西站</text>
+                 id="text454">延吉西站</text>
             </g>
             <g
-               id="g459">
+               id="g457">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text457">연길서역</text>
+                 id="text455">연길서역</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text458">Yanji West</text>
+                 id="text456">Yanji West</text>
               <text
                  dy="14.84"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text459">Railway Station</text>
+                 id="text457">Railway Station</text>
             </g>
           </g>
         </g>
@@ -6011,7 +5991,7 @@
     </g>
   </g>
   <g
-     transform="matrix(1.9999997,0,0,1.9999997,1042.493,2203.653)"
+     transform="matrix(1.000007,0,0,1.000007,836.529,1506.924)"
      id="rmp_info-9"
      opacity="0.5">
     <g
@@ -6080,8 +6060,8 @@
      font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
      id="text282-0"
      style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:3.75;stroke-linejoin:round;paint-order:stroke"
-     x="1740.4829"
-     y="150.9677">图中距离不代表实际距离</text>
+     x="1182.6694"
+     y="105.23021">图中距离不代表实际距离</text>
   <text
      dy="-20.505024"
      dx="0"
@@ -6090,8 +6070,8 @@
      font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
      id="text283-4"
      style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:3.75;stroke-linejoin:round;paint-order:stroke"
-     x="1740.4829"
-     y="150.9677">仅作线路拓扑示意，不作为划界依据</text>
+     x="1182.6694"
+     y="105.23021">仅作线路拓扑示意，不作为划界依据</text>
   <text
      dy="-39.510044"
      dx="0"
@@ -6100,12 +6080,12 @@
      font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
      id="text284-9"
      style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:3.75;stroke-linejoin:round;paint-order:stroke"
-     x="1751.9891"
-     y="150.9677">注意：本图经过几何变形处理，</text>
+     x="1194.1757"
+     y="105.23021">注意：本图经过几何变形处理，</text>
   <g
      id="g286-4"
      style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:2.5;stroke-linejoin:round;paint-order:stroke"
-     transform="matrix(1.5000018,0,0,1.5000018,1740.483,150.96773)">
+     transform="matrix(1.5000018,0,0,1.5000018,1182.6696,105.23029)">
     <text
        dy="1.5"
        dx="0"
@@ -6125,7 +6105,7 @@
   </g>
   <g
      id="g288-2"
-     transform="matrix(2.4999801,0,0,2.4999801,159.38635,2309.7702)"
+     transform="matrix(2.4999801,0,0,2.4999801,97.42231,1566.8068)"
      style="text-anchor:start;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:round;paint-order:stroke">
     <text
        dy="-1"
@@ -6143,10 +6123,10 @@
      font-family="Arial, sans-serif"
      id="text288-4"
      style="text-anchor:start;stroke:#ffffff;stroke-width:6.24995;stroke-linejoin:round;paint-order:stroke"
-     x="154.80634"
-     y="2313.7703"><tspan
-       x="154.80634"
-       y="2313.7703"
+     x="92.842323"
+     y="1570.8069"><tspan
+       x="92.842323"
+       y="1570.8069"
        id="tspan467"
        style="stroke-width:6.24996">연변 궤도교통 배치도</tspan></text>
   <text
@@ -6157,11 +6137,11 @@
      font-family="Arial, sans-serif"
      id="text289-5"
      style="text-anchor:start;stroke:#ffffff;stroke-width:6.24995;stroke-linejoin:round;paint-order:stroke"
-     x="155.96631"
-     y="2313.7703">Yanbian Rail Transit Speculative Layout Map</text>
+     x="94.002289"
+     y="1570.8069">Yanbian Rail Transit Speculative Layout Map</text>
   <g
      id="stn_name_stn_iAtPqmql-f"
-     transform="matrix(1.5000421,0,0,1.5000421,1737.567,2335.8987)"
+     transform="matrix(1.5000421,0,0,1.5000421,1185.603,1586.9353)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
