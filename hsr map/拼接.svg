@@ -1998,7 +1998,7 @@
   </g>
   <g
      id="stn_name_stn_iAtPqmql-f"
-     transform="matrix(1.500044,0,0,1.500044,896.06221,1035.0475)"
+     transform="matrix(1.500044,0,0,1.500044,896.06221,1016.1729)"
      text-anchor="end"
      stroke-width="2.5"
      paint-order="stroke"
@@ -2007,12 +2007,21 @@
     <g
        id="g291">
       <text
-         dy="-1"
-         dx="0"
          dominant-baseline="auto"
          font-size="12.67px"
          font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text290">@Umamichi/Unnamed2964</text>
+         id="text290"
+         dy="0 0 0 0 0 0 -1"
+         dx="0 0 0 0 0 0 0"
+         style="line-height:13.9996px"><tspan
+           id="tspan17"
+           x="1.9073486e-06"
+           y="0"
+           style="line-height:13.9996px">v0.4.1</tspan><tspan
+           id="tspan15"
+           x="2.8610229e-06"
+           y="13.999599"
+           style="line-height:13.9996px">@Umamichi/Unnamed2964</tspan></text>
     </g>
     <g
        id="g292">
@@ -2025,4 +2034,44 @@
          id="text291" />
     </g>
   </g>
+  <g
+     id="stn_name_stn_WvD6aLIat5"
+     transform="matrix(0.75000536,0,0.14400529,0.75000536,180.54095,761.3855)"
+     text-anchor="middle"
+     stroke-width="2.5"
+     paint-order="stroke"
+     stroke="#ffffff"
+     stroke-linejoin="round">
+    <g
+       id="g3">
+      <text
+         dy="-1"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text2">（白头山天池）</text>
+      <text
+         dy="-13.67"
+         dx="0"
+         dominant-baseline="auto"
+         font-size="12.67px"
+         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+         id="text3">长白山天池</text>
+    </g>
+    <g
+       id="g4">
+      <text
+         dy="1.5"
+         dx="0"
+         dominant-baseline="hanging"
+         font-size="6.67px"
+         font-family="Arial, sans-serif"
+         id="text4" />
+    </g>
+  </g>
+  <path
+     style="opacity:1;fill:#0000ff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="m 167.70031,765.52357 -15.31592,26.52804 z"
+     id="path12" />
 </svg>
