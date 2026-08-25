@@ -6116,19 +6116,19 @@
        id="text287-5">延边轨道交通架空布局图</text>
   </g>
   <text
-     dy="3.7499702"
-     dx="4.1749663"
      dominant-baseline="hanging"
      font-size="16.6748px"
      font-family="Arial, sans-serif"
      id="text288-4"
      style="text-anchor:start;stroke:#ffffff;stroke-width:6.24995;stroke-linejoin:round;paint-order:stroke"
      x="92.842323"
-     y="1570.8069"><tspan
+     y="1570.8069"
+     dy="3.7499702"
+     dx="4.1749663"><tspan
        x="92.842323"
        y="1570.8069"
        id="tspan467"
-       style="stroke-width:6.24996">연변 궤도교통 배치도</tspan></text>
+       style="stroke-width:6.24996">연변 궤도교통 가상 배치도</tspan></text>
   <text
      dy="20.424837"
      dx="4.1749663"
