@@ -162,21 +162,23 @@
       "nameEnFixed": false,
       "osmNodeId": 0,
       "lngLat": [
-        129.46557148035419,
-        42.90460646974216
+        129.46540325785367,
+        42.90462773366383
       ],
       "displayPos": [
-        14411756.275706602,
-        5297696.767941852
+        14411073.596840154,
+        5297699.552173941
       ],
-      "isInterchange": false,
+      "isInterchange": true,
       "underConstruction": false,
       "proposed": false,
       "lineIds": [
-        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b"
+        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ],
       "transferLineIds": [
-        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b"
+        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ]
     },
     {
@@ -289,14 +291,16 @@
         14419170.178482778,
         5297736.530050091
       ],
-      "isInterchange": false,
+      "isInterchange": true,
       "underConstruction": false,
       "proposed": false,
       "lineIds": [
-        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b"
+        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ],
       "transferLineIds": [
-        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b"
+        "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ]
     },
     {
@@ -313,14 +317,16 @@
         14419134.706063822,
         5296133.11788813
       ],
-      "isInterchange": false,
+      "isInterchange": true,
       "underConstruction": false,
       "proposed": false,
       "lineIds": [
-        "line_42d5df75-940a-4034-9db5-2a2f2a44c649"
+        "line_42d5df75-940a-4034-9db5-2a2f2a44c649",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ],
       "transferLineIds": [
-        "line_42d5df75-940a-4034-9db5-2a2f2a44c649"
+        "line_42d5df75-940a-4034-9db5-2a2f2a44c649",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ]
     },
     {
@@ -409,14 +415,16 @@
         14413935.534601655,
         5300197.322905185
       ],
-      "isInterchange": false,
+      "isInterchange": true,
       "underConstruction": false,
       "proposed": false,
       "lineIds": [
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
+        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ],
       "transferLineIds": [
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
+        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734",
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
       ]
     },
     {
@@ -444,42 +452,18 @@
       ]
     },
     {
-      "id": "station_25459b53-8e3a-4bb3-a8a1-103eed4854e9",
-      "nameZh": "爱丹璐",
-      "nameEn": "Aidan Road",
-      "nameEnFixed": false,
-      "osmNodeId": 0,
-      "lngLat": [
-        129.5064928857189,
-        42.90965457651342
-      ],
-      "displayPos": [
-        14414316.365314364,
-        5298260.259242549
-      ],
-      "isInterchange": false,
-      "underConstruction": false,
-      "proposed": false,
-      "lineIds": [
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
-      ],
-      "transferLineIds": [
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
-      ]
-    },
-    {
       "id": "station_68f4ab93-aeba-4960-a6ff-93413f91e70e",
-      "nameZh": "军民路",
-      "nameEn": "Junmin Road",
+      "nameZh": "延边医院",
+      "nameEn": "Yanbian Hospital",
       "nameEnFixed": false,
       "osmNodeId": 0,
       "lngLat": [
-        129.50579312206628,
-        42.915007400028486
+        129.50591895515322,
+        42.91313354188634
       ],
       "displayPos": [
-        14414254.67071912,
-        5298802.553358677
+        14415878.254890602,
+        5298566.968342318
       ],
       "isInterchange": false,
       "underConstruction": false,
@@ -1004,16 +988,16 @@
     {
       "id": "station_1c87df38-9b83-4b01-883c-8108f6d39117",
       "nameZh": "金达莱广场",
-      "nameEn": "Jindalai Park",
+      "nameEn": "Jindalai Square",
       "nameEnFixed": false,
       "osmNodeId": 0,
       "lngLat": [
-        129.4677981386356,
-        42.889128420947515
+        129.46728289843116,
+        42.88918449226864
       ],
       "displayPos": [
-        14411357.599930208,
-        5296118.943477253
+        14411296.498846896,
+        5296124.661590013
       ],
       "isInterchange": false,
       "underConstruction": false,
@@ -1650,6 +1634,318 @@
       "transferLineIds": [
         "line_b1f5dd29-5957-4b34-88c7-54bed9ee929b"
       ]
+    },
+    {
+      "id": "station_ceb38645-3af0-442d-88c4-70c1ab8fc24c",
+      "nameZh": "友谊东路",
+      "nameEn": "East Youyi Road",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.52983218465886,
+        42.900811925165044
+      ],
+      "displayPos": [
+        14418714.066645414,
+        5297310.418784063
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_7c5ae894-5a4d-4ce7-b57b-f9032f5d0ac5",
+      "nameZh": "延吉市职业高中",
+      "nameEn": "Yanji Vocational High School",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.53093246671204,
+        42.9240517321073
+      ],
+      "displayPos": [
+        14418844.546419352,
+        5299680.397481482
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_edaa5a08-d8e5-454b-a45f-73e27afda424",
+      "nameZh": "延边广电",
+      "nameEn": "YBBC",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.52047497033288,
+        42.93026517171262
+      ],
+      "displayPos": [
+        14417604.417345572,
+        5300314.03955686
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_5a63def0-2709-418f-9216-55dde40caf6a",
+      "nameZh": "太平街",
+      "nameEn": "Taiping Street",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.5108139787676,
+        42.92994813518982
+      ],
+      "displayPos": [
+        14416458.743841393,
+        5300281.708401648
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_2e96bf9e-37fd-491b-a14f-773ef6dc0512",
+      "nameZh": "烟集街",
+      "nameEn": "Yanji Street",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.48741469762246,
+        42.927362020639634
+      ],
+      "displayPos": [
+        14413683.87997326,
+        5300017.978310936
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_f9a6e16b-14cd-447e-bc99-01c9059c8278",
+      "nameZh": "爱丹路",
+      "nameEn": "Aidan Road",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.52952634985576,
+        42.913239431007014
+      ],
+      "displayPos": [
+        14418677.798439588,
+        5298577.766838231
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_78c7ce92-1936-4079-9716-87b81e26f4ed",
+      "nameZh": "建工街",
+      "nameEn": "Jian'gong Street",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.51463407104978,
+        42.88286878489953
+      ],
+      "displayPos": [
+        14416911.75929862,
+        5295480.590322075
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_f58f9fd1-d6ef-47c0-a8b6-740e92856dfa",
+      "nameZh": "河南街",
+      "nameEn": "Henan Street",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.5025948908753,
+        42.88258961762489
+      ],
+      "displayPos": [
+        14415484.062188571,
+        5295452.121045392
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_9af6d6b0-fe49-4435-9227-78a5d9be56b4",
+      "nameZh": "延大街",
+      "nameEn": "Yanda Street",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.47615274442234,
+        42.92338179398021
+      ],
+      "displayPos": [
+        14412348.35232069,
+        5299612.077675997
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_e9758d84-ebe7-40ac-b13a-daf633f3cc55",
+      "nameZh": "园吉西路",
+      "nameEn": "West Yuanji Road",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.4680690841725,
+        42.913454826468836
+      ],
+      "displayPos": [
+        14411389.73070277,
+        5298599.732711584
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_e235171f-8408-427f-88fb-9f1540afb941",
+      "nameZh": "州政府南",
+      "nameEn": "Goverment of YCAP South",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.4655615855815,
+        42.89782271398039
+      ],
+      "displayPos": [
+        14411092.37254051,
+        5297005.581190218
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_17b7fbbc-2137-49c1-ac14-d23294023c6f",
+      "nameZh": "金达莱广场",
+      "nameEn": "Jindalai Square",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.46611221197554,
+        42.89067901143491
+      ],
+      "displayPos": [
+        14411157.669986024,
+        5296277.071573269
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
+    },
+    {
+      "id": "station_3cbc90b1-f0d6-47ed-b68b-4be7a25ee909",
+      "nameZh": "延吉火车站",
+      "nameEn": "Yanji Railway Station",
+      "nameEnFixed": false,
+      "osmNodeId": 0,
+      "lngLat": [
+        129.489844213968,
+        42.882746059570024
+      ],
+      "displayPos": [
+        14413971.990410607,
+        5295468.074881767
+      ],
+      "isInterchange": false,
+      "underConstruction": false,
+      "proposed": false,
+      "lineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "transferLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ]
     }
   ],
   "manualTransfers": [],
@@ -1825,8 +2121,8 @@
           42.90430122899821
         ],
         [
-          129.46557148035419,
-          42.90460646974216
+          129.46540325785367,
+          42.90462773366383
         ]
       ],
       "sharedByLineIds": [
@@ -2085,35 +2381,6 @@
       }
     },
     {
-      "id": "edge_3a15e394-95c1-42d2-86fe-42c6c88a2012",
-      "fromStationId": "station_25459b53-8e3a-4bb3-a8a1-103eed4854e9",
-      "toStationId": "station_a61ac5f6-d25e-4484-9e32-c55206935a34",
-      "waypoints": [
-        [
-          129.5064928857189,
-          42.90965457651342
-        ],
-        [
-          129.5074204899837,
-          42.90524699567672
-        ]
-      ],
-      "sharedByLineIds": [
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
-      ],
-      "lineStyleOverride": null,
-      "lengthMeters": 498.7584203074265,
-      "isCurved": false,
-      "openingYear": 2010,
-      "phase": "",
-      "lineTimeline": {
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734": {
-          "openingYear": 2010,
-          "phase": ""
-        }
-      }
-    },
-    {
       "id": "edge_27415a35-92be-4458-a9b9-8d9810d4a167",
       "fromStationId": "station_0dec78a1-d719-40c7-a8a1-40442b943e92",
       "toStationId": "station_68f4ab93-aeba-4960-a6ff-93413f91e70e",
@@ -2123,8 +2390,8 @@
           42.92013200786889
         ],
         [
-          129.50579312206628,
-          42.915007400028486
+          129.50591895515322,
+          42.91313354188634
         ]
       ],
       "sharedByLineIds": [
@@ -2132,31 +2399,6 @@
       ],
       "lineStyleOverride": null,
       "lengthMeters": 557.5478739137257,
-      "isCurved": false,
-      "openingYear": 2010,
-      "phase": "",
-      "lineTimeline": {
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734": {
-          "openingYear": 2010,
-          "phase": ""
-        }
-      }
-    },
-    {
-      "id": "edge_cc4ccc7c-6a09-4452-978b-1aaff3fe8eb6",
-      "fromStationId": "station_68f4ab93-aeba-4960-a6ff-93413f91e70e",
-      "toStationId": "station_25459b53-8e3a-4bb3-a8a1-103eed4854e9",
-      "waypoints": [
-        [
-          129.5064928857189,
-          42.90965457651342
-        ]
-      ],
-      "sharedByLineIds": [
-        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
-      ],
-      "lineStyleOverride": null,
-      "lengthMeters": 614.0890281230716,
       "isCurved": false,
       "openingYear": 2010,
       "phase": "",
@@ -2491,8 +2733,8 @@
       "toStationId": "station_7378a916-b14e-4c7b-8494-f3f6288e0c8c",
       "waypoints": [
         [
-          129.46557148035419,
-          42.90460646974216
+          129.46540325785367,
+          42.90462773366383
         ],
         [
           129.4748849919211,
@@ -2772,8 +3014,8 @@
           42.88762097063085
         ],
         [
-          129.47796433368887,
-          42.8900151392086
+          129.47492464399085,
+          42.889874480749114
         ]
       ],
       "sharedByLineIds": [
@@ -2797,12 +3039,12 @@
       "toStationId": "station_1c87df38-9b83-4b01-883c-8108f6d39117",
       "waypoints": [
         [
-          129.47796433368887,
-          42.8900151392086
+          129.47492464399085,
+          42.889874480749114
         ],
         [
-          129.4677981386356,
-          42.889128420947515
+          129.46728289843116,
+          42.88918449226864
         ]
       ],
       "sharedByLineIds": [
@@ -2826,12 +3068,12 @@
       "toStationId": "station_bfd14168-6495-4cb0-bf8b-4fae840256f7",
       "waypoints": [
         [
-          129.4677981386356,
-          42.889128420947515
+          129.46728289843116,
+          42.88918449226864
         ],
         [
-          129.4533960289752,
-          42.8884190371607
+          129.45102827068507,
+          42.88799706210361
         ]
       ],
       "sharedByLineIds": [
@@ -2855,8 +3097,8 @@
       "toStationId": "station_969d762e-0d36-4bde-8b75-4899463d013c",
       "waypoints": [
         [
-          129.4533960289752,
-          42.8884190371607
+          129.45102827068507,
+          42.88799706210361
         ],
         [
           129.44220111178606,
@@ -3827,6 +4069,560 @@
           "phase": ""
         }
       }
+    },
+    {
+      "id": "edge_abc43183-fbae-4208-8be7-b30946dbf8ae",
+      "fromStationId": "station_ceb38645-3af0-442d-88c4-70c1ab8fc24c",
+      "toStationId": "station_a2166d8c-1cd2-411a-abcf-cb8030517fb5",
+      "waypoints": [
+        [
+          129.52983218465886,
+          42.900811925165044
+        ],
+        [
+          129.52960955651486,
+          42.906404767868
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 622.857002945362,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_641a29c8-7b4b-4253-b630-2977837666ef",
+      "fromStationId": "station_7c5ae894-5a4d-4ce7-b57b-f9032f5d0ac5",
+      "toStationId": "station_edaa5a08-d8e5-454b-a45f-73e27afda424",
+      "waypoints": [
+        [
+          129.53093246671204,
+          42.9240517321073
+        ],
+        [
+          129.5301077506556,
+          42.92754714532248
+        ],
+        [
+          129.52648778011996,
+          42.929568755185244
+        ],
+        [
+          129.52047497033288,
+          42.93026517171262
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 805.1889117123372,
+      "isCurved": true,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_ecf83dfa-c075-4596-99d9-bbaf7ed1020d",
+      "fromStationId": "station_edaa5a08-d8e5-454b-a45f-73e27afda424",
+      "toStationId": "station_5a63def0-2709-418f-9216-55dde40caf6a",
+      "waypoints": [
+        [
+          129.52047497033288,
+          42.93026517171262
+        ],
+        [
+          129.5108139787676,
+          42.92994813518982
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 912.3643128145974,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_f0d377b0-3c55-4dba-8ee3-8b05a8c7c6c2",
+      "fromStationId": "station_5a63def0-2709-418f-9216-55dde40caf6a",
+      "toStationId": "station_c2d92441-b697-4da4-af53-553ae72ce533",
+      "waypoints": [
+        [
+          129.5108139787676,
+          42.92994813518982
+        ],
+        [
+          129.5021733583843,
+          42.92877475431948
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 716.2855028375521,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_e675eb79-8291-441f-bbd9-fc8b2ea7a023",
+      "fromStationId": "station_c2d92441-b697-4da4-af53-553ae72ce533",
+      "toStationId": "station_2e96bf9e-37fd-491b-a14f-773ef6dc0512",
+      "waypoints": [
+        [
+          129.5021733583843,
+          42.92877475431948
+        ],
+        [
+          129.48741469762246,
+          42.927362020639634
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1213.2023230254517,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_a5b2261a-609b-4906-b812-6a7710e5d666",
+      "fromStationId": "station_68f4ab93-aeba-4960-a6ff-93413f91e70e",
+      "toStationId": "station_a61ac5f6-d25e-4484-9e32-c55206935a34",
+      "waypoints": [
+        [
+          129.50591895515322,
+          42.91313354188634
+        ],
+        [
+          129.5074204899837,
+          42.90524699567672
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 886.4213537547962,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_df586a6d-7f7b-4ae6-82a0-dd53427d0734": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_060bda18-2cbc-4edd-9350-e19097ca95d5",
+      "fromStationId": "station_7c5ae894-5a4d-4ce7-b57b-f9032f5d0ac5",
+      "toStationId": "station_f9a6e16b-14cd-447e-bc99-01c9059c8278",
+      "waypoints": [
+        [
+          129.53093246671204,
+          42.9240517321073
+        ],
+        [
+          129.52952634985576,
+          42.913239431007014
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1133.5719346739495,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_862379cb-8408-4fc7-9617-a81425e18234",
+      "fromStationId": "station_a2166d8c-1cd2-411a-abcf-cb8030517fb5",
+      "toStationId": "station_f9a6e16b-14cd-447e-bc99-01c9059c8278",
+      "waypoints": [
+        [
+          129.52960955651486,
+          42.906404767868
+        ],
+        [
+          129.52952634985576,
+          42.913239431007014
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 703.814837822891,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_cdb3e6ab-a427-4fa3-918c-4b2f5c9659d5",
+      "fromStationId": "station_3f302076-107a-4cf6-8922-9a4191fa7cec",
+      "toStationId": "station_ceb38645-3af0-442d-88c4-70c1ab8fc24c",
+      "waypoints": [
+        [
+          129.53057773517912,
+          42.88927518441935
+        ],
+        [
+          129.52983218465886,
+          42.900811925165044
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1285.7025891706055,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_5faca9e2-e63c-475b-9ff2-919daa3c1650",
+      "fromStationId": "station_3f302076-107a-4cf6-8922-9a4191fa7cec",
+      "toStationId": "station_78c7ce92-1936-4079-9716-87b81e26f4ed",
+      "waypoints": [
+        [
+          129.53057773517912,
+          42.88927518441935
+        ],
+        [
+          129.52896364602248,
+          42.88489636120002
+        ],
+        [
+          129.51463407104978,
+          42.88286878489953
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1483.1515810993408,
+      "isCurved": true,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_588bc0e1-f610-4d5e-8870-9380742adc64",
+      "fromStationId": "station_78c7ce92-1936-4079-9716-87b81e26f4ed",
+      "toStationId": "station_f58f9fd1-d6ef-47c0-a8b6-740e92856dfa",
+      "waypoints": [
+        [
+          129.51463407104978,
+          42.88286878489953
+        ],
+        [
+          129.5025948908753,
+          42.88258961762489
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 982.5171768468255,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_0fd75305-0557-43d2-8b53-16b4bd15fa3c",
+      "fromStationId": "station_9af6d6b0-fe49-4435-9227-78a5d9be56b4",
+      "toStationId": "station_2e96bf9e-37fd-491b-a14f-773ef6dc0512",
+      "waypoints": [
+        [
+          129.47615274442234,
+          42.92338179398021
+        ],
+        [
+          129.48204576357574,
+          42.925911715716296
+        ],
+        [
+          129.48741469762246,
+          42.927362020639634
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1019.3270082925055,
+      "isCurved": true,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_c0579a7a-db88-4664-bcd6-e5dee13786c4",
+      "fromStationId": "station_9af6d6b0-fe49-4435-9227-78a5d9be56b4",
+      "toStationId": "station_e9758d84-ebe7-40ac-b13a-daf633f3cc55",
+      "waypoints": [
+        [
+          129.47615274442234,
+          42.92338179398021
+        ],
+        [
+          129.47187371199124,
+          42.92012803357986
+        ],
+        [
+          129.4680690841725,
+          42.913454826468836
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1430.6251010020335,
+      "isCurved": true,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_cd93a1c6-1eb8-48a2-a20f-638559436f6f",
+      "fromStationId": "station_e235171f-8408-427f-88fb-9f1540afb941",
+      "toStationId": "station_7f2b1375-129a-4c02-b080-6f1661f44d68",
+      "waypoints": [
+        [
+          129.4655615855815,
+          42.89782271398039
+        ],
+        [
+          129.46540325785367,
+          42.90462773366383
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 818.7329326750631,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_f6700c76-f8be-4b2e-8e3c-513a02db6a38",
+      "fromStationId": "station_7f2b1375-129a-4c02-b080-6f1661f44d68",
+      "toStationId": "station_e9758d84-ebe7-40ac-b13a-daf633f3cc55",
+      "waypoints": [
+        [
+          129.46540325785367,
+          42.90462773366383
+        ],
+        [
+          129.46589015223503,
+          42.90847138825433
+        ],
+        [
+          129.4680690841725,
+          42.913454826468836
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 907.2052330915137,
+      "isCurved": true,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_af34f1c1-f7d2-4b7e-b698-b70c8c3163a0",
+      "fromStationId": "station_e235171f-8408-427f-88fb-9f1540afb941",
+      "toStationId": "station_17b7fbbc-2137-49c1-ac14-d23294023c6f",
+      "waypoints": [
+        [
+          129.4655615855815,
+          42.89782271398039
+        ],
+        [
+          129.46611221197554,
+          42.89067901143491
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 786.9076504775293,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_0b5d3830-8db7-4658-9953-2b8f590ec9fd",
+      "fromStationId": "station_17b7fbbc-2137-49c1-ac14-d23294023c6f",
+      "toStationId": "station_3cbc90b1-f0d6-47ed-b68b-4be7a25ee909",
+      "waypoints": [
+        [
+          129.46611221197554,
+          42.89067901143491
+        ],
+        [
+          129.467866480008,
+          42.88827056536775
+        ],
+        [
+          129.4787352806079,
+          42.883163793751095
+        ],
+        [
+          129.489844213968,
+          42.882746059570024
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 2184.675979146735,
+      "isCurved": true,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
+    },
+    {
+      "id": "edge_d2bb5d9e-faa4-4da2-b839-3ffc15d0c993",
+      "fromStationId": "station_3cbc90b1-f0d6-47ed-b68b-4be7a25ee909",
+      "toStationId": "station_f58f9fd1-d6ef-47c0-a8b6-740e92856dfa",
+      "waypoints": [
+        [
+          129.489844213968,
+          42.882746059570024
+        ],
+        [
+          129.5025948908753,
+          42.88258961762489
+        ]
+      ],
+      "sharedByLineIds": [
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423"
+      ],
+      "lineStyleOverride": null,
+      "lengthMeters": 1040.2085807047115,
+      "isCurved": false,
+      "openingYear": 2010,
+      "phase": "",
+      "lineTimeline": {
+        "line_4de4cc68-04fd-46f2-9bbd-f3846c060423": {
+          "openingYear": 2010,
+          "phase": ""
+        }
+      }
     }
   ],
   "lines": [
@@ -3875,9 +4671,7 @@
         "edge_739f1bbe-ae89-4569-8188-3f9a927c5037",
         "edge_af741461-7b2b-4341-8351-f08599da7d2b",
         "edge_8177f362-f823-4d04-9ef2-e854c20cf220",
-        "edge_3a15e394-95c1-42d2-86fe-42c6c88a2012",
         "edge_27415a35-92be-4458-a9b9-8d9810d4a167",
-        "edge_cc4ccc7c-6a09-4452-978b-1aaff3fe8eb6",
         "edge_7fff2587-9cd4-4c9f-a24d-84c8938f5ca4",
         "edge_6a355e50-401f-4c0f-9456-efa98fb1d255",
         "edge_14e02e5d-40c2-4f79-aa50-0d452f101f34",
@@ -3895,7 +4689,8 @@
         "edge_1546aada-c7e6-4caa-b3eb-b5b6f407a1b6",
         "edge_afb738ac-c1dd-487a-8fb0-9d97cea15a61",
         "edge_bc9504ee-9a60-4fc8-afb0-2b79be5dc923",
-        "edge_075f176b-81fe-49f8-a40a-efbe11107576"
+        "edge_075f176b-81fe-49f8-a40a-efbe11107576",
+        "edge_a5b2261a-609b-4906-b812-6a7710e5d666"
       ]
     },
     {
@@ -3970,6 +4765,35 @@
       "edgeIds": [
         "edge_ee6b346e-109f-4fe8-8d12-f148c94649d3"
       ]
+    },
+    {
+      "id": "line_4de4cc68-04fd-46f2-9bbd-f3846c060423",
+      "key": "manual_1787684454699_6",
+      "nameZh": "9号线",
+      "nameEn": "Line 9",
+      "color": "#4A7729",
+      "status": "open",
+      "style": "metro",
+      "isLoop": false,
+      "edgeIds": [
+        "edge_abc43183-fbae-4208-8be7-b30946dbf8ae",
+        "edge_641a29c8-7b4b-4253-b630-2977837666ef",
+        "edge_ecf83dfa-c075-4596-99d9-bbaf7ed1020d",
+        "edge_f0d377b0-3c55-4dba-8ee3-8b05a8c7c6c2",
+        "edge_e675eb79-8291-441f-bbd9-fc8b2ea7a023",
+        "edge_060bda18-2cbc-4edd-9350-e19097ca95d5",
+        "edge_862379cb-8408-4fc7-9617-a81425e18234",
+        "edge_cdb3e6ab-a427-4fa3-918c-4b2f5c9659d5",
+        "edge_5faca9e2-e63c-475b-9ff2-919daa3c1650",
+        "edge_588bc0e1-f610-4d5e-8870-9380742adc64",
+        "edge_0fd75305-0557-43d2-8b53-16b4bd15fa3c",
+        "edge_c0579a7a-db88-4664-bcd6-e5dee13786c4",
+        "edge_cd93a1c6-1eb8-48a2-a20f-638559436f6f",
+        "edge_f6700c76-f8be-4b2e-8e3c-513a02db6a38",
+        "edge_af34f1c1-f7d2-4b7e-b698-b70c8c3163a0",
+        "edge_0b5d3830-8db7-4658-9953-2b8f590ec9fd",
+        "edge_d2bb5d9e-faa4-4da2-b839-3ffc15d0c993"
+      ]
     }
   ],
   "snapshots": [],
@@ -4011,8 +4835,8 @@
   "timelineYearDelays": [],
   "meta": {
     "createdAt": "2026-05-04T20:27:11.723Z",
-    "updatedAt": "2026-08-23T05:30:13.317Z",
+    "updatedAt": "2026-08-26T12:39:57.624Z",
     "hasAutoLayoutTriggered": false
   },
-  "exportedAt": "2026-08-23T05:30:19.656Z"
+  "exportedAt": "2026-08-26T12:40:02.441Z"
 }
