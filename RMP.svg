@@ -3,7 +3,7 @@
    id="canvas"
    height="2300"
    width="1627"
-   viewBox="130.42892 71.084831 1627 2299.9999"
+   viewBox="104.46283 -8.047081 1626.9999 2299.9999"
    version="1.1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -12,11 +12,11 @@
   <defs
      id="defs2" />
   <g
-     id="g460"
-     transform="translate(0,52)">
+     id="g478"
+     transform="translate(-26,-30)">
     <g
        data-editor-layer=""
-       id="g459">
+       id="g477">
       <g
          id="line_Cqa0q4tzQ6">
         <path
@@ -4403,7 +4403,7 @@
       </g>
       <g
          id="misc_node_qmSBHqcS8C"
-         transform="translate(300,541.2)">
+         transform="translate(227.04,606.02)">
         <g
            id="g345">
           <rect
@@ -4745,7 +4745,7 @@
          transform="translate(1155,277.55)" />
       <g
          id="misc_node_v9TL_fc2wK"
-         transform="translate(239.10794,949.49675)" />
+         transform="translate(239.1,949.5)" />
       <g
          id="misc_node_1xJ_eNZGoj"
          transform="translate(268.5,939.6)">
@@ -4789,7 +4789,7 @@
          transform="translate(1065.6,2218.65)" />
       <g
          id="misc_node_2ydaATQ7Iz"
-         transform="translate(409.8,1382.69)">
+         transform="translate(399,1386.29)">
         <g
            id="g374">
           <rect
@@ -4859,7 +4859,7 @@
       </g>
       <g
          id="misc_node_KUxZBynPnS"
-         transform="translate(1105.65,2164.95)">
+         transform="translate(1083.15,2182.05)">
         <g
            id="g380">
           <rect
@@ -5989,16 +5989,241 @@
           </g>
         </g>
       </g>
+      <g
+         id="misc_node_titleZhIRSlIEpkyQ"
+         transform="translate(156.6155,2237.8845)">
+        <g
+           id="g460">
+          <g
+             id="g459">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               stroke-width="2"
+               font-size="47.5121px"
+               text-anchor="start"
+               fill="#000000"
+               font-style="normal"
+               font-weight="normal"
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text458">延边轨道交通架空布局图</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_titleKoJIgiw3YT3Y"
+         transform="translate(156.6155,2270.3826)">
+        <g
+           id="g462">
+          <g
+             id="g461">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               font-family="Arial, sans-serif"
+               stroke-width="2"
+               font-size="25.0122px"
+               text-anchor="start"
+               fill="#000000"
+               font-style="normal"
+               font-weight="normal"
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text460">연변 궤도교통 가상 배치도</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_titleEnjtEzrytaPQ"
+         transform="translate(156.6155,2298.3826)">
+        <g
+           id="g464">
+          <g
+             id="g463">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               font-family="Arial, sans-serif"
+               stroke-width="2"
+               font-size="25.0122px"
+               text-anchor="start"
+               fill="#000000"
+               font-style="normal"
+               font-weight="normal"
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text462">Yanbian Rail Transit Speculative Layout Map</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeZh0xkXxGE20po"
+         transform="translate(1753.7457,66.2539)">
+        <g
+           id="g466">
+          <g
+             id="g465">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               class=""
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               font-size="28.5075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text464">注意：本图经过几何变形处理，</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeZh1xVentjX45i"
+         transform="translate(1736.4867,94.7614)">
+        <g
+           id="g468">
+          <g
+             id="g467">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               class=""
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               font-size="28.5075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text466">仅作线路拓扑示意，不作为划界依据</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeZh2X11UPNeu0S"
+         transform="translate(1736.4867,123.2689)">
+        <g
+           id="g470">
+          <g
+             id="g469">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               class=""
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               font-size="28.5075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text468">图中距离不代表实际距离</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeEn0BOWdkrDIZW"
+         transform="translate(1736.4868,128.8942)">
+        <g
+           id="g472">
+          <g
+             id="g471">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="hanging"
+               class=""
+               font-family="Arial, sans-serif"
+               font-size="15.0075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text470">Note: Geometrically distorted for schematic purposes only.</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeEn1XiFDfJ41GU"
+         transform="translate(1736.4868,143.9017)">
+        <g
+           id="g474">
+          <g
+             id="g473">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="hanging"
+               class=""
+               font-family="Arial, sans-serif"
+               font-size="15.0075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text472">Not for boundary demarcation. Distances are not to scale.</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_metaE6qjxk2dzW"
+         transform="translate(1734.8869,2268.0772)">
+        <g
+           id="g476">
+          <g
+             id="g475">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               stroke-width="2"
+               font-size="28.5083px"
+               text-anchor="end"
+               fill="#000000"
+               font-style="normal"
+               font-weight="normal"
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text474">v0.4.4</text>
+            <text
+               dy="33.5"
+               dx="0"
+               dominant-baseline="auto"
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               stroke-width="2"
+               font-size="28.5083px"
+               text-anchor="end"
+               fill="#000000"
+               font-style="normal"
+               font-weight="normal"
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text475">@Umamichi/Unnamed2964</text>
+          </g>
+        </g>
+      </g>
     </g>
   </g>
   <g
-     transform="translate(1382.1408,2228.0722)"
+     transform="translate(1360.5215,2156.9347)"
      id="rmp_info"
      opacity="0.5">
     <g
        transform="scale(0.1)"
        font-family="Arial, sans-serif"
-       id="g461">
+       id="g479">
       <rect
          width="341.29999"
          height="150"
@@ -6006,7 +6231,7 @@
          y="75"
          fill="#000000"
          rx="10"
-         id="rect460" />
+         id="rect478" />
       <text
          x="256"
          y="185"
@@ -6014,7 +6239,7 @@
          text-anchor="middle"
          fill="#ffffff"
          font-family="Arial, sans-serif"
-         id="text460">RMP</text>
+         id="text478">RMP</text>
       <line
          x1="0"
          y1="384"
@@ -6022,7 +6247,7 @@
          y2="384"
          stroke="#e3002b"
          stroke-width="80"
-         id="line460" />
+         id="line478" />
       <line
          x1="256"
          y1="384"
@@ -6030,7 +6255,7 @@
          y2="384"
          stroke="#82bf25"
          stroke-width="80"
-         id="line461" />
+         id="line479" />
       <circle
          cx="256"
          cy="384"
@@ -6038,144 +6263,19 @@
          fill="#ffffff"
          stroke="#000000"
          stroke-width="20"
-         id="circle461" />
+         id="circle479" />
     </g>
     <text
        font-family="Arial, sans-serif"
        font-size="32px"
        x="60"
        y="25"
-       id="text461">地铁线路图绘制器</text>
+       id="text479">地铁线路图绘制器</text>
     <text
        font-family="Arial, sans-serif"
        font-size="20px"
        x="60"
        y="50"
-       id="text462">https://railmapgen.org/?app=rmp</text>
-  </g>
-  <text
-     dy="-2.2500033"
-     dx="0"
-     dominant-baseline="auto"
-     font-size="28.5075px"
-     font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-     id="text282-0"
-     style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:5.625;stroke-linejoin:round;paint-order:stroke"
-     x="1736.4867"
-     y="177.51894">图中距离不代表实际距离</text>
-  <text
-     dy="-30.757544"
-     dx="0"
-     dominant-baseline="auto"
-     font-size="28.5075px"
-     font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-     id="text283-4"
-     style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:5.625;stroke-linejoin:round;paint-order:stroke"
-     x="1736.4867"
-     y="177.51894">仅作线路拓扑示意，不作为划界依据</text>
-  <text
-     dy="-59.265079"
-     dx="0"
-     dominant-baseline="auto"
-     font-size="28.5075px"
-     font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-     id="text284-9"
-     style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:5.625;stroke-linejoin:round;paint-order:stroke"
-     x="1753.7457"
-     y="177.51894">注意：本图经过几何变形处理，</text>
-  <g
-     id="g286-4"
-     style="text-anchor:end;fill:#ff0000;stroke:none;stroke-width:2.5;stroke-linejoin:round;paint-order:stroke"
-     transform="matrix(2.2500033,0,0,2.2500033,1736.4868,177.51922)">
-    <text
-       dy="1.5"
-       dx="0"
-       dominant-baseline="hanging"
-       font-size="6.67px"
-       font-family="Arial, sans-serif"
-       id="text285-8"
-       style="fill:#ff0000;stroke:none">Note: Geometrically distorted for schematic purposes only.</text>
-    <text
-       dy="8.1700001"
-       dx="0"
-       dominant-baseline="hanging"
-       font-size="6.67px"
-       font-family="Arial, sans-serif"
-       id="text286-8"
-       style="fill:#ff0000;stroke:none">Not for boundary demarcation. Distances are not to scale.</text>
-  </g>
-  <g
-     id="g288-2"
-     transform="matrix(3.7499711,0,0,3.7499711,156.61548,2289.8845)"
-     style="text-anchor:start;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:round;paint-order:stroke">
-    <text
-       dy="-1"
-       dx="0"
-       dominant-baseline="auto"
-       font-size="12.67px"
-       font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-       id="text287-5">延边轨道交通架空布局图</text>
-  </g>
-  <text
-     dominant-baseline="hanging"
-     font-size="25.0122px"
-     font-family="Arial, sans-serif"
-     id="text288-4"
-     style="text-anchor:start;stroke:#ffffff;stroke-width:9.37493;stroke-linejoin:round;paint-order:stroke"
-     x="149.74551"
-     y="2295.8843"
-     dy="5.6249566"
-     dx="6.2624512"><tspan
-       x="149.74551"
-       y="2295.8843"
-       id="tspan467"
-       style="stroke-width:9.37494">연변 궤도교통 가상 배치도</tspan></text>
-  <text
-     dy="30.637264"
-     dx="6.2624512"
-     dominant-baseline="hanging"
-     font-size="25.0122px"
-     font-family="Arial, sans-serif"
-     id="text289-5"
-     style="text-anchor:start;stroke:#ffffff;stroke-width:9.37493;stroke-linejoin:round;paint-order:stroke"
-     x="151.48538"
-     y="2295.8843">Yanbian Rail Transit Speculative Layout Map</text>
-  <g
-     id="stn_name_stn_iAtPqmql-f"
-     transform="matrix(2.2500637,0,0,2.2500637,1734.8869,2320.0772)"
-     text-anchor="end"
-     stroke-width="2.5"
-     paint-order="stroke"
-     stroke="#ffffff"
-     stroke-linejoin="round">
-    <g
-       id="g291-5">
-      <text
-         dominant-baseline="auto"
-         font-size="12.67px"
-         font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-         id="text290-1"
-         dy="0 0 0 0 0 0 -1"
-         dx="0 0 0 0 0 0 0"
-         style="line-height:13.9996px"><tspan
-           id="tspan17"
-           x="1.9073486e-06"
-           y="0"
-           style="line-height:13.9996px">v0.4.4</tspan><tspan
-           id="tspan15"
-           x="2.8610229e-06"
-           y="13.999599"
-           style="line-height:13.9996px">@Umamichi/Unnamed2964</tspan></text>
-    </g>
-    <g
-       id="g292-7">
-      <text
-         dy="1.5"
-         dx="0"
-         dominant-baseline="hanging"
-         font-size="6.67px"
-         font-family="Arial, sans-serif"
-         id="text291-5" />
-    </g>
+       id="text480">https://railmapgen.org/?app=rmp</text>
   </g>
 </svg>
