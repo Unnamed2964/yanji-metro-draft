@@ -3,7 +3,7 @@
    id="canvas"
    height="2300"
    width="1627"
-   viewBox="104.3121 -7.347641 1627 2300"
+   viewBox="104.24005 -7.758461 1627.0001 2299.9999"
    version="1.1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -12,11 +12,11 @@
   <defs
      id="defs2" />
   <g
-     id="g686"
-     transform="translate(-26,-32)">
+     id="g690"
+     transform="translate(-27.769388,-29.460402)">
     <g
        data-editor-layer=""
-       id="g685">
+       id="g689">
       <g
          id="line_Cqa0q4tzQ6">
         <path
@@ -8114,7 +8114,14 @@
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text622">도문강대교</text>
+                 id="text622">Tumen River Bridge</text>
+              <text
+                 dy="8.1700001"
+                 dx="1.67"
+                 dominant-baseline="hanging"
+                 font-size="6.67px"
+                 font-family="Arial, sans-serif"
+                 id="text623">두만강대교</text>
             </g>
           </g>
         </g>
@@ -8334,7 +8341,14 @@
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text639">Stn</text>
+                 id="text639">도문통상구</text>
+              <text
+                 dy="8.1700001"
+                 dx="0"
+                 dominant-baseline="hanging"
+                 font-size="6.67px"
+                 font-family="Arial, sans-serif"
+                 id="text640">Tumen Border Port</text>
             </g>
           </g>
         </g>
@@ -8451,6 +8465,61 @@
         </g>
       </g>
       <g
+         id="stn_7bh31_NfOS"
+         transform="translate(516.5,503.18)">
+        <g
+           id="g653">
+          <g
+             transform="rotate(90)"
+             id="g650">
+            <rect
+               id="stn_core_stn_7bh31_NfOS"
+               x="-2"
+               y="-7.8299999"
+               width="4"
+               height="7.8299999"
+               stroke="none"
+               fill="#ef426f" />
+          </g>
+          <g
+             id="stn_name_stn_7bh31_NfOS"
+             transform="translate(12)"
+             text-anchor="start"
+             stroke-width="2.5"
+             paint-order="stroke"
+             stroke="#ffffff"
+             stroke-linejoin="round">
+            <g
+               id="g651">
+              <text
+                 dy="-2"
+                 dx="0"
+                 dominant-baseline="auto"
+                 font-size="12.67px"
+                 font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+                 id="text650">武庙</text>
+            </g>
+            <g
+               id="g652">
+              <text
+                 dy="1.5"
+                 dx="1.67"
+                 dominant-baseline="hanging"
+                 font-size="6.67px"
+                 font-family="Arial, sans-serif"
+                 id="text651">무묘</text>
+              <text
+                 dy="8.1700001"
+                 dx="1.67"
+                 dominant-baseline="hanging"
+                 font-size="6.67px"
+                 font-family="Arial, sans-serif"
+                 id="text652">Wumiao</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
          id="line_4XJHwEhLGK">
         <path
            d="m 1095,285 v 90"
@@ -8459,7 +8528,7 @@
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
-           id="path649" />
+           id="path653" />
       </g>
       <g
          id="line_CX4ZGP3Dtp">
@@ -8470,7 +8539,7 @@
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
-           id="path650" />
+           id="path654" />
       </g>
       <g
          id="line_qenIt2bkpU">
@@ -8481,7 +8550,7 @@
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
-           id="path651" />
+           id="path655" />
       </g>
       <g
          id="line__zfliA5EGU">
@@ -8492,15 +8561,15 @@
            stroke-width="5"
            stroke-linecap="round"
            cursor="pointer"
-           id="path652" />
+           id="path656" />
       </g>
       <g
          id="stn_vuPX6lLYeX"
          transform="translate(511.5,687.45)">
         <g
-           id="g656">
+           id="g660">
           <g
-             id="g652">
+             id="g656">
             <rect
                id="stn_core_stn_vuPX6lLYeX"
                x="-10"
@@ -8521,38 +8590,38 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g653">
+               id="g657">
               <text
                  dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text652">延吉西站</text>
+                 id="text656">延吉西站</text>
             </g>
             <g
-               id="g655">
+               id="g659">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text653">연길서역</text>
+                 id="text657">연길서역</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text654">Yanji West</text>
+                 id="text658">Yanji West</text>
               <text
                  dy="14.84"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text655">Railway Station</text>
+                 id="text659">Railway Station</text>
             </g>
           </g>
         </g>
@@ -8561,9 +8630,9 @@
          id="stn_EGQQ1TAabV"
          transform="translate(1615.95,687.45)">
         <g
-           id="g660">
+           id="g664">
           <g
-             id="g657">
+             id="g661">
             <rect
                id="stn_core_stn_EGQQ1TAabV"
                x="-6.5"
@@ -8584,31 +8653,31 @@
              stroke="#ffffff"
              stroke-linejoin="round">
             <g
-               id="g658">
+               id="g662">
               <text
                  dy="-2"
                  dx="0"
                  dominant-baseline="auto"
                  font-size="12.67px"
                  font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-                 id="text657">溪洞火车站</text>
+                 id="text661">溪洞火车站</text>
             </g>
             <g
-               id="g659">
+               id="g663">
               <text
                  dy="1.5"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text658">계동기차역</text>
+                 id="text662">계동기차역</text>
               <text
                  dy="8.1700001"
                  dx="0"
                  dominant-baseline="hanging"
                  font-size="6.67px"
                  font-family="Arial, sans-serif"
-                 id="text659">Xidong Railway Station</text>
+                 id="text663">Xidong Railway Station</text>
             </g>
           </g>
         </g>
@@ -8617,9 +8686,9 @@
          id="misc_node_titleZhIRSlIEpkyQ"
          transform="translate(156.6155,2237.8845)">
         <g
-           id="g662">
+           id="g666">
           <g
-             id="g661">
+             id="g665">
             <text
                dy="2"
                dx="0"
@@ -8634,63 +8703,13 @@
                paint-order="stroke"
                stroke="#ffffff"
                stroke-linejoin="round"
-               id="text660">延边轨道交通架空布局图</text>
+               id="text664">延边轨道交通架空布局图</text>
           </g>
         </g>
       </g>
       <g
          id="misc_node_titleKoJIgiw3YT3Y"
          transform="translate(156.6155,2270.3826)">
-        <g
-           id="g664">
-          <g
-             id="g663">
-            <text
-               dy="2"
-               dx="0"
-               dominant-baseline="auto"
-               font-family="Arial, sans-serif"
-               stroke-width="2"
-               font-size="25.0122px"
-               text-anchor="start"
-               fill="#000000"
-               font-style="normal"
-               font-weight="normal"
-               paint-order="stroke"
-               stroke="#ffffff"
-               stroke-linejoin="round"
-               id="text662">연변 궤도교통 가상 배치도</text>
-          </g>
-        </g>
-      </g>
-      <g
-         id="misc_node_titleEnjtEzrytaPQ"
-         transform="translate(156.6155,2298.3826)">
-        <g
-           id="g666">
-          <g
-             id="g665">
-            <text
-               dy="2"
-               dx="0"
-               dominant-baseline="auto"
-               font-family="Arial, sans-serif"
-               stroke-width="2"
-               font-size="25.0122px"
-               text-anchor="start"
-               fill="#000000"
-               font-style="normal"
-               font-weight="normal"
-               paint-order="stroke"
-               stroke="#ffffff"
-               stroke-linejoin="round"
-               id="text664">Yanbian Rail Transit Speculative Layout Map</text>
-          </g>
-        </g>
-      </g>
-      <g
-         id="misc_node_noticeZh0xkXxGE20po"
-         transform="translate(1753.7457,66.2539)">
         <g
            id="g668">
           <g
@@ -8699,20 +8718,23 @@
                dy="2"
                dx="0"
                dominant-baseline="auto"
-               class=""
-               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-               font-size="28.5075px"
-               text-anchor="end"
-               fill="#ff0000"
+               font-family="Arial, sans-serif"
+               stroke-width="2"
+               font-size="25.0122px"
+               text-anchor="start"
+               fill="#000000"
                font-style="normal"
                font-weight="normal"
-               id="text666">注意：本图经过几何变形处理，</text>
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text666">연변 궤도교통 가상 배치도</text>
           </g>
         </g>
       </g>
       <g
-         id="misc_node_noticeZh1xVentjX45i"
-         transform="translate(1736.4867,94.7614)">
+         id="misc_node_titleEnjtEzrytaPQ"
+         transform="translate(156.6155,2298.3826)">
         <g
            id="g670">
           <g
@@ -8721,20 +8743,23 @@
                dy="2"
                dx="0"
                dominant-baseline="auto"
-               class=""
-               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
-               font-size="28.5075px"
-               text-anchor="end"
-               fill="#ff0000"
+               font-family="Arial, sans-serif"
+               stroke-width="2"
+               font-size="25.0122px"
+               text-anchor="start"
+               fill="#000000"
                font-style="normal"
                font-weight="normal"
-               id="text668">仅作线路拓扑示意，不作为划界依据</text>
+               paint-order="stroke"
+               stroke="#ffffff"
+               stroke-linejoin="round"
+               id="text668">Yanbian Rail Transit Speculative Layout Map</text>
           </g>
         </g>
       </g>
       <g
-         id="misc_node_noticeZh2X11UPNeu0S"
-         transform="translate(1736.4867,123.2689)">
+         id="misc_node_noticeZh0xkXxGE20po"
+         transform="translate(1753.7457,66.2539)">
         <g
            id="g672">
           <g
@@ -8750,13 +8775,13 @@
                fill="#ff0000"
                font-style="normal"
                font-weight="normal"
-               id="text670">图中距离不代表实际距离</text>
+               id="text670">注意：本图经过几何变形处理，</text>
           </g>
         </g>
       </g>
       <g
-         id="misc_node_noticeEn0BOWdkrDIZW"
-         transform="translate(1736.4868,128.8942)">
+         id="misc_node_noticeZh1xVentjX45i"
+         transform="translate(1736.4867,94.7614)">
         <g
            id="g674">
           <g
@@ -8764,25 +8789,47 @@
             <text
                dy="2"
                dx="0"
-               dominant-baseline="hanging"
+               dominant-baseline="auto"
                class=""
-               font-family="Arial, sans-serif"
-               font-size="15.0075px"
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               font-size="28.5075px"
                text-anchor="end"
                fill="#ff0000"
                font-style="normal"
                font-weight="normal"
-               id="text672">Note: Geometrically distorted for schematic purposes only.</text>
+               id="text672">仅作线路拓扑示意，不作为划界依据</text>
           </g>
         </g>
       </g>
       <g
-         id="misc_node_noticeEn1XiFDfJ41GU"
-         transform="translate(1736.4868,143.9017)">
+         id="misc_node_noticeZh2X11UPNeu0S"
+         transform="translate(1736.4867,123.2689)">
         <g
            id="g676">
           <g
              id="g675">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="auto"
+               class=""
+               font-family="SimHei, 'STHeiti T0C', 'PingFang SC', sans-serif"
+               font-size="28.5075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text674">图中距离不代表实际距离</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeEn0BOWdkrDIZW"
+         transform="translate(1736.4868,128.8942)">
+        <g
+           id="g678">
+          <g
+             id="g677">
             <text
                dy="2"
                dx="0"
@@ -8794,7 +8841,29 @@
                fill="#ff0000"
                font-style="normal"
                font-weight="normal"
-               id="text674">Not for boundary demarcation. Distances are not to scale.</text>
+               id="text676">Note: Geometrically distorted for schematic purposes only.</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="misc_node_noticeEn1XiFDfJ41GU"
+         transform="translate(1736.4868,143.9017)">
+        <g
+           id="g680">
+          <g
+             id="g679">
+            <text
+               dy="2"
+               dx="0"
+               dominant-baseline="hanging"
+               class=""
+               font-family="Arial, sans-serif"
+               font-size="15.0075px"
+               text-anchor="end"
+               fill="#ff0000"
+               font-style="normal"
+               font-weight="normal"
+               id="text678">Not for boundary demarcation. Distances are not to scale.</text>
           </g>
         </g>
       </g>
@@ -8802,9 +8871,9 @@
          id="misc_node_metaE6qjxk2dzW"
          transform="translate(1734.8869,2268.0772)">
         <g
-           id="g678">
+           id="g682">
           <g
-             id="g677">
+             id="g681">
             <text
                dy="2"
                dx="0"
@@ -8819,7 +8888,7 @@
                paint-order="stroke"
                stroke="#ffffff"
                stroke-linejoin="round"
-               id="text676">v0.5.2</text>
+               id="text680">v0.5.3</text>
             <text
                dy="33.5"
                dx="0"
@@ -8834,7 +8903,7 @@
                paint-order="stroke"
                stroke="#ffffff"
                stroke-linejoin="round"
-               id="text677">@Umamichi/Unnamed2964</text>
+               id="text681">@Umamichi/Unnamed2964</text>
           </g>
         </g>
       </g>
@@ -8842,9 +8911,9 @@
          id="misc_node_QqsIeSlMyC"
          transform="translate(1248.01,1392.43)">
         <g
-           id="g680">
+           id="g684">
           <g
-             id="g679">
+             id="g683">
             <text
                dy="2"
                dx="0"
@@ -8859,7 +8928,7 @@
                paint-order="stroke"
                stroke="#ffffff"
                stroke-linejoin="round"
-               id="text678">7号线东段</text>
+               id="text682">7号线东段</text>
           </g>
         </g>
       </g>
@@ -8867,9 +8936,9 @@
          id="misc_node_R1rFefPeR0"
          transform="translate(1248.01,1410.4)">
         <g
-           id="g682">
+           id="g686">
           <g
-             id="g681">
+             id="g685">
             <text
                dy="2"
                dx="0"
@@ -8884,7 +8953,7 @@
                paint-order="stroke"
                stroke="#ffffff"
                stroke-linejoin="round"
-               id="text680">7호선 동단</text>
+               id="text684">7호선 동단</text>
           </g>
         </g>
       </g>
@@ -8892,9 +8961,9 @@
          id="misc_node_PXsYblrCOr"
          transform="translate(1248.01,1424.93)">
         <g
-           id="g684">
+           id="g688">
           <g
-             id="g683">
+             id="g687">
             <text
                dy="2"
                dx="0"
@@ -8909,20 +8978,20 @@
                paint-order="stroke"
                stroke="#ffffff"
                stroke-linejoin="round"
-               id="text682">Line 7 East Section</text>
+               id="text686">Line 7 East Section</text>
           </g>
         </g>
       </g>
     </g>
   </g>
   <g
-     transform="translate(1355.2876,2150.9347)"
+     transform="translate(1355.8612,2153.3629)"
      id="rmp_info"
      opacity="0.5">
     <g
        transform="scale(0.1)"
        font-family="Arial, sans-serif"
-       id="g687">
+       id="g691">
       <rect
          width="341.29999"
          height="150"
@@ -8930,7 +8999,7 @@
          y="75"
          fill="#000000"
          rx="10"
-         id="rect686" />
+         id="rect690" />
       <text
          x="256"
          y="185"
@@ -8938,7 +9007,7 @@
          text-anchor="middle"
          fill="#ffffff"
          font-family="Arial, sans-serif"
-         id="text686">RMP</text>
+         id="text690">RMP</text>
       <line
          x1="0"
          y1="384"
@@ -8946,7 +9015,7 @@
          y2="384"
          stroke="#e3002b"
          stroke-width="80"
-         id="line686" />
+         id="line690" />
       <line
          x1="256"
          y1="384"
@@ -8954,7 +9023,7 @@
          y2="384"
          stroke="#82bf25"
          stroke-width="80"
-         id="line687" />
+         id="line691" />
       <circle
          cx="256"
          cy="384"
@@ -8962,19 +9031,19 @@
          fill="#ffffff"
          stroke="#000000"
          stroke-width="20"
-         id="circle687" />
+         id="circle691" />
     </g>
     <text
        font-family="Arial, sans-serif"
        font-size="32px"
        x="60"
        y="25"
-       id="text687">地铁线路图绘制器</text>
+       id="text691">地铁线路图绘制器</text>
     <text
        font-family="Arial, sans-serif"
        font-size="20px"
        x="60"
        y="50"
-       id="text688">https://railmapgen.org/?app=rmp</text>
+       id="text692">https://railmapgen.org/?app=rmp</text>
   </g>
 </svg>
