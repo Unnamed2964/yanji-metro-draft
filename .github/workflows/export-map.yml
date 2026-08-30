@@ -1,0 +1,28 @@
+name: Export map
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Release version (e.g. 0.6.3)
+        required: true
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Export via RMP
+        uses: Unnamed2964/rmp-export-action@v0
+        with:
+          config: rmp-release.yml
+          version: ${{ inputs.version }}
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: map-exports
+          path: |
+            RMP.svg
+            RMP.webp

@@ -17,6 +17,18 @@ Rail Map Painter（RMP）导出本项目制作的线路图 SVG 时，站名通�
 - Python 3.6 及以上
 - 无第三方依赖
 
+## 自动化导出
+
+仓库根目录通过 [rmp-export-action](https://github.com/Unnamed2964/rmp-export-action) 一键导出（含本脚本步骤）：
+
+```powershell
+npm install
+npm run export -- --version 0.6.3
+npm run verify-export
+```
+
+导出后处理顺序：RMP 导出 SVG → 按 `crop` 修改根 `viewBox`（等效 Inkscape 改画幅）→ 水印 reposition → 本脚本抬升中文站名 → 栅格化 webp。
+
 ## 用法
 
 在仓库根目录执行。

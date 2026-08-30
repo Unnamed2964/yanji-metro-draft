@@ -1,0 +1,12 @@
+{
+  "name": "yanji-rail-transit-fiction",
+  "private": true,
+  "scripts": {
+    "export": "rmp-export --config rmp-release.yml",
+    "verify-export": "python3 scripts/verify_rmp_export.py",
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "rmp-export-action": "github:Unnamed2964/rmp-export-action#v0.1.3"
+  }
+}

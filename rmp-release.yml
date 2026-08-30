@@ -1,0 +1,37 @@
+placeholders:
+  version: "%version%"
+  datetime: "%datetime%"
+
+acceptRmpExportTermsForRef: rmp-6.0.22
+
+rmp:
+  repository: https://github.com/railmapgen/rmp.git
+  ref: rmp-6.0.22
+
+defaults:
+  scale: 2.0
+  whiteBackground: true
+
+exports:
+  - id: metro
+    source: RMP.json
+    outputs:
+      svg: RMP.svg
+      webp: RMP.webp
+    postProcess:
+      hooks:
+        - type: command
+          run: python3 scripts/adjust_zh_dy.py RMP.svg
+    # Crop: rewrite root <svg> viewBox on the RMP export (same effect as Inkscape canvas resize).
+    # x/y include Inkscape translate(-28.137749, -30.94818) compensation: viewBox += (-tx, -ty).
+    crop:
+      x: 131.9
+      y: 22.7
+      width: 1627.0
+      height: 2300.0
+    watermark:
+      anchor: bottom-right
+      # inset: viewBox edge → watermark bbox edge (positive = margin inside frame)
+      inset:
+        x: 27
+        y: 87
