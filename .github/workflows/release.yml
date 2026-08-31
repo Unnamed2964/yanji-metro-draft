@@ -1,0 +1,68 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve version
+        id: version
+        run: echo "number=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+
+      - name: Export via RMP
+        uses: Unnamed2964/rmp-export-action@v0
+        with:
+          config: rmp-release.yml
+          version: ${{ steps.version.outputs.number }}
+
+      - name: Prepare release assets
+        run: cp "hsr map/拼接.webp" "拼接.webp"
+
+      - name: Build release notes
+        env:
+          TAG: ${{ github.ref_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          PREV=$(git tag -l 'v[0-9]*' --sort=-v:refname | grep -v "^${TAG}$" | head -1)
+          if [ -z "$PREV" ]; then
+            CHANGELOG_URL="https://github.com/${REPO}/releases/tag/${TAG}"
+          else
+            CHANGELOG_URL="https://github.com/${REPO}/compare/${PREV}...${TAG}"
+          fi
+
+          if [ -z "$PREV" ] || git diff "${PREV}..${TAG}" -- 'hsr map/' | grep -q .; then
+            HSR_LABEL="高铁："
+          else
+            HSR_LABEL="高铁（未改动）："
+          fi
+
+          ASSET_BASE="https://github.com/${REPO}/releases/download/${TAG}"
+          {
+            echo "**Full Changelog**: ${CHANGELOG_URL}"
+            echo ""
+            echo "地铁："
+            echo "<img width=\"3254\" height=\"4600\" alt=\"RMP\" src=\"${ASSET_BASE}/RMP.webp\" />"
+            echo ""
+            echo "${HSR_LABEL}"
+            echo "<img width=\"2716\" height=\"3841\" alt=\"拼接\" src=\"${ASSET_BASE}/拼接.webp\" />"
+          } > release-body.md
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ github.ref_name }}
+          body_path: release-body.md
+          files: |
+            RMP.webp
+            拼接.webp
