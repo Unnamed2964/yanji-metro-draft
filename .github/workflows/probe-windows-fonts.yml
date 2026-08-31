@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Probe Chinese language pack and fonts
+      - name: Probe Chinese supplemental fonts
         shell: pwsh
         run: ./scripts/probe-windows-cjk-fonts.ps1
 

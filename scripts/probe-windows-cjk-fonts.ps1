@@ -1,7 +1,12 @@
-# Probe Chinese language capabilities and CJK fonts on Windows (CI or local).
+# Probe Chinese supplemental fonts on Windows (CI or local).
 # Usage: pwsh -File scripts/probe-windows-cjk-fonts.ps1
+#
+# Installs "Chinese (Simplified) Supplemental Fonts" capability:
+#   Language.Fonts.Hans~~~und-HANS~0.0.1.0  (SimHei, DengXian, FangSong, KaiTi)
 
 $ErrorActionPreference = "Continue"
+
+$HansSupplementalFontsCapability = "Language.Fonts.Hans~~~und-HANS~0.0.1.0"
 
 $TargetFontFiles = @(
     "msyh.ttc",
@@ -24,6 +29,8 @@ $TargetFamilyPatterns = @(
     "SimSun",
     "宋体",
     "DengXian",
+    "FangSong",
+    "KaiTi",
     "Microsoft JhengHei",
     "PingFang",
     "Noto Sans CJK"
@@ -32,6 +39,15 @@ $TargetFamilyPatterns = @(
 function Write-Section($Title) {
     Write-Host ""
     Write-Host "=== $Title ==="
+}
+
+function New-StepResult($Step, $Status, $Detail, $ElapsedSec = $null) {
+    [PSCustomObject]@{
+        Step = $Step
+        Status = $Status
+        Detail = $Detail
+        ElapsedSec = if ($null -ne $ElapsedSec) { [math]::Round($ElapsedSec, 1) } else { $null }
+    }
 }
 
 function Get-FontFileReport {
@@ -71,91 +87,63 @@ function Get-FontFamilyReport {
     $matched
 }
 
-function Install-ChineseCapabilities {
-    $results = @()
+function Get-FontCapabilitiesReport {
     if (-not (Get-Command Get-WindowsCapability -ErrorAction SilentlyContinue)) {
-        return @([PSCustomObject]@{
-            Step = "Get-WindowsCapability"
-            Status = "skipped"
-            Detail = "Cmdlet not available on this OS"
-        })
+        return @()
     }
-
     try {
-        $caps = Get-WindowsCapability -Online |
-            Where-Object { $_.Name -match "zh-CN|zh-Hans|Chinese" -and $_.State -ne "Installed" }
+        return Get-WindowsCapability -Online -Name "*Fonts*" | ForEach-Object {
+            [PSCustomObject]@{
+                Name = $_.Name
+                State = $_.State
+                DisplayName = $_.DisplayName
+                Description = $_.Description
+            }
+        }
     } catch {
-        return @([PSCustomObject]@{
-            Step = "Get-WindowsCapability"
-            Status = "error"
-            Detail = $_.Exception.Message
-        })
+        Write-Host "Get-WindowsCapability *Fonts* failed: $($_.Exception.Message)"
+        return @()
     }
-
-    Write-Host "Available zh-CN / Chinese capabilities to install:"
-    $caps | ForEach-Object { Write-Host "  $($_.Name) [$($_.State)]" }
-
-    foreach ($cap in $caps) {
-        Write-Host "Installing: $($cap.Name) ..."
-        try {
-            $out = Add-WindowsCapability -Online -Name $cap.Name
-            $results += [PSCustomObject]@{
-                Step = $cap.Name
-                Status = "ok"
-                Detail = "RestartNeeded=$($out.RestartNeeded)"
-            }
-        } catch {
-            $results += [PSCustomObject]@{
-                Step = $cap.Name
-                Status = "error"
-                Detail = $_.Exception.Message
-            }
-        }
-    }
-
-    if (-not $caps) {
-        $results += [PSCustomObject]@{
-            Step = "Add-WindowsCapability"
-            Status = "skipped"
-            Detail = "No pending zh-CN capabilities"
-        }
-    }
-
-    return $results
 }
 
-function Install-ChineseLanguage {
-    if (-not (Get-Command Install-Language -ErrorAction SilentlyContinue)) {
-        return [PSCustomObject]@{
-            Step = "Install-Language"
-            Status = "skipped"
-            Detail = "Cmdlet not available"
-        }
+function Install-CapabilityIfNeeded($Name, $Label) {
+    if (-not (Get-Command Add-WindowsCapability -ErrorAction SilentlyContinue)) {
+        return New-StepResult $Label "skipped" "Add-WindowsCapability not available"
     }
 
     try {
-        $lang = Get-InstalledLanguage | Where-Object { $_.Language -eq "zh-Hans-CN" }
-        if ($lang) {
-            return [PSCustomObject]@{
-                Step = "Install-Language zh-Hans-CN"
-                Status = "skipped"
-                Detail = "Already installed"
-            }
-        }
-        Write-Host "Running Install-Language zh-Hans-CN ..."
-        Install-Language zh-Hans-CN -CopyToSettings -ErrorAction Stop
-        return [PSCustomObject]@{
-            Step = "Install-Language zh-Hans-CN"
-            Status = "ok"
-            Detail = "Completed"
-        }
+        $cap = Get-WindowsCapability -Online -Name $Name | Select-Object -First 1
     } catch {
-        return [PSCustomObject]@{
-            Step = "Install-Language zh-Hans-CN"
-            Status = "error"
-            Detail = $_.Exception.Message
-        }
+        return New-StepResult $Label "error" $_.Exception.Message
     }
+
+    if (-not $cap) {
+        return New-StepResult $Label "skipped" "Capability not found: $Name"
+    }
+
+    Write-Host "$Label [$($cap.State)]"
+    Write-Host "  Name: $($cap.Name)"
+    if ($cap.DisplayName) { Write-Host "  DisplayName: $($cap.DisplayName)" }
+    if ($cap.Description) { Write-Host "  Description: $($cap.Description)" }
+
+    if ($cap.State -eq "Installed") {
+        return New-StepResult $Label "skipped" "Already installed"
+    }
+
+    $sw = [System.Diagnostics.Stopwatch]::StartNew()
+    Write-Host "Installing $Label ..."
+    try {
+        $out = Add-WindowsCapability -Online -Name $cap.Name
+        $sw.Stop()
+        return New-StepResult $Label "ok" "RestartNeeded=$($out.RestartNeeded)" $sw.Elapsed.TotalSeconds
+    } catch {
+        $sw.Stop()
+        return New-StepResult $Label "error" $_.Exception.Message $sw.Elapsed.TotalSeconds
+    }
+}
+
+function Install-SupplementalHansFonts {
+    Install-CapabilityIfNeeded $HansSupplementalFontsCapability "Chinese (Simplified) Supplemental Fonts"
 }
 
 Write-Section "Environment"
@@ -176,13 +164,20 @@ Write-Section "All installed families matching Hei / Sun / YaHei / Sim / 黑 / �
 Add-Type -AssemblyName System.Drawing
 $allFamilies = (New-Object System.Drawing.Text.InstalledFontCollection).Families.Name
 $allFamilies | Where-Object {
-    $_ -match "Hei|Sun|YaHei|Sim|黑|宋|雅|Deng|Jheng|PingFang|Noto"
+    $_ -match "Hei|Sun|YaHei|Sim|黑|宋|雅|Deng|Jheng|PingFang|Noto|FangSong|KaiTi"
 } | Sort-Object | ForEach-Object { Write-Host "  $_" }
 
-Write-Section "Install Chinese language / capabilities"
+Write-Section "Font capabilities on system (*Fonts*)"
+$fontCaps = Get-FontCapabilitiesReport
+if ($fontCaps) {
+    $fontCaps | Format-Table Name, State, DisplayName -AutoSize
+} else {
+    Write-Host "(none listed or cmdlet unavailable)"
+}
+
+Write-Section "Install Chinese (Simplified) Supplemental Fonts"
 $installResults = @()
-$installResults += Install-ChineseCapabilities
-$installResults += Install-ChineseLanguage
+$installResults += Install-SupplementalHansFonts
 $installResults | Format-Table -AutoSize
 
 Write-Section "Font files AFTER (no reboot)"
@@ -204,18 +199,19 @@ $simheiFamily = ($familyReport | Where-Object {
     $_.Pattern -in @("SimHei", "黑体")
 }).Families -notcontains "(none)"
 
-Write-Host "msyh.ttc present:        $yaheiFile"
-Write-Host "simhei.ttf present:      $simheiFile"
+Write-Host "msyh.ttc present:        $yaheiFile  (YaHei is NOT in Supplemental Fonts FOD)"
+Write-Host "simhei.ttf present:      $simheiFile  (expected from Supplemental Fonts FOD)"
 Write-Host "YaHei family (any):      $yaheiFamily"
 Write-Host "SimHei / 黑体 family:    $simheiFamily"
 
 $reportPath = Join-Path $PWD "probe-windows-fonts-report.txt"
 @(
     "OS: $([System.Environment]::OSVersion.VersionString)",
+    "Hans supplemental capability: $HansSupplementalFontsCapability",
     "msyh.ttc: $yaheiFile",
     "simhei.ttf: $simheiFile",
-    "Microsoft YaHei family: $yaheiFamily",
-    "SimHei family: $simheiFamily",
+    "YaHei family: $yaheiFamily",
+    "SimHei / 黑体 family: $simheiFamily",
     "",
     "Install results:",
     ($installResults | Format-Table -AutoSize | Out-String),
@@ -230,9 +226,11 @@ if ($env:GITHUB_STEP_SUMMARY) {
     $summary = @(
         "## Windows CJK font probe",
         "",
+        "Install: **Chinese (Simplified) Supplemental Fonts** (`Language.Fonts.Hans~~~und-HANS~0.0.1.0`) — SimHei, DengXian, FangSong, KaiTi.",
+        "",
         "| Check | Result |",
         "|-------|--------|",
-        "| msyh.ttc | $yaheiFile |",
+        "| msyh.ttc (YaHei) | $yaheiFile |",
         "| simhei.ttf | $simheiFile |",
         "| YaHei family | $yaheiFamily |",
         "| SimHei / 黑体 family | $simheiFamily |",
