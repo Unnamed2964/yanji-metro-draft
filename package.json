@@ -7,6 +7,6 @@
     "postinstall": "playwright install chromium"
   },
   "dependencies": {
-    "rmp-export-action": "github:Unnamed2964/rmp-export-action#v0.2.0"
+    "rmp-export-action": "github:Unnamed2964/rmp-export-action#v0.2.1"
   }
 }
