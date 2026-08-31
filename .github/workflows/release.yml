@@ -27,7 +27,7 @@ jobs:
           version: ${{ steps.version.outputs.number }}
 
       - name: Prepare release assets
-        run: cp "hsr map/拼接.webp" "拼接.webp"
+        run: cp "hsr map/拼接.webp" hsr.webp
 
       - name: Build release notes
         env:
@@ -55,7 +55,7 @@ jobs:
             echo "<img width=\"3254\" height=\"4600\" alt=\"RMP\" src=\"${ASSET_BASE}/RMP.webp\" />"
             echo ""
             echo "${HSR_LABEL}"
-            echo "<img width=\"2716\" height=\"3841\" alt=\"拼接\" src=\"${ASSET_BASE}/拼接.webp\" />"
+            echo "<img width=\"2716\" height=\"3841\" alt=\"拼接\" src=\"${ASSET_BASE}/hsr.webp\" />"
           } > release-body.md
 
       - name: Create GitHub Release
@@ -65,4 +65,4 @@ jobs:
           body_path: release-body.md
           files: |
             RMP.webp
-            拼接.webp
+            hsr.webp
