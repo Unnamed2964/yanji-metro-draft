@@ -1,5 +1,7 @@
 # 延吉都市圈轨道交通架空草案
 
+[![rmp-export-action](https://img.shields.io/github/v/release/Unnamed2964/rmp-export-action?label=rmp-export-action)](https://github.com/Unnamed2964/rmp-export-action)
+
 本仓库是一则关于延吉及附近地区的**架空**轨道交通规划草案。本项目并不旨在于指导任何现实建设。
 
 线路图查看：
